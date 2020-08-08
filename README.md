@@ -1,0 +1,1 @@
+# My-Simple-theme-for-OpenCore
