@@ -34,7 +34,6 @@
 
 ### My theme Dark-Badge
 ![Dark-Badge](https://user-images.githubusercontent.com/6248794/90162171-3ab9a580-dd62-11ea-9c68-db9bfd29ae42.png)
-![Dark-Badge 2](https://user-images.githubusercontent.com/6248794/90162448-a26ff080-dd62-11ea-82a2-66889aca0abb.png)
-![Dark-Badge 3](https://user-images.githubusercontent.com/6248794/90162641-f4b11180-dd62-11ea-826f-671f3b61cdf3.png)
+![Dark-Badge 2](https://user-images.githubusercontent.com/6248794/90162448-a26ff080-dd62-11ea-82a2-66889aca0abb.png)![Dark-Badge 3](https://user-images.githubusercontent.com/6248794/90162641-f4b11180-dd62-11ea-826f-671f3b61cdf3.png)
 
 
