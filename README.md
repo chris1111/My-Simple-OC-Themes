@@ -30,7 +30,8 @@
 
 ### My theme OC-Blues
 ![OC-Blues](https://user-images.githubusercontent.com/6248794/89947156-07580900-dbf2-11ea-94be-e4ade0c4aca2.png)
-![Select](https://user-images.githubusercontent.com/6248794/89947197-117a0780-dbf2-11ea-9852-643e8908f84f.png)![Reset](https://user-images.githubusercontent.com/6248794/89951536-9ddbf880-dbf9-11ea-922e-b8f5aa92fa88.png)
+![Select](https://user-images.githubusercontent.com/6248794/89947197-117a0780-dbf2-11ea-9852-643e8908f84f.png)
+![Reset](https://user-images.githubusercontent.com/6248794/89951536-9ddbf880-dbf9-11ea-922e-b8f5aa92fa88.png)
 
 ### My theme Dark-Badge
 ![Dark-Badge](https://user-images.githubusercontent.com/6248794/90162171-3ab9a580-dd62-11ea-9c68-db9bfd29ae42.png)
