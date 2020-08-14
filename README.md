@@ -39,4 +39,5 @@
 
 ### OC-Gold
 ![OC-Gold](https://user-images.githubusercontent.com/6248794/90274155-14f9d280-de2e-11ea-8a14-d9e5dc42f1f7.png)
+![OC-Gold 2](https://user-images.githubusercontent.com/6248794/90274281-4bcfe880-de2e-11ea-93ca-0346432575f7.png)
 
