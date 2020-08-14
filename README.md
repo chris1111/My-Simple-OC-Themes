@@ -1,5 +1,5 @@
 ### My-Simple-theme-for-OpenCore
-- All themes in 144 pixels for 4K resolution screen
+- Update 14 August 2020 All themes in 144 pixels for 4K resolution screen, rename somes resources.
 
 ### Dark-Low
 ![Dark-Low](https://user-images.githubusercontent.com/6248794/89733192-c9a48600-da21-11ea-878f-fafc03bffca9.png)
