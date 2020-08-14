@@ -34,7 +34,6 @@
 ### Dark-Badge
 ![Dark-Badge](https://user-images.githubusercontent.com/6248794/90162171-3ab9a580-dd62-11ea-9c68-db9bfd29ae42.png)
 ![90162448-a26ff080-dd62-11ea-82a2-66889aca0abb copie](https://user-images.githubusercontent.com/6248794/90171008-dbae5d80-dd6e-11ea-9faa-9d9848d188a7.png)
-![90162448-a26ff080-dd62-11ea-82a2-66889aca0abb](https://user-images.githubusercontent.com/6248794/90171012-dc46f400-dd6e-11ea-96b0-61b79e6df1f0.png)
 
 ### OC-Gold
 ![OC-Gold](https://user-images.githubusercontent.com/6248794/90274155-14f9d280-de2e-11ea-8a14-d9e5dc42f1f7.png)
