@@ -36,6 +36,7 @@
 ![90162448-a26ff080-dd62-11ea-82a2-66889aca0abb copie](https://user-images.githubusercontent.com/6248794/90171008-dbae5d80-dd6e-11ea-9faa-9d9848d188a7.png)
 
 ### OC-Gold
-![OC-Gold](https://user-images.githubusercontent.com/6248794/90274155-14f9d280-de2e-11ea-8a14-d9e5dc42f1f7.png)
-![90274281-4bcfe880-de2e-11ea-93ca-0346432575f7](https://user-images.githubusercontent.com/6248794/90282403-48dbf480-de3c-11ea-9a4a-364d97f1d36f.png)
+![Glod](https://user-images.githubusercontent.com/6248794/90294781-46d25f80-de55-11ea-9310-3f12cd14741c.png)
+![Glod 2](https://user-images.githubusercontent.com/6248794/90294794-4b971380-de55-11ea-8a92-ab9a55ac6d5e.png)
+
 
