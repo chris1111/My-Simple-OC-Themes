@@ -24,8 +24,6 @@
 ![White 2](https://user-images.githubusercontent.com/6248794/89841210-63faeb80-db40-11ea-9ad0-e88cfc4041a3.png)
 
 ### OC-Blue
-
-### OC-Blue
 ![OC-Blue](https://user-images.githubusercontent.com/6248794/89831362-b7167380-db2b-11ea-89fa-64c550dab495.png)
 ![blue 2](https://user-images.githubusercontent.com/6248794/89841255-7c6b0600-db40-11ea-9750-404aaee6025a.png)
 
