@@ -21,27 +21,22 @@
 
 ### OC-White
 ![OC-White](https://user-images.githubusercontent.com/6248794/89827471-a4993b80-db25-11ea-8408-a26345d79a54.png)
-![White 2](https://user-images.githubusercontent.com/6248794/89841210-63faeb80-db40-11ea-9ad0-e88cfc4041a3.png)
 
 ### OC-Blue
 ![OC-Blue](https://user-images.githubusercontent.com/6248794/89831362-b7167380-db2b-11ea-89fa-64c550dab495.png)
-![blue 2](https://user-images.githubusercontent.com/6248794/89841255-7c6b0600-db40-11ea-9750-404aaee6025a.png)
 
 ### OC-Blues
 ![OC-Blues](https://user-images.githubusercontent.com/6248794/89947156-07580900-dbf2-11ea-94be-e4ade0c4aca2.png)
-![Select](https://user-images.githubusercontent.com/6248794/89947197-117a0780-dbf2-11ea-9852-643e8908f84f.png)
 
 ### Dark-Badge
 ![Dark-Badge](https://user-images.githubusercontent.com/6248794/90162171-3ab9a580-dd62-11ea-9c68-db9bfd29ae42.png)
-![90162448-a26ff080-dd62-11ea-82a2-66889aca0abb copie](https://user-images.githubusercontent.com/6248794/90171008-dbae5d80-dd6e-11ea-9faa-9d9848d188a7.png)
 
 ### OC-Gold
 ![Glod](https://user-images.githubusercontent.com/6248794/90294781-46d25f80-de55-11ea-9310-3f12cd14741c.png)
-![Glod 2](https://user-images.githubusercontent.com/6248794/90294794-4b971380-de55-11ea-8a92-ab9a55ac6d5e.png)
 
 ### OC-MacPro
 ![macpro](https://user-images.githubusercontent.com/6248794/90303784-fa9c1500-de7e-11ea-8963-ed9bd201154c.png)
-![macpro 2](https://user-images.githubusercontent.com/6248794/90303783-fa037e80-de7e-11ea-9ca4-959926d703bc.png)
+
 
 
 
