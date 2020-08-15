@@ -40,6 +40,9 @@
 ![Glod 2](https://user-images.githubusercontent.com/6248794/90294794-4b971380-de55-11ea-8a92-ab9a55ac6d5e.png)
 
 ### OC-MacPro
+![macpro](https://user-images.githubusercontent.com/6248794/90303784-fa9c1500-de7e-11ea-8963-ed9bd201154c.png)
+![macpro 2](https://user-images.githubusercontent.com/6248794/90303783-fa037e80-de7e-11ea-9ca4-959926d703bc.png)
+
 
 
 
