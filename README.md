@@ -37,6 +37,9 @@
 ### OC-MacPro
 ![macpro](https://user-images.githubusercontent.com/6248794/90303784-fa9c1500-de7e-11ea-8963-ed9bd201154c.png)
 
+### Light-Slim
+![LightSlim](https://user-images.githubusercontent.com/6248794/90313256-146a4600-ded9-11ea-995b-54b511c1697f.png)
+
 
 
 
