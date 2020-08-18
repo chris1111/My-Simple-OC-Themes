@@ -40,6 +40,9 @@
 ### Light-Slim
 ![LightSlim](https://user-images.githubusercontent.com/6248794/90313256-146a4600-ded9-11ea-995b-54b511c1697f.png)
 
+### Black-Slim
+![Black-Slim](https://user-images.githubusercontent.com/6248794/90528329-7c6e9580-e140-11ea-9a7e-bb8a00641c25.png)
+
 
 
 
