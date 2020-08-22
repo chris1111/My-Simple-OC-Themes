@@ -53,9 +53,9 @@
 
 </details>
 
-### All themes availabl on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
+### All themes available on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
 
-### All Themes is also availlable in the HTML page ➤ [Slide Show](https://www.hackintosh-montreal.com/h40-my-simple-themes)
+### All Themes is also available in the HTML page ➤ [Slide Show](https://www.hackintosh-montreal.com/h40-my-simple-themes)
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
 
 
