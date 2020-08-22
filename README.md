@@ -44,6 +44,10 @@
 ![Black-Slim](https://user-images.githubusercontent.com/6248794/90528329-7c6e9580-e140-11ea-9a7e-bb8a00641c25.png)
 
 
+### All Themes is also availlable in the HTML page ➤ [Slide Show](https://www.hackintosh-montreal.com/h40-my-simple-themes)
+- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
+
+
 
 
 
