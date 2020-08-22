@@ -4,7 +4,7 @@
 
 - Update 14 August 2020 All themes in 144 pixels for 4K resolution screen, rename somes resources.
 
-![post-](https://user-images.githubusercontent.com/6248794/90955121-c1e4d880-e448-11ea-9c75-52847374fd5b.gif) See Spoiler
+![post-](https://user-images.githubusercontent.com/6248794/90955121-c1e4d880-e448-11ea-9c75-52847374fd5b.gif) See Spoiler!
 <details> 
   <summary>View Themes</summary>
 
