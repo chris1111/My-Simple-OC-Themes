@@ -1,5 +1,15 @@
 ### My-Simple-theme-for-OpenCore
+
+<img width="512" alt="AppIcon" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
+
 - Update 14 August 2020 All themes in 144 pixels for 4K resolution screen, rename somes resources.
+
+![post-](https://user-images.githubusercontent.com/6248794/90955121-c1e4d880-e448-11ea-9c75-52847374fd5b.gif)
+## My Simple Themes:
+<details> 
+  <summary>View list  </summary>
+
+### All themes availabl on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
 
 ### Dark-Low
 ![Dark-Low](https://user-images.githubusercontent.com/6248794/89733192-c9a48600-da21-11ea-878f-fafc03bffca9.png)
@@ -43,6 +53,7 @@
 ### Black-Slim
 ![Black-Slim](https://user-images.githubusercontent.com/6248794/90528329-7c6e9580-e140-11ea-9a7e-bb8a00641c25.png)
 
+</details>
 
 ### All Themes is also availlable in the HTML page ➤ [Slide Show](https://www.hackintosh-montreal.com/h40-my-simple-themes)
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
