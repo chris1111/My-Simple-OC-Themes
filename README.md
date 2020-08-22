@@ -1,6 +1,6 @@
 ### My-Simple-theme-for-OpenCore
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
 </p>
 
 <img width="512" alt="AppIcon" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
