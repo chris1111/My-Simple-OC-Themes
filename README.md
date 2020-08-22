@@ -5,9 +5,8 @@
 - Update 14 August 2020 All themes in 144 pixels for 4K resolution screen, rename somes resources.
 
 ![post-](https://user-images.githubusercontent.com/6248794/90955121-c1e4d880-e448-11ea-9c75-52847374fd5b.gif)
-## My Simple Themes:
 <details> 
-  <summary>View list  </summary>
+  <summary>View Themes</summary>
 
 ### All themes availabl on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
 
