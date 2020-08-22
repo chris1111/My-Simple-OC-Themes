@@ -8,7 +8,6 @@
 <details> 
   <summary>View Themes</summary>
 
-### All themes availabl on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
 
 ### Dark-Low
 ![Dark-Low](https://user-images.githubusercontent.com/6248794/89733192-c9a48600-da21-11ea-878f-fafc03bffca9.png)
@@ -53,6 +52,8 @@
 ![Black-Slim](https://user-images.githubusercontent.com/6248794/90528329-7c6e9580-e140-11ea-9a7e-bb8a00641c25.png)
 
 </details>
+
+### All themes availabl on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
 
 ### All Themes is also availlable in the HTML page ➤ [Slide Show](https://www.hackintosh-montreal.com/h40-my-simple-themes)
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
