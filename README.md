@@ -60,9 +60,9 @@
 ### All Themes is also available in the HTML page ➤ [Slide Show](https://www.hackintosh-montreal.com/h40-my-simple-themes)
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
 ### HTML Page Follow Video ⬇︎
-<p align="center">
+
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/90956339-ad5a0d80-e453-11ea-9f73-c5f85450bb2b.png)](https://www.youtube.com/watch?v=UIOV-QMROio&t=1s)
-</p>
+
 
 
 
