@@ -53,6 +53,9 @@
 ### Black-Slim
 ![Black-Slim](https://user-images.githubusercontent.com/6248794/90528329-7c6e9580-e140-11ea-9a7e-bb8a00641c25.png)
 
+### OC-MacBookPro
+![OC-MacBookPro](https://user-images.githubusercontent.com/6248794/91440026-f509dc00-e83b-11ea-9004-1f2509f7f75f.png)
+
 </details>
 
 ### All themes available on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
