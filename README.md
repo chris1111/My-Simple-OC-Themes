@@ -67,6 +67,39 @@
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/90956339-ad5a0d80-e453-11ea-9f73-c5f85450bb2b.png)](https://youtu.be/Qz-vx3WEVds)
 
 
+![post-](https://user-images.githubusercontent.com/6248794/90955121-c1e4d880-e448-11ea-9c75-52847374fd5b.gif) See Spoiler!
+<details> 
+  <summary>How to create are own Theme</summary>
+  
+  You can try and use an Automate folder for icnspack I made its working perfectly good B)
+create this set of Icon at the good size and use the name bellow  (verry important)
+⬇︎
+Selector.png
+Selected.png
+ExtHardDrive.png
+AppleRecv.png
+ExtAppleRecv.png
+HardDrive.png
+AppleTM.png
+Windows.png
+Tool.png
+Shell.png
+ 
+NOTE Selector.png must be 80x80 in 144 pixels
+Selected.png  must be 288x288 in 144 pixels
+All the others must be 256x256 in 144 pixels
+---------------------------------
+Do not worry about resizing and creating the final icon because the script will take care of it
+You can read the script it is readable with any text editor.
+Your only have to copy and paste your set of Icon in the folder Icon then double clic to icnspack-Build.command
+In the video I create a themes in 3 seconds :D
+NOTE: Folder Resource is removed with each use, and empty the Icon folder before starting over.
+hope you like it
+Folder attach
+
+</details>
+
+
 
 
 
