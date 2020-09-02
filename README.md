@@ -59,6 +59,10 @@
 ### OC-MacBookPro
 ![OC-MacBookPro](https://user-images.githubusercontent.com/6248794/91440026-f509dc00-e83b-11ea-9004-1f2509f7f75f.png)
 
+### OC-Steel
+![OC-Steel](https://user-images.githubusercontent.com/6248794/91991919-85936100-ed01-11ea-9836-944bb695310c.png)
+
+
 </details>
 
 ### All themes available on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
