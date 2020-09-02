@@ -3,6 +3,12 @@
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
 </p>
 
+<p align="center">
+  <img width="800" height="123" src="https://user-images.githubusercontent.com/6248794/91990609-f0dc3380-ecff-11ea-81b6-c93d034c7314.png">
+</p>
+
+![OC-Steel](https://user-images.githubusercontent.com/6248794/91990609-f0dc3380-ecff-11ea-81b6-c93d034c7314.png)
+
 
 - Update 14 August 2020 All themes in 144 pixels for 4K resolution screen, rename somes resources.
 
