@@ -90,6 +90,7 @@ create this set of Icon at the good size and use the name bellow  (verry importa
 - ExtAppleRecv.png
 - HardDrive.png
 - AppleTM.png
+- Apple.png
 - Windows.png
 - Tool.png
 - Shell.png
