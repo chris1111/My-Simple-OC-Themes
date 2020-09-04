@@ -74,7 +74,7 @@
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/90956339-ad5a0d80-e453-11ea-9f73-c5f85450bb2b.png)](https://youtu.be/Qz-vx3WEVds)
 
 
-### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder.zip](https://github.com/chris1111/Icnspack-Builder)
+### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)
 
 
 
