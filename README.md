@@ -4,7 +4,8 @@
 </p>
 
 
-![OC-Steel](https://user-images.githubusercontent.com/6248794/91990609-f0dc3380-ecff-11ea-81b6-c93d034c7314.png)
+![ocappl10](https://user-images.githubusercontent.com/6248794/93658035-e9a66c80-fa05-11ea-99e6-66bc254fcac4.png)
+
 
 
 - Update 14 August 2020 All themes in 144 pixels for 4K resolution screen, rename somes resources.
