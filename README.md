@@ -3,12 +3,12 @@
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
 </p>
 
+![91990609-f0dc3380-ecff-11ea-81b6-c93d034c7314](https://user-images.githubusercontent.com/6248794/93658060-3be78d80-fa06-11ea-9ac2-4b2cf858b1ce.png)
 
 ![ocappl10](https://user-images.githubusercontent.com/6248794/93658035-e9a66c80-fa05-11ea-99e6-66bc254fcac4.png)
 
 
-
-- Update 14 August 2020 All themes in 144 pixels for 4K resolution screen, rename somes resources.
+- Update 18 sept 2020 add OC-Apple themes
 
 ![post-](https://user-images.githubusercontent.com/6248794/90955121-c1e4d880-e448-11ea-9c75-52847374fd5b.gif) See Spoiler!
 <details> 
