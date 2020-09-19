@@ -5,7 +5,7 @@
 
 ![91990609-f0dc3380-ecff-11ea-81b6-c93d034c7314](https://user-images.githubusercontent.com/6248794/93658060-3be78d80-fa06-11ea-9ac2-4b2cf858b1ce.png)
 
-![ocappl10](https://user-images.githubusercontent.com/6248794/93658035-e9a66c80-fa05-11ea-99e6-66bc254fcac4.png)
+![OC Apple](https://user-images.githubusercontent.com/6248794/93666056-129c2100-fa49-11ea-8133-73c2ffdc16fa.png)
 
 
 - Update 18 sept 2020 add OC-Apple themes
