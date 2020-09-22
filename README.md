@@ -63,6 +63,11 @@
 ### OC-Steel
 ![OC-Steel](https://user-images.githubusercontent.com/6248794/91991919-85936100-ed01-11ea-9836-944bb695310c.png)
 
+### OC-Apple
+![OC Apple](https://user-images.githubusercontent.com/6248794/93666056-129c2100-fa49-11ea-8133-73c2ffdc16fa.png)
+
+### OC-Black-W-HP
+![OC-Black-W-HP](https://user-images.githubusercontent.com/6248794/93916779-08438680-fcd8-11ea-9338-d391a5340347.png)
 
 </details>
 
