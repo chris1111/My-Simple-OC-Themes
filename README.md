@@ -69,6 +69,9 @@
 ### OC-Black-W-HP
 ![OC-Black-W-HP](https://user-images.githubusercontent.com/6248794/93916779-08438680-fcd8-11ea-9338-d391a5340347.png)
 
+### OC-Apple-Light
+![OC-Apple-Light](https://user-images.githubusercontent.com/6248794/94044322-fa573980-fd9b-11ea-91ce-5bd01b4ca62f.png)
+
 </details>
 
 ### All themes available on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
