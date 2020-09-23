@@ -3,7 +3,7 @@
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
 </p>
 
-![OC-Apple-Light](https://user-images.githubusercontent.com/6248794/94028831-384b6200-fd8a-11ea-9772-96f2e700783f.png)
+![OC-Apple-Light](https://user-images.githubusercontent.com/6248794/94044322-fa573980-fd9b-11ea-91ce-5bd01b4ca62f.png)
 
 ![OC Apple](https://user-images.githubusercontent.com/6248794/93666056-129c2100-fa49-11ea-8133-73c2ffdc16fa.png)
 
