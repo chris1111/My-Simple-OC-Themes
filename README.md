@@ -68,7 +68,7 @@
 ![OC Apple](https://user-images.githubusercontent.com/6248794/93666056-129c2100-fa49-11ea-8133-73c2ffdc16fa.png)
 
 ### OC-Black-W-HP
-![OC-Black-W-HP](https://user-images.githubusercontent.com/6248794/93916779-08438680-fcd8-11ea-9338-d391a5340347.png)
+![HPBW](https://user-images.githubusercontent.com/6248794/95655516-f6ceec80-0ad5-11eb-9d41-1d77761b65f1.png)
 
 ### OC-Apple-Light
 ![OC-Apple-Light](https://user-images.githubusercontent.com/6248794/94044322-fa573980-fd9b-11ea-91ce-5bd01b4ca62f.png)
