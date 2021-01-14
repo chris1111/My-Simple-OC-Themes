@@ -92,6 +92,8 @@
 ### ** ⬇︎ New Simple-theme-for-OpenCore (0.6.6 and higher) ⬇︎ ** 
 
 ![94265556-bdf41c80-ff06-11ea-9724-eaa67af97490](https://user-images.githubusercontent.com/6248794/104639439-6cb69700-5675-11eb-93fe-4d9024d25831.png)
+![ModernBadge](https://user-images.githubusercontent.com/6248794/104644673-10a34100-567c-11eb-8d38-9ae3d53926ba.png)
+
 
 ### All themes for OpenCore 0.6.6 and higher ➤ [Modern Themes](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
 
