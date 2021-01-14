@@ -91,7 +91,7 @@
 
 ### ** ⬇︎ New Simple-theme-for-OpenCore (0.6.6 and higher) ⬇︎ ** 
 
-![94265556-bdf41c80-ff06-11ea-9724-eaa67af97490](https://user-images.githubusercontent.com/6248794/104639439-6cb69700-5675-11eb-93fe-4d9024d25831.png)
+![ModernMacPro](https://user-images.githubusercontent.com/6248794/104657624-47368700-568f-11eb-952a-241a5e5255e7.png)
 ![ModernBadge](https://user-images.githubusercontent.com/6248794/104651991-6ed52180-5686-11eb-90a9-4223f50ddbbc.png)
 
 
