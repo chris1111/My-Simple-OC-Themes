@@ -89,10 +89,12 @@
 ### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)
 
 
-### New Simple-theme-for-OpenCore 
-- Themes for OpenCore 0.6.6 and higher
+### ** ⬇︎ New Simple-theme-for-OpenCore (0.6.6 and higher) ⬇︎ ** 
 
 ![94265556-bdf41c80-ff06-11ea-9724-eaa67af97490](https://user-images.githubusercontent.com/6248794/104639439-6cb69700-5675-11eb-93fe-4d9024d25831.png)
+
+### All themes for OpenCore 0.6.6 and higher ➤ [Modern Themes](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
+
 
 
 
