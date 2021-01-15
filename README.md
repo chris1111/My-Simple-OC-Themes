@@ -93,6 +93,8 @@
 
 ![ModernMacPro](https://user-images.githubusercontent.com/6248794/104657624-47368700-568f-11eb-952a-241a5e5255e7.png)
 ![ModernBadge](https://user-images.githubusercontent.com/6248794/104651991-6ed52180-5686-11eb-90a9-4223f50ddbbc.png)
+![Modern Blue](https://user-images.githubusercontent.com/6248794/104670129-46aaea00-56a9-11eb-8753-6e06ed71a189.png)
+
 
 
 ### All themes for OpenCore 0.6.6 and higher ➤ [Modern Themes](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
