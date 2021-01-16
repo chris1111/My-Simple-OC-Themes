@@ -82,8 +82,8 @@
 
 
 ### All Themes is also available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-Themes.html)
+- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
 ### Modern themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
-
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
 ### HTML Page Follow Video ⬇︎
 
