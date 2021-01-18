@@ -93,7 +93,9 @@
 ### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)
 
 
-### ** ⬇︎ New Simple-theme-for-OpenCore (0.6.6 and higher) ⬇︎ ** 
+### ** ⬇︎ New Simple-theme-for-OpenCore (0.6.6 and higher) ⬇︎ **
+- Take note: that the Background is at 1920x1080. 
+So if your screen supports a different native resolution you will need to create your own background for optimal use.
 
 ![ModernMacPro](https://user-images.githubusercontent.com/6248794/104657624-47368700-568f-11eb-952a-241a5e5255e7.png)
 ![ModernBadge](https://user-images.githubusercontent.com/6248794/104651991-6ed52180-5686-11eb-90a9-4223f50ddbbc.png)
