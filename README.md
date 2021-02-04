@@ -79,18 +79,13 @@
 
 ### All themes available on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
 
-
-
 ### All Themes is also available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-Themes.html)
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
-### Modern themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
-- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
+
 ### HTML Page Follow Video ⬇︎
 
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/90956339-ad5a0d80-e453-11ea-9f73-c5f85450bb2b.png)](https://youtu.be/Qz-vx3WEVds)
 
-
-### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)
 
 
 ### ** ⬇︎ New Simple-theme-for-OpenCore (0.6.6 and higher) ⬇︎ **
@@ -102,9 +97,13 @@ So if your screen supports a different native resolution you will need to create
 ![Modern Blue](https://user-images.githubusercontent.com/6248794/104670129-46aaea00-56a9-11eb-8753-6e06ed71a189.png)
 ![ModernHeadquarter](https://user-images.githubusercontent.com/6248794/104730939-eea3d000-5708-11eb-8fc7-75465cf725e0.png)
 
-
-
 ### All themes for OpenCore 0.6.6 and higher ➤ [Modern Themes](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
+
+### Modern themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
+- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
+
+
+### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)
 
 
 
