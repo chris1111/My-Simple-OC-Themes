@@ -100,7 +100,7 @@ So if your screen supports a different native resolution you will need to create
 
 ### All themes for OpenCore 0.6.6 and higher ➤ [Modern Themes](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
 
-### Modern themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
+### Modern and Default themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
 
 
