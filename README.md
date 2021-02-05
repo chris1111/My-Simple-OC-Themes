@@ -12,7 +12,7 @@
 ![OC Apple](https://user-images.githubusercontent.com/6248794/93666056-129c2100-fa49-11ea-8133-73c2ffdc16fa.png)
 
 
-- Update 18 sept 2020 add OC-Apple themes
+- Update 04 Fev add theme Default OC 0.6.6 and Higher
 
 ![post-](https://user-images.githubusercontent.com/6248794/90955121-c1e4d880-e448-11ea-9c75-52847374fd5b.gif) See Spoiler!
 <details> 
