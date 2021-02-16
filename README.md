@@ -78,7 +78,7 @@
 
 </details>
 
-### All themes available on ZIP file here ➤ [Resource ZIP](https://github.com/chris1111/My-Simple-theme-for-OpenCore/find/master)
+### All themes available here ➤ [Themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
 
 ### All Themes is also available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-Themes.html)
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
@@ -88,9 +88,8 @@
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/90956339-ad5a0d80-e453-11ea-9f73-c5f85450bb2b.png)](https://youtu.be/Qz-vx3WEVds)
 
 
-
 ### ** ⬇︎ New Simple-theme-for-OpenCore (0.6.6 and higher) ⬇︎ **
-- Take note: that the Background is at 1920x1080. 
+- Take note: that the default Background is at 1920x1080. 
 So if your screen supports a different native resolution you can use the Background Collections bellow or create your own background for optimal use.
 ### Background Collections:
 - Background ➤ Collections [2560x1440](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1440%20)
@@ -111,13 +110,3 @@ So if your screen supports a different native resolution you can use the Backgro
 
 
 ### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)
-
-
-
-
-
-
-
-
-
-
