@@ -97,7 +97,9 @@
 ### ** ⬇︎ New Simple-theme-for-OpenCore (0.6.6 and higher) ⬇︎ **
 - Take note: that the default Background is at 1920x1080. 
 So if your screen supports a different native resolution you can use the Background Collections bellow or create your own background for optimal use.
-### Background Collections:
+
+### Background Collections: ➤ [View Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/View%20Background)
+### Downloads Background Collections⬇︎:
 - Background ➤ Collections [2560x1440](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1440%20)
 - Background ➤ Collections [1920x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1200)
 - Background ➤ Collections [1920x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1080%20)
@@ -107,6 +109,7 @@ So if your screen supports a different native resolution you can use the Backgro
 - Background ➤ Collections [1440x900](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x900)
 - Background ➤ Collections [1440x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x1080)
 - Background ➤ Collections [1600x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x1200)
+- Background ➤ Collections [1680x1050](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1680x1050)
 
 
 ### All themes for OpenCore 0.6.6 and higher ➤ [Default and Modern Themes](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
