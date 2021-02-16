@@ -6,10 +6,10 @@
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
 </p>
 
-![OC-Apple-BlackWhite](https://user-images.githubusercontent.com/6248794/94265556-bdf41c80-ff06-11ea-9724-eaa67af97490.png)
-
-
-![OC Apple](https://user-images.githubusercontent.com/6248794/93666056-129c2100-fa49-11ea-8133-73c2ffdc16fa.png)
+![ModernMacPro](https://user-images.githubusercontent.com/6248794/104657624-47368700-568f-11eb-952a-241a5e5255e7.png)
+![ModernBadge](https://user-images.githubusercontent.com/6248794/104651991-6ed52180-5686-11eb-90a9-4223f50ddbbc.png)
+![Modern Blue](https://user-images.githubusercontent.com/6248794/104670129-46aaea00-56a9-11eb-8753-6e06ed71a189.png)
+![ModernHeadquarter](https://user-images.githubusercontent.com/6248794/104730939-eea3d000-5708-11eb-8fc7-75465cf725e0.png)
 
 
 - Update 04 Fev 2021 add theme Default OC 0.6.6 and Higher
@@ -91,18 +91,7 @@
 
 ### ** ⬇︎ New Simple-theme-for-OpenCore (0.6.6 and higher) ⬇︎ **
 - Take note: that the Background is at 1920x1080. 
-So if your screen supports a different native resolution you will need to create your own background for optimal use.
-
-![ModernMacPro](https://user-images.githubusercontent.com/6248794/104657624-47368700-568f-11eb-952a-241a5e5255e7.png)
-![ModernBadge](https://user-images.githubusercontent.com/6248794/104651991-6ed52180-5686-11eb-90a9-4223f50ddbbc.png)
-![Modern Blue](https://user-images.githubusercontent.com/6248794/104670129-46aaea00-56a9-11eb-8753-6e06ed71a189.png)
-![ModernHeadquarter](https://user-images.githubusercontent.com/6248794/104730939-eea3d000-5708-11eb-8fc7-75465cf725e0.png)
-
-### All themes for OpenCore 0.6.6 and higher ➤ [Modern Themes](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
-
-### Modern and Default themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
-- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
-
+So if your screen supports a different native resolution you can use the Background Collections bellow or create your own background for optimal use.
 ### Background Collections:
 - Background ➤ Collections [2560x1440](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1440%20)
 - Background ➤ Collections [1920x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1200)
@@ -113,6 +102,13 @@ So if your screen supports a different native resolution you will need to create
 - Background ➤ Collections [1440x900](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x900)
 - Background ➤ Collections [1440x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x1080)
 - Background ➤ Collections [1600x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x1200)
+
+
+### All themes for OpenCore 0.6.6 and higher ➤ [Modern Themes](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
+
+### Modern and Default themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
+- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
+
 
 ### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)
 
