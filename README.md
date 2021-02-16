@@ -103,6 +103,15 @@ So if your screen supports a different native resolution you will need to create
 ### Modern and Default themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
 
+### Background Collections:
+- Background ➤ Collections [2560x1440](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1440%20)
+- Background ➤ Collections [1920x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1200)
+- Background ➤ Collections [1920x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1080%20)
+- Background ➤ Collections [1600x900](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x900)
+- Background ➤ Collections [1366x768](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1366x768)
+- Background ➤ Collections [1024x768](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1024x768)
+
+ 
 
 ### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)
 
