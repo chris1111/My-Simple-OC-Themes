@@ -113,3 +113,14 @@ So if your screen supports a different native resolution you can use the Backgro
 
 
 ### How to create are own Theme ➤ Follow ![296233927](https://user-images.githubusercontent.com/6248794/92238400-2a8b7680-ee87-11ea-8280-d4442fb0d27d.gif)➤[icnspack-Builder](https://github.com/chris1111/Icnspack-Builder)
+
+
+### Setup config.plist
+
+- Misc -> Boot -> PickerMode: External
+- Misc -> Boot -> PickerVariant: Default, Modern or Auto
+- Auto — Automatically select one set of icons based on DefaultBackground colour.
+- Default — Default icon set.
+- Modern — Modern icon set.
+- UEFI -> Drivers add OpenCanopy.efi
+
