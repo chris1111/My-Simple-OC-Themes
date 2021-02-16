@@ -12,9 +12,18 @@
 ![ModernHeadquarter](https://user-images.githubusercontent.com/6248794/104730939-eea3d000-5708-11eb-8fc7-75465cf725e0.png)
 
 
-- Update 04 Fev 2021 add theme Default OC 0.6.6 and Higher
+- Update 16 Feb 2021 add Background Collections for OC 0.6.6 and Higher
 
-![post-](https://user-images.githubusercontent.com/6248794/90955121-c1e4d880-e448-11ea-9c75-52847374fd5b.gif) See Spoiler!
+
+### All themes available here ➤ [Themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
+
+### Modern and Default themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
+- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
+
+### OC 0.6.5 HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-Themes.html)
+- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
+
+![post-](https://user-images.githubusercontent.com/6248794/90955121-c1e4d880-e448-11ea-9c75-52847374fd5b.gif) See Spoiler! Themes OC 0.6.5
 <details> 
   <summary>View Themes</summary>
 
@@ -78,13 +87,7 @@
 
 </details>
 
-### All themes available here ➤ [Themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
 
-### Modern and Default themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
-- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
-
-### OC 0.6.5 HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-Themes.html)
-- Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
 
 ### HTML Page Follow Video ⬇︎
 
