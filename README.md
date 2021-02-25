@@ -99,7 +99,7 @@
 So if your screen supports a different native resolution you can use the Background Collections bellow or create your own background for optimal use.
 
 ### Background Collections: ➤ [View Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/View%20Background)
-### Downloads Background Collections ⬇︎
+### Downloads Background Collections for all themes ⬇︎
 - Background ➤ Collections [2560x1440](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1440%20)
 - Background ➤ Collections [1920x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1200)
 - Background ➤ Collections [1920x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1080%20)
