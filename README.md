@@ -15,7 +15,9 @@
 - Update 16 Feb 2021 add Background Collections for OC 0.6.6 and Higher
 
 
-### All themes available here ➤ [Themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
+### All themes available here ➤ [Themes With Background 1080p](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
+
+- You can change all Background for you screen [Background](https://github.com/chris1111/My-Simple-OC-Themes#downloads-background-collections-for-all-themes-%EF%B8%8E)  
 
 ### Modern and Default themes OC 0.6.6 and Higher available in the HTML page ➤ [Slide Show](https://com-chris1111.github.io/OC-0.6.6-Themes.html)
 - Mousse over the images then scrool and clic to the theme of your choice for downloading the Resource.
@@ -99,7 +101,7 @@
 So if your screen supports a different native resolution you can use the Background Collections bellow or create your own background for optimal use.
 
 ### Background Collections: ➤ [View Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/View%20Background)
-### Downloads Background Collections ⬇︎
+### Downloads Background Collections for all themes ⬇︎
 - Background ➤ Collections [2560x1440](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1440%20)
 - Background ➤ Collections [1920x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1200)
 - Background ➤ Collections [1920x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1080%20)
