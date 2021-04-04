@@ -129,3 +129,9 @@ So if your screen supports a different native resolution you can use the Backgro
 - Modern — Modern icon set.
 - UEFI -> Drivers add OpenCanopy.efi
 
+### Setup PickerVariant config.plist
+[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/90956339-ad5a0d80-e453-11ea-9f73-c5f85450bb2b.png)](https://youtu.be/3NMhQF99dzE)
+### Download ➤ [PickerVariant Tool](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/PickerVariant-Tool.zip)
+
+
+
