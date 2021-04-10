@@ -133,6 +133,6 @@ So if your screen supports a different native resolution you can use the Backgro
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/90956339-ad5a0d80-e453-11ea-9f73-c5f85450bb2b.png)](https://youtu.be/3NMhQF99dzE)
 ### Download ➤ [PickerVariant Tool](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/PickerVariant-Tool.zip)
 
-### NEW OC 0.6.9 I recommend to use ➤ [this Folder](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.9) in the Archive (Font, Label) change in the theme Resources
+### NEW OC 0.6.9 I recommend to use ➤ [this Folder](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Resources-0.6.9/Archive.zip) in the Archive (Font, Label) change in the theme Resources
 
 
