@@ -7,9 +7,8 @@
 </p>
 
 ![ModernMacPro](https://user-images.githubusercontent.com/6248794/104657624-47368700-568f-11eb-952a-241a5e5255e7.png)
-![ModernBadge](https://user-images.githubusercontent.com/6248794/104651991-6ed52180-5686-11eb-90a9-4223f50ddbbc.png)
-![Modern Blue](https://user-images.githubusercontent.com/6248794/104670129-46aaea00-56a9-11eb-8753-6e06ed71a189.png)
-![ModernHeadquarter](https://user-images.githubusercontent.com/6248794/104730939-eea3d000-5708-11eb-8fc7-75465cf725e0.png)
+
+### View boot ➤ [Themes Collection](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.9)
 
 
 - Update 16 Feb 2021 add Background Collections for OC 0.6.6 and Higher
