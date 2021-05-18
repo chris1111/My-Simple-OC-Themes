@@ -135,5 +135,10 @@ So if your screen supports a different native resolution you can use the Backgro
 ### NEW OC 0.6.9 I recommend to use ➤ [this Folder](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Archive.zip) Download Archive.zip from the Archive folder change both 'Font' and 'Label' folder in the Resources theme 
 
 
+### NEW OC 0.7.0 Download ➤ [Resources-OC-0.7.0.zip](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Resources-OC-0.7.0.zip) 
 
+- Change Resources to EFI/OC 
+
+### Setup PickerVariant config.plist (OnLight themes as exemple)
+- Misc -> Boot -> PickerVariant: chris1111\OnLight
 
