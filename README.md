@@ -212,3 +212,7 @@ So if your screen supports a different native resolution you can use the Backgro
 - Background ➤ Collections [1600x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x1200)
 - Background ➤ Collections [1680x1050](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1680x1050)
 
+View full Video SetUp theme OC 0.7.0 ⬇︎
+### Video 
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/YCcHOlNzc5o)
+
