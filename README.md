@@ -94,8 +94,9 @@ View full Video SetUp theme OC 0.7.0 ⬇︎
 ### Video 
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://www.youtube.com/watch?v=DM_f2bvLJtY)
 
+### ------------------------------------------------------------------------------------------
 
-
+### Old stuff ⬇︎
 
 ### Older themes available here ➤ [Themes With Background 1080p](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
 
