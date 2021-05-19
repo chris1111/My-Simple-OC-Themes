@@ -135,11 +135,11 @@ So if your screen supports a different native resolution you can use the Backgro
 ### NEW OC 0.6.9 I recommend to use ➤ [this Folder](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Archive.zip) Download Archive.zip from the Archive folder change both 'Font' and 'Label' folder in the Resources theme 
 
 
-### NEW OC 0.7.0 Download ➤ [The theme of you need.zip](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.7.0) 
+### ⬇︎ NEW OC 0.7.0 Download ⬇︎
 
-- Change Resources to EFI/OC 
+- Change Resources to EFI/OC
 
-### Setup PickerVariant config.plist (OnLight themes as exemple)  ☞ [See config.plist](https://user-images.githubusercontent.com/6248794/118682984-f5ce0e00-b7ce-11eb-8e3c-52055b213607.png)
+### Setup PickerVariant config.plist (OnLight themes as exemple)  ☞ [See config.plist](https://user-images.githubusercontent.com/6248794/118682984-f5ce0e00-b7ce-11eb-8e3c-52055b213607.png) 
 
 - Misc -> Boot -> PickerVariant: chris1111\OnLight
 
@@ -197,4 +197,18 @@ So if your screen supports a different native resolution you can use the Backgro
 - View Boot screen [TwoTone](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/TwoTone.png) Download ➤ [TwoTone](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/TwoTone.zip)
 - View Boot screen [Wall](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Wall.png) Download ➤ [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Wall.zip)
 - View Boot screen [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/WhyNot.png) Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
+
+### ⬇︎ Background Collections: OpenCore 0.7.0 ⬇︎
+
+### Downloads Background Collections for all themes OpenCore 0.7.0 ⬇︎
+- Background ➤ Collections [2560x1440](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1440%20)
+- Background ➤ Collections [1920x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1200)
+- Background ➤ Collections [1920x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1080%20)
+- Background ➤ Collections [1600x900](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x900)
+- Background ➤ Collections [1366x768](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1366x768)
+- Background ➤ Collections [1024x768](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1024x768)
+- Background ➤ Collections [1440x900](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x900)
+- Background ➤ Collections [1440x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x1080)
+- Background ➤ Collections [1600x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x1200)
+- Background ➤ Collections [1680x1050](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1680x1050)
 
