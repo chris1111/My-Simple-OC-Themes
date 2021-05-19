@@ -1,6 +1,6 @@
 # My-Simple-theme-for-OpenCore 
 - Themes for OpenCore 0.7.0 and Higher
-- Older Themes for OpenCore 0.6.5 / 0.6.6 / 0.6.7 / 0.6.8 / 0.7.9
+- Older Themes for OpenCore 0.6.5 / 0.6.6 / 0.6.7 / 0.6.8 / 0.6.9
 
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/90955108-99f57500-e448-11ea-8ec1-929edd99bf0c.png">
