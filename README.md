@@ -214,5 +214,5 @@ So if your screen supports a different native resolution you can use the Backgro
 
 View full Video SetUp theme OC 0.7.0 ⬇︎
 ### Video 
-[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/YCcHOlNzc5o)
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://www.youtube.com/watch?v=DM_f2bvLJtY)
 
