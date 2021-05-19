@@ -92,7 +92,7 @@ View full Video SetUp theme OC 0.7.0 ⬇︎
 
 ### How to create are own Theme ➤ Follow ➤[OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
 
-### Done ------------------------------------------------------------------------------------------
+### Done -------------------------------------------------------------------------------------
 
 ### Old stuff OutDate ⬇︎
 
