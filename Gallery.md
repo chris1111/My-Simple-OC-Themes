@@ -6,12 +6,13 @@
 
 
 <p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/118823314-e6120080-b886-11eb-8acd-df9f235601ba.png">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/118984309-600bbd80-b94b-11eb-8d34-9c97036f27a6.png">
 </p>
 
 ### Table of Contents:
 
-### ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
+### ⬇︎ View Boot screen and Downloads Themes for OpenCore 0.7.0 and higher
+- Use this Themes with PickerVariant
 
 - View Boot screen [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/3Ddesign.png) Download ➤ [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/3Ddesign.zip)
 - View Boot screen [Action](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Action.png) Download ➤ [Action](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Action.zip)
