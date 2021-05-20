@@ -2,7 +2,7 @@
 
 - Themes for OpenCore 0.7.0 and Higher
 
-- Create 20 Mai 2021 
+- Create 20 May 2021 
 
 
 <p align="center">
