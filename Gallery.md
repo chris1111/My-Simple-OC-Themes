@@ -11,10 +11,12 @@
 
 ### Table of Contents:
 
-### ⬇︎ View Boot screen and Downloads Themes for OpenCore 0.7.0 and higher
+### ⬇︎ 
 - Use this Themes with PickerVariant
 - Default backgroud is 1080p
 - Differant screen see ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Gallery.md#downloads-background-collections-for-all-themes-%EF%B8%8E) all the backgrounds have been created for several screen sizes
+- 
+### ⬇︎ View Boot screen and Downloads Themes for OpenCore 0.7.0 and higher
 
 - View Boot screen [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/3Ddesign.png) Download ➤ [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/3Ddesign.zip)
 - View Boot screen [Action](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Action.png) Download ➤ [Action](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Action.zip)
