@@ -10,7 +10,7 @@
 <p align="center">
   
  - Tribute
-<img width="490" alt="1" src="https://user-images.githubusercontent.com/6248794/119241483-a8320800-bb24-11eb-83d1-41bcce0b5ea4.png">
+<img width="490" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute.png">
   
 - OnStage
 <img width="492" alt="2" src="https://user-images.githubusercontent.com/6248794/119241484-a9633500-bb24-11eb-9b49-58c0dd3fa20d.png">
