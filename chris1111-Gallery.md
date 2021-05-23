@@ -9,13 +9,16 @@
 
 <p align="center">
   
- - Tribute
+- BeautySteel
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/BeautySteel.png">
+  
+- Tribute
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute.png">
   
 - OnStage
 <img width="600" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OnStage.png">
   
-  - RealSteel
+- RealSteel
 <img width="600" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/RealSteel.png">
   
 - ElectricalOCPurple
@@ -27,8 +30,15 @@
 - MetalBlack
 <img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MetalBlack.png">
   
-  - Quintessence
+- Quintessence
 <img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Quintessence.png">
+  
+- BlueGrey
+<img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/BlueGrey.png">
+  
+- CollorBeauty
+<img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/CollorBeauty.png">
+  
   
 </p>
 
