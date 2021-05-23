@@ -13,7 +13,7 @@
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute.png">
   
 - OnStage
-<img width=600" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OnStage.png">
+<img width="600" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OnStage.png">
   
 - ElectricalOCPurple
 <img width="600" alt="3" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/ElectricalOCPurple.png">
