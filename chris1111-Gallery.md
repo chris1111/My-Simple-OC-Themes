@@ -13,16 +13,19 @@
 <img width="490" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute.png">
   
 - OnStage
-<img width="492" alt="2" src="https://user-images.githubusercontent.com/6248794/119241484-a9633500-bb24-11eb-9b49-58c0dd3fa20d.png">
+<img width="492" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OnStage.png">
   
 - ElectricalOCPurple
-<img width="488" alt="3" src="https://user-images.githubusercontent.com/6248794/119241485-a9633500-bb24-11eb-9775-a645511f680c.png">
+<img width="488" alt="3" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/ElectricalOCPurple.png">
   
 - OnLight
-<img width="493" alt="4" src="https://user-images.githubusercontent.com/6248794/119241486-a9fbcb80-bb24-11eb-8151-7aaf3df9830a.png">
+<img width="493" alt="4" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OnLight.png">
   
 - MetalBlack
-<img width="493" alt="5" src="https://user-images.githubusercontent.com/6248794/119241487-aa946200-bb24-11eb-9e04-03a972ba0272.png">
+<img width="493" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MetalBlack.png">
+  
+  - Quintessence
+<img width="493" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Quintessence.png">
   
 </p>
 
