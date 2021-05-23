@@ -15,8 +15,8 @@
 - OnStage
 <img width="600" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OnStage.png">
   
-  - OC-Steel
-<img width="600" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/OC-Steel.png">
+  - RealSteel
+<img width="600" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/RealSteel.png">
   
 - ElectricalOCPurple
 <img width="600" alt="3" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/ElectricalOCPurple.png">
