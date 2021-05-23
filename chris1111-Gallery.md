@@ -3,27 +3,27 @@
 - Themes for OpenCore 0.7.0 and Higher
 
 - Create 20 May 2021
+- 
+### Some examples of themes ⬇︎
 
 
-- MetalBlack themes
 <p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/119162327-383e5780-ba28-11eb-86d4-b3363621682c.png">
-</p>
-
-
-- OnStage theme
-<p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/119013277-d4068f80-b964-11eb-9c5f-03bb357b03b7.png">
-</p>
-
-- Tribute theme
-<p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/118984309-600bbd80-b94b-11eb-8d34-9c97036f27a6.png">
-</p>
-
-- OnLight themes
-<p align="center">
-  <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/118989794-4faa1180-b950-11eb-9b54-21f1f23c75fd.png">
+  
+ - Tribute
+<img width="490" alt="1" src="https://user-images.githubusercontent.com/6248794/119241483-a8320800-bb24-11eb-83d1-41bcce0b5ea4.png">
+  
+- OnStage
+<img width="492" alt="2" src="https://user-images.githubusercontent.com/6248794/119241484-a9633500-bb24-11eb-9b49-58c0dd3fa20d.png">
+  
+- ElectricalOCPurple
+<img width="488" alt="3" src="https://user-images.githubusercontent.com/6248794/119241485-a9633500-bb24-11eb-9775-a645511f680c.png">
+  
+- OnLight
+<img width="493" alt="4" src="https://user-images.githubusercontent.com/6248794/119241486-a9fbcb80-bb24-11eb-8151-7aaf3df9830a.png">
+  
+- MetalBlack
+<img width="493" alt="5" src="https://user-images.githubusercontent.com/6248794/119241487-aa946200-bb24-11eb-9e04-03a972ba0272.png">
+  
 </p>
 
 
