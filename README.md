@@ -8,9 +8,6 @@
 
 
 <p align="center">
-
-- Multi
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Multi.png">
   
 - BeautySteel
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/BeautySteel.png">
@@ -29,6 +26,9 @@
   
 - OnLight
 <img width="600" alt="4" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OnLight.png">
+
+- Multi
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Multi.png">
   
 - MetalBlack
 <img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MetalBlack.png">
