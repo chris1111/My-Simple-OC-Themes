@@ -9,6 +9,9 @@
 
 <p align="center">
 
+- FullStage
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/FullStage.png">
+
 - BLueGreyMac
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/BlueGreyMac.png">
   
@@ -81,6 +84,7 @@
 - View Boot screen [Exact](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Exact.png) Download ➤ [Exact](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Exact.zip) 
 - View Boot screen [Exagcore](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Exagcore.png) Download ➤ [Exagcore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Exagcore.zip) 
 - View Boot screen [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/ForeignSpecies.png) Download ➤ [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ForeignSpecies.zip)
+- View Boot screen [FullStage](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/FullStage.png) Download ➤ [FullStage](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FullStage.zip)
 - View Boot screen [FullScreen](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/FullScreen.png) Download ➤ [FullScreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FullScreen.zip)
 - View Boot screen [FusionCore](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/FusionCore.png) Download ➤ [FusionCore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FusionCore.zip)
 - View Boot screen [GeoMetCube](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/GeoMetCube.png) Download ➤ [GeoMetCube](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/GeoMetCube.zip)
