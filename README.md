@@ -9,7 +9,7 @@
 
 <p align="center">
 
-- FullStage
+- NiceBlue
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NiceBlue.png">
 
 - BLueGreyMac
