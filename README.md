@@ -10,7 +10,7 @@
 <p align="center">
 
 - Shelter
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Shelter.png">
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Shelter1.png">
 
 - Luminary
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Luminary.png">
@@ -122,7 +122,7 @@
 - View Boot screen [Quintessence](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Quintessence.png) Download ➤ [Quintessence](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Quintessence.zip)
 - View Boot screen [RealSteel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/RealSteel.png) Download ➤ [RealSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/RealSteel.zip) 
 - View Boot screen [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Rock%26Steel.png) Download ➤ [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Rock%26Steel.zip)
-- View Boot screen [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Shelter.png) Download ➤ [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Shelter.zip)
+- View Boot screen [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Shelter1.png) Download ➤ [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Shelter.zip)
 - View Boot screen [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/StarWars.png) Download ➤ [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/StarWars.zip)
 - View Boot screen [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Teleport.png) Download ➤ [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Teleport.zip)
 - View Boot screen [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Transporter.png) Download ➤ [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Transporter.zip)
