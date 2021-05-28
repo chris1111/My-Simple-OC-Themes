@@ -9,6 +9,9 @@
 
 <p align="center">
 
+- MotherShip
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MotherShip.png">
+
 - Shelter
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Shelter1.png">
 
@@ -109,6 +112,7 @@
 - View Boot screen [Luminary](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Luminary.png) Download ➤ [Luminary](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Luminary.zip)
 - View Boot screen [MacSteel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MacSteel.png) Download ➤ [MacSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MacSteel.zip)
 - View Boot screen [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MetalBlack.png) Download ➤ [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MetalBlack.zip)
+- View Boot screen [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MotherShip.png) Download ➤ [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MotherShip.zip)
 - View Boot screen [Multi](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Multi.png) Download ➤ [Multi](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Multi.zip)
 - View Boot screen [NiceBlue](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NiceBlue.png) Download ➤ [NiceBlue](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NiceBlue.zip)
 - View Boot screen [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NightGlowCity.png) Download ➤ [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NightGlowCity.zip)
