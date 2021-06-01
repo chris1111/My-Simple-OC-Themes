@@ -9,6 +9,9 @@
 
 <p align="center">
 
+- AloySteel
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/AloySteel.png">
+
 - Coloryst
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Coloryst.png">
 
@@ -80,6 +83,7 @@
 
 - View Boot screen [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/3Ddesign.png) Download ➤ [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/3Ddesign.zip)
 - View Boot screen [Action](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Action.png) Download ➤ [Action](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Action.zip)
+- View Boot screen [ALoySteel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/AloySteel.png) Download ➤ [AloySteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/AloySteel.zip)
 - View Boot screen [BeautyAngle](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/BeautyAngle.png) Download ➤ [BeautyAngle](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BeautyAngle.zip) 
 - View Boot screen [BeautySteel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/BeautySteel.png) Download ➤  [BeautySteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BeautySteel.zip)
 - View Boot screen [BlackBeauty](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/BlackBeauty.png) Download ➤ [BlackBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BlackBeauty.zip)
