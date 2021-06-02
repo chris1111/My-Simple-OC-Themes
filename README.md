@@ -9,6 +9,9 @@
 
 <p align="center">
 
+- Cyborg
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Cyborg.png">
+
 - AloySteel
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/AloySteel.png">
 
@@ -94,6 +97,7 @@
 - View Boot screen [BS-Exposure](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/BS-Exposure.png) Download ➤ [BS-Exposure](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BS-Exposure.zip)
 - View Boot screen [Coloryst](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Coloryst.png) Download ➤ [Coloryst](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Coloryst.zip)
 - View Boot screen [CollorBeauty](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/CollorBeauty.png) Download ➤ [CollorBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/CollorBeauty.zip)
+- View Boot screen [Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Cyborg.png) Download ➤ [Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Cyborg.zip)
 - View Boot screen [Darker](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Darker.png) Download ➤ [Darker](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Darker.zip)
 - View Boot screen [DarkGreen](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/DarkGreen.png) Download ➤ [DarkGreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkGreen.zip)
 - View Boot screen [DarkPurpleMetal](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/DarkPurpleMetal.png) Download ➤ [DarkPurpleMetal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkPurpleMetal.zip)
