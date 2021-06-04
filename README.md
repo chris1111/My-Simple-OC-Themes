@@ -9,9 +9,6 @@
 
 <p align="center">
 
-- Cyborg
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Cyborg.png">
-
 - AloySteel
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/AloySteel.png">
 
@@ -23,6 +20,9 @@
 
 - MotherShip
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MotherShip.png">
+
+- Cyborg
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Cyborg.png">
 
 - Shelter
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Shelter1.png">
