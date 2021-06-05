@@ -9,6 +9,9 @@
 
 <p align="center">
 
+- NightBlue
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NightBlue.png">
+
 - SilentNight
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/SilentNight.png">
 
@@ -134,6 +137,7 @@
 - View Boot screen [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MotherShip.png) Download ➤ [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MotherShip.zip)
 - View Boot screen [Multi](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Multi.png) Download ➤ [Multi](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Multi.zip)
 - View Boot screen [NiceBlue](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NiceBlue.png) Download ➤ [NiceBlue](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NiceBlue.zip)
+- View Boot screen [NightBlue](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NightBlue.png) Download ➤ [NightBlue](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NightBlue.zip)
 - View Boot screen [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NightGlowCity.png) Download ➤ [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NightGlowCity.zip)
 - View Boot screen [OCBeauty](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OCBeauty.png) Download ➤ [OCBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/OCBeauty.zip)
 - View Boot screen [OCCloud](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OCCloud.png) Download ➤ [OCCloud](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/OCCloud.zip)
