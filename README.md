@@ -1,5 +1,5 @@
 # My-Simple-theme-for-OpenCore 
-- Themes for OpenCore 0.7.0 and Higher
+- Themes for OpenCore 0.7.0 / 0.7.1 and Higher
 - Older Themes for OpenCore 0.6.5 / 0.6.6 / 0.6.7 / 0.6.8 / 0.6.9
 
 - Update 18 Mai 2021 Themes for OpenCore 0.7.0
