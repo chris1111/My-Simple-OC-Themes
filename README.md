@@ -11,6 +11,9 @@
 
 <p align="center">
 
+- Tribute-2
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute-2.png">
+
 - Monterey
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Monterey.png">
 
@@ -161,6 +164,7 @@
 - View Boot screen [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Teleport.png) Download ➤ [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Teleport.zip)
 - View Boot screen [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Transporter.png) Download ➤ [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Transporter.zip)
 - View Boot screen [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute.png) Download ➤ [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute.zip)
+- View Boot screen [Tribute-2](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute-2.png) Download ➤ [Tribute-2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute-2.zip)
 - View Boot screen [TwoTone](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/TwoTone.png) Download ➤ [TwoTone](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/TwoTone.zip)
 - View Boot screen [Wall](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Wall.png) Download ➤ [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Wall.zip)
 - View Boot screen [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/WhyNot.png) Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
