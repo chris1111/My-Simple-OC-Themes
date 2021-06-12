@@ -11,6 +11,9 @@
 
 <p align="center">
 
+- SSDMinimal
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/SSDMinimal.png">
+
 - Minimal
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Minimal.png">
 
@@ -164,7 +167,9 @@
 - View Boot screen [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Rock%26Steel.png) Download ➤ [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Rock%26Steel.zip)
 - View Boot screen [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/SilentNight.png) Download ➤ [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SilentNight.zip)
 - View Boot screen [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Shelter1.png) Download ➤ [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Shelter.zip)
+- View Boot screen [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/SSDMinimal.png) Download ➤ [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SSDMinimal.zip)
 - View Boot screen [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/StarWars.png) Download ➤ [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/StarWars.zip)
+
 - View Boot screen [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Teleport.png) Download ➤ [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Teleport.zip)
 - View Boot screen [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Transporter.png) Download ➤ [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Transporter.zip)
 - View Boot screen [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute.png) Download ➤ [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute.zip)
