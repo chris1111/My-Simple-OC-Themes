@@ -8,6 +8,9 @@
 
 <p align="center">
 
+- 5KMacBadge
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMacBadge.png">
+
 - 5KMac
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMac.png">
 
@@ -104,6 +107,7 @@
 
 ### ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
+- View Boot screen [5KMacBadge](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMacBadge.png) Download ➤ [5KMacBadge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/5KMacBadge.zip)
 - View Boot screen [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMac.png) Download ➤ [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/5KMac.zip)
 - View Boot screen [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/3Ddesign.png) Download ➤ [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/3Ddesign.zip)
 - View Boot screen [Action](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Action.png) Download ➤ [Action](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Action.zip)
