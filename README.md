@@ -11,6 +11,9 @@
 
 <p align="center">
 
+- 5KMac
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMac.png">
+
 - SSDMinimal
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/SSDMinimal.png">
 
@@ -104,6 +107,7 @@
 
 ### ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
+- View Boot screen [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMac.png) Download ➤ [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/5KMac.zip)
 - View Boot screen [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/3Ddesign.png) Download ➤ [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/3Ddesign.zip)
 - View Boot screen [Action](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Action.png) Download ➤ [Action](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Action.zip)
 - View Boot screen [ALoySteel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/AloySteel.png) Download ➤ [AloySteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/AloySteel.zip)
@@ -169,7 +173,6 @@
 - View Boot screen [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Shelter1.png) Download ➤ [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Shelter.zip)
 - View Boot screen [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/SSDMinimal.png) Download ➤ [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SSDMinimal.zip)
 - View Boot screen [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/StarWars.png) Download ➤ [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/StarWars.zip)
-
 - View Boot screen [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Teleport.png) Download ➤ [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Teleport.zip)
 - View Boot screen [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Transporter.png) Download ➤ [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Transporter.zip)
 - View Boot screen [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute.png) Download ➤ [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute.zip)

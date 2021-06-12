@@ -3,11 +3,25 @@
 - Themes for OpenCore 0.7.0 and Higher
 
 - Create 20 May 2021
-- 
+
 ### Some examples of themes ⬇︎
 
-
 <p align="center">
+
+- 5KMac
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMac.png">
+
+- SSDMinimal
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/SSDMinimal.png">
+
+- Minimal
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Minimal.png">
+
+- Tribute-2
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute-2.png">
+
+- Monterey
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Monterey.png">
 
 - NightBlue
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NightBlue.png">
@@ -90,6 +104,7 @@
 
 ### ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
+- View Boot screen [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMac.png) Download ➤ [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/5KMac.zip)
 - View Boot screen [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/3Ddesign.png) Download ➤ [3Ddesign](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/3Ddesign.zip)
 - View Boot screen [Action](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Action.png) Download ➤ [Action](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Action.zip)
 - View Boot screen [ALoySteel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/AloySteel.png) Download ➤ [AloySteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/AloySteel.zip)
@@ -134,7 +149,9 @@
 - View Boot screen [Luminary](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Luminary.png) Download ➤ [Luminary](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Luminary.zip)
 - View Boot screen [MacSteel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MacSteel.png) Download ➤ [MacSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MacSteel.zip)
 - View Boot screen [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MetalBlack.png) Download ➤ [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MetalBlack.zip)
+- View Boot screen [Minimal](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Minimal.png) Download ➤ [Minimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Minimal.zip)
 - View Boot screen [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MotherShip.png) Download ➤ [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MotherShip.zip)
+- View Boot screen [Monterey](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Monterey.png) Download ➤ [Monterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Monterey.zip)
 - View Boot screen [Multi](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Multi.png) Download ➤ [Multi](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Multi.zip)
 - View Boot screen [NiceBlue](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NiceBlue.png) Download ➤ [NiceBlue](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NiceBlue.zip)
 - View Boot screen [NightBlue](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NightBlue.png) Download ➤ [NightBlue](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NightBlue.zip)
@@ -151,10 +168,12 @@
 - View Boot screen [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Rock%26Steel.png) Download ➤ [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Rock%26Steel.zip)
 - View Boot screen [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/SilentNight.png) Download ➤ [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SilentNight.zip)
 - View Boot screen [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Shelter1.png) Download ➤ [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Shelter.zip)
+- View Boot screen [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/SSDMinimal.png) Download ➤ [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SSDMinimal.zip)
 - View Boot screen [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/StarWars.png) Download ➤ [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/StarWars.zip)
 - View Boot screen [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Teleport.png) Download ➤ [Teleport](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Teleport.zip)
 - View Boot screen [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Transporter.png) Download ➤ [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Transporter.zip)
 - View Boot screen [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute.png) Download ➤ [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute.zip)
+- View Boot screen [Tribute-2](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Tribute-2.png) Download ➤ [Tribute-2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute-2.zip)
 - View Boot screen [TwoTone](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/TwoTone.png) Download ➤ [TwoTone](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/TwoTone.zip)
 - View Boot screen [Wall](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Wall.png) Download ➤ [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Wall.zip)
 - View Boot screen [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/WhyNot.png) Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
@@ -172,5 +191,6 @@
 - Background ➤ Collections [1440x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x1080)
 - Background ➤ Collections [1600x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x1200)
 - Background ➤ Collections [1680x1050](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1680x1050)
+
 
 ### How to create are own Theme ➤[OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
