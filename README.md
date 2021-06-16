@@ -200,6 +200,8 @@
 - Background ➤ Collections [1440x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x1080)
 - Background ➤ Collections [1600x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x1200)
 - Background ➤ Collections [1680x1050](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1680x1050)
+- Background ➤ Collections [2560x1600](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1600)
+
 
 View full Video SetUp theme OC 0.7.0 ⬇︎
 ### Video 
