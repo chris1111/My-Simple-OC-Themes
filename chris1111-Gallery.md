@@ -1,12 +1,19 @@
 # christ1111 Gallery
 
-- Themes for OpenCore 0.7.0 and Higher
+Themes for OpenCore 0.7.0 and Higher
 
-- Create 20 May 2021
+Create 20 May 2021
 
 ### Some examples of themes ⬇︎
 
+
 <p align="center">
+
+- MyCity
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MyCity.png">
+
+- Natural
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Natural.png">
 
 - 5KMacBadge
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMacBadge.png">
@@ -95,16 +102,6 @@
   
 </p>
 
-
-
-### ⬇︎ NEW OC 0.7.0 Download ⬇︎
-
-- Change Resources to EFI/OC
-
-### Setup PickerVariant config.plist (OnLight themes as exemple)  ☞ [See config.plist](https://user-images.githubusercontent.com/6248794/118682984-f5ce0e00-b7ce-11eb-8e3c-52055b213607.png) 
-
-- Misc -> Boot -> PickerVariant: chris1111\OnLight
-
 ### ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
 - View Boot screen [5KMacBadge](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/5KMacBadge.png) Download ➤ [5KMacBadge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/5KMacBadge.zip)
@@ -157,6 +154,8 @@
 - View Boot screen [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MotherShip.png) Download ➤ [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MotherShip.zip)
 - View Boot screen [Monterey](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Monterey.png) Download ➤ [Monterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Monterey.zip)
 - View Boot screen [Multi](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Multi.png) Download ➤ [Multi](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Multi.zip)
+- View Boot screen [MyCity](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Multi.png) Download ➤ [MyCity](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MyCity.zip)
+- View Boot screen [Natural](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Natural.png) Download ➤ [Natural](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Natural.zip)
 - View Boot screen [NiceBlue](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NiceBlue.png) Download ➤ [NiceBlue](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NiceBlue.zip)
 - View Boot screen [NightBlue](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NightBlue.png) Download ➤ [NightBlue](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NightBlue.zip)
 - View Boot screen [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NightGlowCity.png) Download ➤ [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NightGlowCity.zip)
@@ -195,6 +194,6 @@
 - Background ➤ Collections [1440x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x1080)
 - Background ➤ Collections [1600x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x1200)
 - Background ➤ Collections [1680x1050](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1680x1050)
-
+- Background ➤ Collections [2560x1600](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1600)
 
 ### How to create are own Theme ➤[OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
