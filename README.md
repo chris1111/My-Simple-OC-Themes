@@ -192,15 +192,15 @@
 
 ### Downloads Background Collections for all themes OpenCore 0.7.0 ⬇︎
 
-- Background ➤ Collections [2560x1440](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background2560x1440%20)
-- Background ➤ Collections [1920x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1200)
-- Background ➤ Collections [1920x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1920x1080%20)
-- Background ➤ Collections [1600x900](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x900)
-- Background ➤ Collections [1366x768](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1366x768)
-- Background ➤ Collections [1024x768](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1024x768)
-- Background ➤ Collections [1440x900](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x900)
-- Background ➤ Collections [1440x1080](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1440x1080)
-- Background ➤ Collections [1600x1200](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Background1600x1200)
+- Background ➤ Collections [2560x1440](Background2560x1440/)
+- Background ➤ Collections [1920x1200](Background1920x1200/)
+- Background ➤ Collections [1920x1080](Background1920x1080/)
+- Background ➤ Collections [1600x900](Background1600x900/)
+- Background ➤ Collections [1366x768](Background1366x768/)
+- Background ➤ Collections [1024x768](Background1024x768/)
+- Background ➤ Collections [1440x900](Background1440x900/)
+- Background ➤ Collections [1440x1080](Background1440x1080/)
+- Background ➤ Collections [1600x1200](Background1600x1200/)
 - Background ➤ Collections [1680x1050](Background1680x1050/)
 - Background ➤ Collections [2560x1600](Background2560x1600/)
 
