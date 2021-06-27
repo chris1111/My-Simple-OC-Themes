@@ -6,6 +6,9 @@
 
 ## Some examples of themes ⬇︎
 
+- Design
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Design.png">
+
 - MyCity
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MyCity.png">
 
@@ -131,6 +134,7 @@
 - View Boot screen [DarkGreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/DarkGreen.png) Download ➤ [DarkGreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkGreen.zip)
 - View Boot screen [DarkPurpleMetal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/DarkPurpleMetal.png) Download ➤ [DarkPurpleMetal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkPurpleMetal.zip)
 - View Boot screen [DarkSpace](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/DarkSpace.png) Download ➤ [DarkSpace](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkSpace.zip)
+- View Boot screen [Design](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Design.png) Download ➤ [Design](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Desigh.zip)
 - View Boot screen [ElectricalOC](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ElectricalOC.png) Download ➤ [ElectricalOC](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ElectricalOC.zip) 
 - View Boot screen [ElectricalOC-V2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ElectricalOC-V2.png) Download ➤ [ElectricalOC-V2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ElectricalOC-V2.zip)
 - View Boot screen [ElectricalOCPurple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ElectricalOCPurple.png) Download ➤ [ElectricalOCPurple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ElectricalOCPurple.zip)
