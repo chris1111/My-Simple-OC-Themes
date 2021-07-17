@@ -208,8 +208,7 @@
 - Background ➤ Collections [1680x1050](Background1680x1050/)
 - Background ➤ Collections [2560x1600](Background2560x1600/)
 
-### A tool to resize Background images for use with OpenCanopyGenerator 
-- ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
+#### Tool to resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
 View full Video SetUp theme OC 0.7.0 ⬇︎
 
