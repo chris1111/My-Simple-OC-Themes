@@ -6,6 +6,9 @@
 
 ## Some examples of themes ⬇︎
 
+- Landscape
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Landscape.png">
+
 - BellaColore
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BellaColore.png">
 
@@ -160,6 +163,7 @@
 - View Boot screen [Incrusted](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Incrusted.png) Download ➤ [Incrusted](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Incrusted.zip) 
 - View Boot screen [Lamp](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Lamp.png) Download ➤ [Lamp](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Lamp.zip) 
 - View Boot screen [Lamp-2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Lamp-2.png) Download ➤ [Lamp-2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Lamp-2.zip) 
+- View Boot screen [Landscape](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Landscape.png) Download ➤ [Landscape](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Landscape.zip)
 - View Boot screen [LightCube](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/LightCube.png) Download ➤ [LightCube](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/LightCube.zip)
 - View Boot screen [LightCube-2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/LightCube-2.png) Download ➤ [LightCube-2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/LightCube-2.zip)
 - View Boot screen [LightBox](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/LightBox.png) Download ➤ [LightBox](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/LightBox.zip)
