@@ -6,6 +6,9 @@
 
 ## Some examples of themes ⬇︎
 
+- BellaColore
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BellaColore.png">
+
 - BlueSky
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueSky.png">
 
@@ -123,6 +126,7 @@
 - View Boot screen [Action](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Action.png) Download ➤ [Action](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Action.zip)
 - View Boot screen [ALoySteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/AloySteel.png) Download ➤ [AloySteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/AloySteel.zip)
 - View Boot screen [BeautyAngle](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BeautyAngle.png) Download ➤ [BeautyAngle](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BeautyAngle.zip) 
+- View Boot screen [BellaColore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BellaColore.png) Download ➤ [BellaColore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BellaColore.zip)
 - View Boot screen [BeautySteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BeautySteel.png) Download ➤  [BeautySteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BeautySteel.zip)
 - View Boot screen [BlackBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlackBeauty.png) Download ➤ [BlackBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BlackBeauty.zip)
 - View Boot screen [BlackLight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlackLight.png) Download ➤ [BlackLight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BlackLight..zip)
