@@ -6,6 +6,9 @@
 
 ## Some examples of themes ⬇︎
 
+- CoolBoot
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png">
+
 - NatureBlue
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/NatureBlue.png">
 
@@ -141,6 +144,7 @@
 - View Boot screen [BlueShadow](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueShadow.png) Download ➤ [BlueShadow](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BlueShadow.zip)
 - View Boot screen [BlueSky](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueSky.png) Download ➤ [BlueSky](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BlueSky.zip)
 - View Boot screen [BS-Exposure](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BS-Exposure.png) Download ➤ [BS-Exposure](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BS-Exposure.zip)
+- View Boot screen [CoolBoot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png) Download ➤ [CoolBoot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/CoolBoot.zip)
 - View Boot screen [Coloryst](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Coloryst.png) Download ➤ [Coloryst](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Coloryst.zip)
 - View Boot screen [CollorBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CollorBeauty.png) Download ➤ [CollorBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/CollorBeauty.zip)
 - View Boot screen [Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Cyborg.png) Download ➤ [Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Cyborg.zip)
