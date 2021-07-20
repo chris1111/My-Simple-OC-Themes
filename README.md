@@ -4,6 +4,12 @@
 
 - Update Mai 2021 Themes for OpenCore 0.7.0 and Higher
 
+View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
+
+### Video
+
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/wMukoVFvxFI)
+
 ## Some examples of themes ⬇︎
 
 ## ⬇︎ See Spoiler: (Themes exemple)
@@ -234,11 +240,6 @@
 
 #### Tool to resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
-View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
-
-### Video
-
-[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://www.youtube.com/watch?v=DM_f2bvLJtY)
 
 ### How to create are own Theme
 
