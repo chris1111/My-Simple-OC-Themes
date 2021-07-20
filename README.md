@@ -14,7 +14,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ### Video
 
-[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/wMukoVFvxFI)
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/Vro0z_DCaRk)
 
 ## Some examples of themes ⬇︎
 
