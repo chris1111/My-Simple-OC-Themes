@@ -6,8 +6,7 @@
 
 ## Some examples of themes ⬇︎
 
-## ⬇︎ See Spoiler: (Themes exemple)
-## <details> <summary>
+## ⬇︎ See Spoiler: (Themes exemple) <details> <summary>
 View Themes exemple  </summary>
 
 - CoolBoot
