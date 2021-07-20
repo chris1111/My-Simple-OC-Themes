@@ -7,8 +7,8 @@
 ## Some examples of themes ⬇︎
 
 ## ⬇︎ See Spoiler: (Themes exemple)
-<details> <summary>
-View themes  </summary>
+## <details> <summary>
+View Themes exemple  </summary>
 
 - CoolBoot
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png">
