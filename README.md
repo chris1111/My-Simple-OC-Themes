@@ -18,7 +18,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ## Some examples of themes ⬇︎
 
-![Hand](https://user-images.githubusercontent.com/6248794/126319551-5a25e119-c119-4d76-8e77-98fe4bf8b0bd.gif)
+![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
 - CoolBoot
