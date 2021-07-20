@@ -6,7 +6,7 @@
 
 ## Some examples of themes ⬇︎
 
-## See Spoiler: (Themes exemple)
+## ⬇︎ See Spoiler: (Themes exemple)
 <details> 
   <summary>View themes  </summary>
 
