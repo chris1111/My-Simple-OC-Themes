@@ -2,7 +2,7 @@
 - Themes for OpenCore 0.7.0 / 0.7.1 and Higher
 - Older Themes for OpenCore 0.6.5 - 0.6.9
 
-- Update 18 May 2021 Themes for OpenCore 0.7.0
+- Update Mai 2021 Themes for OpenCore 0.7.0 and Higher
 
 ## Some examples of themes ⬇︎
 
@@ -123,7 +123,7 @@
 
 
 
-## ⬇︎ NEW OC 0.7.0 Download ⬇︎
+## ⬇︎ NEW OC 0.7.0 and Higher Download ⬇︎
 
 - Change Resources to EFI/OC
 
@@ -216,9 +216,9 @@
 - View Boot screen [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Wall.png) Download ➤ [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Wall.zip)
 - View Boot screen [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png) Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
 
-## ⬇︎ Background Collections: OpenCore 0.7.0 ⬇︎
+## ⬇︎ Background Collections: OpenCore 0.7.0 and Higher ⬇︎
 
-### Downloads Background Collections for all themes OpenCore 0.7.0 ⬇︎
+### Downloads Background Collections for all themes OpenCore 0.7.0 and Higher ⬇︎
 
 - Background ➤ Collections [2560x1440](Background2560x1440/)
 - Background ➤ Collections [1920x1200](Background1920x1200/)
@@ -234,7 +234,7 @@
 
 #### Tool to resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
-View full Video SetUp theme OC 0.7.0 ⬇︎
+View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ### Video
 
