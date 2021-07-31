@@ -4,7 +4,7 @@
 
 - Update Mai 2021 Themes for OpenCore 0.7.0 and Higher
 
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png">
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Enjoyable.png">
 
 ## First Use ➤  Change Resources to EFI/OC
 
@@ -22,6 +22,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
+
+- CoolBoot
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png">
 
 - BlueBots
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueBots.png">
@@ -46,6 +49,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 - Design
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Design.png">
+
+- Enjoyable
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Enjoyable.png">
 
 - MyCity
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MyCity.png">
@@ -177,6 +183,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [ElectricalOC](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ElectricalOC.png) Download ➤ [ElectricalOC](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ElectricalOC.zip) 
 - View Boot screen [ElectricalOC-V2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ElectricalOC-V2.png) Download ➤ [ElectricalOC-V2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ElectricalOC-V2.zip)
 - View Boot screen [ElectricalOCPurple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ElectricalOCPurple.png) Download ➤ [ElectricalOCPurple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ElectricalOCPurple.zip)
+- View Boot screen [Enjoyable](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Enjoyable.png) Download ➤ [Enjoyable](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Enjoyable.zip) 
 - View Boot screen [Exact](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Exact.png) Download ➤ [Exact](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Exact.zip) 
 - View Boot screen [Exagcore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Exagcore.png) Download ➤ [Exagcore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Exagcore.zip) 
 - View Boot screen [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ForeignSpecies.png) Download ➤ [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ForeignSpecies.zip)
