@@ -23,6 +23,12 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
+- FlatRiver
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png">
+
+- Simple
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Simple.png">
+
 - CoolBoot
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png">
 
@@ -186,6 +192,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Enjoyable](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Enjoyable.png) Download ➤ [Enjoyable](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Enjoyable.zip) 
 - View Boot screen [Exact](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Exact.png) Download ➤ [Exact](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Exact.zip) 
 - View Boot screen [Exagcore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Exagcore.png) Download ➤ [Exagcore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Exagcore.zip) 
+- View Boot screen [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png) Download ➤ [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FlatRiver.zip)
 - View Boot screen [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ForeignSpecies.png) Download ➤ [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ForeignSpecies.zip)
 - View Boot screen [FullStage](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FullStage.png) Download ➤ [FullStage](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FullStage.zip)
 - View Boot screen [FullScreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FullScreen.png) Download ➤ [FullScreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FullScreen.zip)
@@ -228,6 +235,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Quintessence](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Quintessence.png) Download ➤ [Quintessence](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Quintessence.zip)
 - View Boot screen [RealSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/RealSteel.png) Download ➤ [RealSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/RealSteel.zip) 
 - View Boot screen [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Rock%26Steel.png) Download ➤ [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Rock%26Steel.zip)
+- View Boot screen [Simple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Simple.png) Download ➤ [Simple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Simple.zip)
 - View Boot screen [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/SilentNight.png) Download ➤ [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SilentNight.zip)
 - View Boot screen [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Shelter1.png) Download ➤ [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Shelter.zip)
 - View Boot screen [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/SSDMinimal.png) Download ➤ [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SSDMinimal.zip)
