@@ -38,9 +38,6 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - Block3D
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Block3D.png">
 
-- CoolBoot
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png">
-
 - NatureBlue
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/NatureBlue.png">
 
