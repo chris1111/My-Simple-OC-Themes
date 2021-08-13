@@ -4,7 +4,7 @@
 
 - Update Mai 2021 Themes for OpenCore 0.7.0 and Higher
 
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Enjoyable.png">
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Fashion.png">
 
 ## First Use ➤  Change Resources to EFI/OC
 
@@ -22,6 +22,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
+
+- Fashion
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Fashion.png">
 
 - FlatRiver
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png">
@@ -189,6 +192,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Enjoyable](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Enjoyable.png) Download ➤ [Enjoyable](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Enjoyable.zip) 
 - View Boot screen [Exact](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Exact.png) Download ➤ [Exact](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Exact.zip) 
 - View Boot screen [Exagcore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Exagcore.png) Download ➤ [Exagcore](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Exagcore.zip) 
+- View Boot screen [Fashion](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Fashion.png) Download ➤ [Fashion](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Fashion.zip)
 - View Boot screen [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png) Download ➤ [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FlatRiver.zip)
 - View Boot screen [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ForeignSpecies.png) Download ➤ [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ForeignSpecies.zip)
 - View Boot screen [FullStage](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FullStage.png) Download ➤ [FullStage](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FullStage.zip)
