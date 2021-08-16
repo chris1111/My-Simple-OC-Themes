@@ -4,7 +4,7 @@
 
 - Update Mai 2021 Themes for OpenCore 0.7.0 and Higher
 
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Fashion.png">
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Looker.png">
 
 ## First Use ➤  Change Resources to EFI/OC
 
@@ -22,6 +22,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
+
+- Looker
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Looker.png">
 
 - Fashion
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Fashion.png">
@@ -213,6 +216,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [LightFlake](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/LightFlake.png) Download ➤ [LightFlake](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/LightFlake.zip)
 - View Boot screen [Lights-On](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Lights-On.png) Download ➤ [Lights-On](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Lights-On.zip)
 - View Boot screen [LosangeCollor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/LosangeCollor.png) Download ➤ [LosangeCollor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/LosangeCollor.zip)
+- View Boot screen [Looker](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Looker.png) Download ➤ [Looker](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Looker.zip)
 - View Boot screen [Luminary](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Luminary.png) Download ➤ [Luminary](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Luminary.zip)
 - View Boot screen [MacSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MacSteel.png) Download ➤ [MacSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MacSteel.zip)
 - View Boot screen [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MetalBlack.png) Download ➤ [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MetalBlack.zip)
