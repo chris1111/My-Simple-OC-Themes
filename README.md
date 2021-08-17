@@ -269,7 +269,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - Background ➤ Collections [1680x1050](Background1680x1050/)
 - Background ➤ Collections [2560x1600](Background2560x1600/)
 
-* Collection ➤ [Mac SSD Icon for Flavours OpenCore](Mac SSD Disk Icon/)
+* Collection ➤ [Mac SSD Icon for Flavours OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Mac%20SSD%20Disk%20Icon)
 
 #### Tool to resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
