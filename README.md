@@ -74,6 +74,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - Natural
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Natural.png">
 
+- OldWay
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OldWay.png">
+
 - 5KMacBadge
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/5KMacBadge.png">
 
@@ -240,6 +243,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/NightGlowCity.png) Download ➤ [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NightGlowCity.zip)
 - View Boot screen [OCBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OCBeauty.png) Download ➤ [OCBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/OCBeauty.zip)
 - View Boot screen [OCCloud](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OCCloud.png) Download ➤ [OCCloud](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/OCCloud.zip)
+- View Boot screen [OldWay](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OldWay.png) Download ➤ [OldWay](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/OldWay.zip)
 - View Boot screen [On-Light](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/On-Light.png) Download ➤ [On-Light](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/On-Light.zip)
 - View Boot screen [OnLight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OnLight.png) Download ➤ [OnLight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/OnLight.zip) 
 - View Boot screen [OnStage](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OnStage.png) Download ➤ [OnStage](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/OnStage.zip)
