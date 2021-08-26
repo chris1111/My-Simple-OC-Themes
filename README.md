@@ -12,7 +12,7 @@
 
 - Misc -> Boot -> PickerVariant: chris1111\OnLight
 
-### Setup PickerVariant config.plist (Flavours-Collor themes as exemple
+### Setup Flavours theme in config.plist (Flavours-Collor themes as exemple
 
 - Misc -> Boot -> PickerVariant: chris1111\Flavours-Collor
 - Misc -> Boot -> PickerAtributes: 145
