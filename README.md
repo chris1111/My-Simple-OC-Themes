@@ -12,6 +12,11 @@
 
 - Misc -> Boot -> PickerVariant: chris1111\OnLight
 
+### Setup PickerVariant config.plist (Flavours-Collor themes as exemple
+
+- Misc -> Boot -> PickerVariant: chris1111\Flavours-Collor
+- Misc -> Boot -> PickerAtributes: 145
+
 View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ### Video
@@ -289,7 +294,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - Background ➤ Collections [1680x1050](Background1680x1050/)
 - Background ➤ Collections [2560x1600](Background2560x1600/)
 
-* Collection ➤[Mac SSD Icon for Flavours OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Mac%20SSD%20Disk%20Icon)➤[Flavours OpenCore Icons](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Flavours%20Icons)➤[Flavours OpenCore Icons Blue](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Flavours%20Icons%20BlueStyle)
+* Collection ➤[Mac SSD Icon for Flavours OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons)
 
 #### Tool to resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
