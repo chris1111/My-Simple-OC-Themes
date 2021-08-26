@@ -4,7 +4,7 @@
 
 - Update Mai 2021 Themes for OpenCore 0.7.0 and Higher
 
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png">
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Colllor.png">
 
 ## First Use ➤  Change Resources to EFI/OC
 
@@ -24,7 +24,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
 - Flavours-Collor
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png">
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Colllor.png">
 
 - Flavours-SSD
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SSD.png">
@@ -213,7 +213,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Fashion](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Fashion.png) Download ➤ [Fashion](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Fashion.zip)
 - View Boot screen [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png) Download ➤ [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FlatRiver.zip)
 - View Boot screen [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours.png) Download ➤ [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours.zip)
-- View Boot screen [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png) Download ➤ [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Collor.zip)
+- View Boot screen [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Colllor.png) Download ➤ [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Collor.zip)
 - View Boot screen [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-B.png) Download ➤ [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-B.zip)
 - View Boot screen [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SSD.png) Download ➤ [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-SSD.zip)
 - View Boot screen [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ForeignSpecies.png) Download ➤ [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ForeignSpecies.zip)
