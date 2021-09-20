@@ -17,6 +17,8 @@
 - Misc -> Boot -> PickerVariant: chris1111\Flavours-Collor
 - Misc -> Boot -> PickerAtributes: 145
 
+### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader]()
+
 View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ### Video
