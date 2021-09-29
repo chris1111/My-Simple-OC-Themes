@@ -31,6 +31,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
 - Flavours-X
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png">
+
+- Flavours-X
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png">
 
 - Flash
@@ -235,6 +238,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours.png) Download ➤ [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours.zip)
 - View Boot screen [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png) Download ➤ [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Collor.zip)
 - View Boot screen [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-B.png) Download ➤ [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-B.zip)
+- View Boot screen [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png) Download ➤ [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Badge.zip)
 - View Boot screen [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Metal.png) Download ➤ [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Metal.zip)
 - View Boot screen [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SSD.png) Download ➤ [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-SSD.zip)
 - View Boot screen [Flavours-X](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png) Download ➤ [Flavours-X](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-X.zip)
