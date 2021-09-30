@@ -29,6 +29,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
+- Flavours-Tech
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Tech.png">
+
 - Flavours-Badge
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png">
 
@@ -240,6 +243,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png) Download ➤ [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Badge.zip)
 - View Boot screen [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Metal.png) Download ➤ [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Metal.zip)
 - View Boot screen [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SSD.png) Download ➤ [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-SSD.zip)
+- View Boot screen [Flavours-Tech](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Tech.png) Download ➤ [Flavours-Tech](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Tech.zip)
 - View Boot screen [Flavours-X](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png) Download ➤ [Flavours-X](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-X.zip)
 - View Boot screen [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ForeignSpecies.png) Download ➤ [ForeignSpecies](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ForeignSpecies.zip)
 - View Boot screen [FullStage](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FullStage.png) Download ➤ [FullStage](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FullStage.zip)
