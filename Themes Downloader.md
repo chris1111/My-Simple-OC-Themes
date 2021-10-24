@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Themes Downloader
+Themes Downloader
 ---
 
 <p align="center">
