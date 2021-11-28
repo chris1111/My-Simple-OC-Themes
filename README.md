@@ -4,7 +4,7 @@
 - Older Themes for OpenCore 0.6.5 - 0.6.9
 
 
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatMonterey.png">
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MinimalMac.png">
 
 ## First Use ➤  Change Resources to EFI/OC
 
@@ -31,6 +31,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
+
+- MinimalMac
+<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MinimalMac.png">
 
 - FlatMonterey
 <img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/FlatMonterey.png">
@@ -282,6 +285,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [MechDrive](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MechDrive.png) Download ➤ [MechDrive](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MechDrive.zip)
 - View Boot screen [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MetalBlack.png) Download ➤ [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MetalBlack.zip)
 - View Boot screen [Minimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Minimal.png) Download ➤ [Minimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Minimal.zip)
+- View Boot screen [MinimalMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MinimalMac.png) Download ➤ [MinimalMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MinimalMac.zip)
 - View Boot screen [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MotherShip.png) Download ➤ [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MotherShip.zip)
 - View Boot screen [Monterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Monterey.png) Download ➤ [Monterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Monterey.zip)
 - View Boot screen [Multi](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Multi.png) Download ➤ [Multi](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Multi.zip)
