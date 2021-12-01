@@ -4,7 +4,7 @@
 - Older Themes for OpenCore 0.6.5 - 0.6.9
 
 
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MinimalMac.png">
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Box.png">
 
 ## First Use ➤  Change Resources to EFI/OC
 
@@ -30,6 +30,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
+
+- Flavours-Box.png
+<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Box.png">
 
 
 - MinimalMac
@@ -253,6 +256,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours.png) Download ➤ [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours.zip)
 - View Boot screen [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png) Download ➤ [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Collor.zip)
 - View Boot screen [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-B.png) Download ➤ [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-B.zip)
+- View Boot screen [Flavours-Box](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Box.png) Download ➤ [Flavours-Box](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Box.zip)
 - View Boot screen [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png) Download ➤ [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Badge.zip)
 - View Boot screen [Flavours-Classy](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Classy.png) Download ➤ [Flavours-Classy](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Classy.zip)
 - View Boot screen [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Metal.png) Download ➤ [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Metal.zip)
