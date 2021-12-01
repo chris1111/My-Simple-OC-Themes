@@ -1,7 +1,9 @@
 # My-Simple-theme-for-OpenCore 
-- Themes for OpenCore 0.7.0 and Higher
 
-- Older Themes for OpenCore 0.6.5 - 0.6.9
+Note|Description
+:----|:----
+Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
+
 
 
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Box.png">
