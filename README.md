@@ -6,7 +6,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 
 
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Box.png">
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Cyborg.png">
 
 ## First Use ➤  Change `Resources` to `EFI/OC`
 
@@ -36,6 +36,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 - Flavours-Box
 <img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Box.png">
+
+- Flavours-Cyborg
+<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Cyborg.png">
 
 
 - MinimalMac
@@ -240,7 +243,6 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [CoolBoot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png) Download ➤ [CoolBoot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/CoolBoot.zip)
 - View Boot screen [Coloryst](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Coloryst.png) Download ➤ [Coloryst](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Coloryst.zip)
 - View Boot screen [CollorBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CollorBeauty.png) Download ➤ [CollorBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/CollorBeauty.zip)
-- View Boot screen [Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Cyborg.png) Download ➤ [Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Cyborg.zip)
 - View Boot screen [Darker](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Darker.png) Download ➤ [Darker](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Darker.zip)
 - View Boot screen [DarkGreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/DarkGreen.png) Download ➤ [DarkGreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkGreen.zip)
 - View Boot screen [DarkPurpleMetal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/DarkPurpleMetal.png) Download ➤ [DarkPurpleMetal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkPurpleMetal.zip)
@@ -258,6 +260,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png) Download ➤ [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FlatRiver.zip)
 - View Boot screen [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours.png) Download ➤ [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours.zip)
 - View Boot screen [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png) Download ➤ [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Collor.zip)
+- View Boot screen [Flavours-Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Cyborg.png) Download ➤ [Flavours-Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Cyborg.zip)
 - View Boot screen [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-B.png) Download ➤ [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-B.zip)
 - View Boot screen [Flavours-Box](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Box.png) Download ➤ [Flavours-Box](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Box.zip)
 - View Boot screen [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png) Download ➤ [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Badge.zip)
