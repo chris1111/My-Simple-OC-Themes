@@ -2,7 +2,7 @@
 
 Update
 :----
-09 Dec 2021|All Theme adapted for OpenCore 0.7.7
+09 Dec 2021 ➤ All Theme adapted for OpenCore 0.7.7|
 
 Note|Description
 :----|:----
