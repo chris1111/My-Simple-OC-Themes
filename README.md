@@ -4,7 +4,7 @@ Update
 :----
 09 Dec 2021 ➤ All Theme adapted for OpenCore 0.7.0 and Higher|
 
-Note|Description
+New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
