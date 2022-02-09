@@ -38,7 +38,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
  
  - Flavours-macIOS
-<img width="600" alt="1" src="https://user-images.githubusercontent.com/6248794/153301414-fa8e979e-0b87-49b4-aab4-655753254def.png">
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/6248794/153307145-4e64dc83-2675-48dd-9bf5-a1728996584e.png">
  
 - Flavours-X
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png">
@@ -51,7 +51,6 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 - Flavours-Cyborg
 <img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Cyborg.png">
-
 
 - MinimalMac
 <img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MinimalMac.png">
