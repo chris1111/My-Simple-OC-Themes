@@ -37,6 +37,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
  
+ - Flavours-macIOS
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/6248794/153301414-fa8e979e-0b87-49b4-aab4-655753254def.png">
+ 
 - Flavours-X
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png">
   
