@@ -366,7 +366,6 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
 
-* Collection ➤[Mac SSD Icon for Flavours OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons)
 
 #### Tool to resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
@@ -375,7 +374,8 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 Follow ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
 
-NEW **Using OpenCore Configurator ➤ [GUI THEMES](https://user-images.githubusercontent.com/6248794/121361342-33701380-c903-11eb-93a4-fbabcc860b22.png)**
+
+Old stuff not updated **Using OpenCore Configurator ➤ [GUI THEMES](https://user-images.githubusercontent.com/6248794/121361342-33701380-c903-11eb-93a4-fbabcc860b22.png)**
 
 ## Old stuff OutDate ⬇︎
 
