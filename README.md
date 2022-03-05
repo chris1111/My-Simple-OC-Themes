@@ -362,7 +362,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - Background ➤ Collections [1440x1080](Background1440x1080/)
 - Background ➤ Collections [1600x1200](Background1600x1200/)
 - Background ➤ Collections [1680x1050](Background1680x1050/)
-- Background ➤ Collections [2560x1600](Background2560x1600/)
+- Background ➤ Collections [1280x800](Background1280x800/)
 
 ### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
 
