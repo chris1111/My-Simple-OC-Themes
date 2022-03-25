@@ -9,7 +9,8 @@ New|Older
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 
-<img width="900" alt="1" src="https://user-images.githubusercontent.com/6248794/154357158-1aab41ce-ad43-436a-b26a-ba95774df97e.gif">
+<img width="900" alt="1" src="https://user-images.githubusercontent.com/6248794/160118147-48da7600-e7fd-4487-990d-80bdf5d03d2e.gif">
+
 
 ## First Use ➤  Change `Resources` in `EFI/OC`
 
@@ -37,7 +38,13 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
  
-  - Flavours-Energy
+ - Flavours-AppleDisk
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleDisk.png">
+ 
+ - Flavours-Beauty
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Beauty.png">
+ 
+ - Flavours-Energy
 <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Energy.png">
  
  - Flavours-macIOS
@@ -273,6 +280,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [FlatMonterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatMonterey.png) Download ➤ [FlatMonterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FlatMonterey.zip)
 - View Boot screen [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png) Download ➤ [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FlatRiver.zip)
 - View Boot screen [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours.png) Download ➤ [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours.zip)
+- View Boot screen [Flavours-AppleDisk](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleDisk.png) Download ➤ [Flavours-AppleDisk](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-AppleDisk.zip)
 - View Boot screen [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png) Download ➤ [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Collor.zip)
 - View Boot screen [Flavours-Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Cyborg.png) Download ➤ [Flavours-Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Cyborg.zip)
 - View Boot screen [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-B.png) Download ➤ [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-B.zip)
