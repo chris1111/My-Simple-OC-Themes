@@ -362,7 +362,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Wall.png) Download ➤ [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Wall.zip)
 - View Boot screen [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png) Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
 
-## ⬇︎ Background Collections: OpenCore 0.7.0 and Higher ⬇︎
+## ⬇︎ Background Collections: ⬇︎
 
 ### Downloads Background Collections for all themes OpenCore 0.7.0 and Higher ⬇︎
 
