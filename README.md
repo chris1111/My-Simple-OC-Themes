@@ -9,7 +9,7 @@ New|Older
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 
-<img width="900" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
+<img width="800" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
 
 
 
