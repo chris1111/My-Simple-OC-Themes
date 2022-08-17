@@ -40,6 +40,8 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
  
+  - Splendid-Mountain
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Splendid-Mountain.png">
  
   - Flavours-macOS13
  <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-macOS13.png">
@@ -360,6 +362,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Simple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Simple.png) Download ➤ [Simple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Simple.zip)
 - View Boot screen [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/SilentNight.png) Download ➤ [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SilentNight.zip)
 - View Boot screen [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Shelter1.png) Download ➤ [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Shelter.zip)
+- View Boot screen [Splendid-Mountain](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Splendid-Mountain.png) Download ➤ [Splendid-Mountain](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Splendid-Mountain.zip)
 - View Boot screen [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/SSDMinimal.png) Download ➤ [SSDMinimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SSDMinimal.zip)
 - View Boot screen [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/StarWars.png) Download ➤ [StarWars](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/StarWars.zip)
 - View Boot screen [System](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/System.png) Download ➤ [System](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/System.zip)
