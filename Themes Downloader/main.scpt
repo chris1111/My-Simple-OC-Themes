@@ -1,6 +1,6 @@
- Apple Script by chris1111 
+ # Apple Script by chris1111 
 # Copyright (c) 2021 chris1111 All rights reserved.
-set themes to choose from list {"5KMacBadge", "5KMac", "3Ddesign", "Action", "AloySteel", "ApplePark-2", "BeautyAngle", "BeautySteel", "BellaColore", "BlackBeauty", "BlackLight", "Block3D", "BlueBots", "BlueGrey", "BlueGreyMac", "BlueShadow", "BlueSky", "BS-Exposure", "CollorBeauty", "Coloryst", "CoolBoot", "Darker", "DarkGreen", "DarkPurpleMetal", "DarkSpace", "Design", "ElectricalOC-V2", "ElectricalOC", "ElectricalOCPurple", "Enjoyable", "Exact", "Exagcore", "Fashion", "Flash", "FlatMonterey", "FlatRiver", "Flavours-AppleDisk", "Flavours-AppleVentura", "Flavours-AppleMonterey", "Flavours-B", "Flavours-Beauty", "Flavours-Box", "Flavours-Badge", "Flavours-Classy", "Flavours-Cyborg", "Flavours-Collor", "Flavours-Energy", "Flavours-macOS13", "Flavours-macIOS", "Flavours-Metal", "Flavours-SSD", "Flavours-Tech", "Flavours-X", "Flavours", "FullStage", "ForeignSpecies", "FullScreen", "FusionCore", "GeoMetCube", "Glasses", "GlowBlue", "GreyLight", "HardWood", "Incrusted", "Lamp-2", "Lamp", "Landscape", "LightBox", "LightCube-2", "LightCube", "LightFlake", "LightsOn", "Looker", "LosangeCollor", "Luminary", "MacDrive", "MacSteel", "MetalBlack", "Minimal", "MinimalMac", "MinimalmacOS12", "Monterey", "MotherShip", "Multi", "MyCity", "Natural", "NatureBlue", "NiceBlue", "NightBlue", "NightGlowCity", "OCBeauty", "OCCloud", "OldWay", "On-Light", "OnLight", "OnStage", "Origin", "Pixels", "Quintessence", "RealSteel", "Rock-Steel", "Shelter", "SilentNight", "Simple", "SSDMinimal", "StarWars", "System", "Teleport", "Transporter", "Tribute-2", "Tribute", "TwoTone", "Wall", "WhyNot"} with title "Install Themes OpenCore" with prompt "Which theme do you want to download?
+set themes to choose from list {"5KMacBadge", "5KMac", "3Ddesign", "Action", "AloySteel", "ApplePark-2", "BeautyAngle", "BeautySteel", "BellaColore", "BlackBeauty", "BlackLight", "Block3D", "BlueBots", "BlueGrey", "BlueGreyMac", "BlueShadow", "BlueSky", "BS-Exposure", "CollorBeauty", "Coloryst", "CoolBoot", "Darker", "DarkGreen", "DarkPurpleMetal", "DarkSpace", "Design", "ElectricalOC-V2", "ElectricalOC", "ElectricalOCPurple", "Enjoyable", "Exact", "Exagcore", "Fashion", "Flash", "FlatMonterey", "FlatRiver", "Flavours-AppleDisk", "Flavours-AppleVentura", "Flavours-AppleMonterey", "Flavours-B", "Flavours-Beauty", "Flavours-Box", "Flavours-Badge", "Flavours-Classy", "Flavours-Cyborg", "Flavours-Collor", "Flavours-Energy", "Flavours-macOS13", "Flavours-macIOS", "Flavours-Metal", "Flavours-SSD", "Flavours-Tech", "Flavours-X", "Flavours", "FullStage", "ForeignSpecies", "FullScreen", "FusionCore", "GeoMetCube", "Glasses", "GlowBlue", "GreyLight", "HardWood", "Incrusted", "Lamp-2", "Lamp", "Landscape", "LightBox", "LightCube-2", "LightCube", "LightFlake", "LightsOn", "Looker", "LosangeCollor", "Luminary", "MacDrive", "MacSteel", "MetalBlack", "Minimal", "MinimalMac", "MinimalmacOS12", "Monterey", "MotherShip", "Multi", "MyCity", "Natural", "NatureBlue", "NiceBlue", "NightBlue", "NightGlowCity", "OCBeauty", "OCCloud", "OldWay", "On-Light", "OnLight", "OnStage", "Origin", "Pixels", "Quintessence", "RealSteel", "Rock-Steel", "Shelter", "Splendid-Mountain", "SilentNight", "Simple", "SSDMinimal", "StarWars", "System", "Teleport", "Transporter", "Tribute-2", "Tribute", "TwoTone", "Wall", "WhyNot"} with title "Install Themes OpenCore" with prompt "Which theme do you want to download?
 This will download Acidanthera OcBinaryData without Drivers and .mp3 files as well as your chosen theme" default items "5KMacBadge" OK button name {"Download"} cancel button name {"Cancel"}
 if themes is false then
 	display dialog "Quit Downloader" with icon note buttons {"Exit"} default button {"Exit"}
@@ -9,15 +9,33 @@ end if
 set n to 50
 set the_command to quoted form of POSIX path of (path to resource "Themes-Helper" in directory "Scripts")
 set progress total steps to n
-set progress description to "Download Acidanthera OcBinaryData"
-set progress additional description to "Download ➤ " & themes
-
-repeat with i from 1 to n
-	delay 0.1
-	set progress completed steps to i
-end repeat
 
 if themes is {"5KMacBadge"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/5KMacBadge.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -28,6 +46,31 @@ if themes is {"5KMacBadge"} then
 	do shell script curl_command
 	
 else if themes is {"5KMac"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/5KMac.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -38,6 +81,31 @@ else if themes is {"5KMac"} then
 	do shell script curl_command
 	
 else if themes is {"3Ddesign"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/3Ddesign.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -48,6 +116,31 @@ else if themes is {"3Ddesign"} then
 	do shell script curl_command
 	
 else if themes is {"Action"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Action.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -58,6 +151,31 @@ else if themes is {"Action"} then
 	do shell script curl_command
 	
 else if themes is {"AloySteel"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/AloySteel.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -68,6 +186,31 @@ else if themes is {"AloySteel"} then
 	do shell script curl_command
 	
 else if themes is {"ApplePark-2"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/ApplePark-2.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -78,6 +221,31 @@ else if themes is {"ApplePark-2"} then
 	do shell script curl_command
 	
 else if themes is {"BeautyAngle"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BeautyAngle.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -88,6 +256,31 @@ else if themes is {"BeautyAngle"} then
 	do shell script curl_command
 	
 else if themes is {"BeautySteel"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BeautySteel.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -98,6 +291,31 @@ else if themes is {"BeautySteel"} then
 	do shell script curl_command
 	
 else if themes is {"BellaColore"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BellaColore.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -109,6 +327,31 @@ else if themes is {"BellaColore"} then
 	
 	
 else if themes is {"BlackBeauty"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BlackBeauty.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -119,6 +362,31 @@ else if themes is {"BlackBeauty"} then
 	do shell script curl_command
 	
 else if themes is {"BlackLight"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BlackLight.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -129,6 +397,31 @@ else if themes is {"BlackLight"} then
 	do shell script curl_command
 	
 else if themes is {"Block3D"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Block3D.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -139,6 +432,31 @@ else if themes is {"Block3D"} then
 	do shell script curl_command
 	
 else if themes is {"BlueBots"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BlueBots.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -149,6 +467,31 @@ else if themes is {"BlueBots"} then
 	do shell script curl_command
 	
 else if themes is {"BlueGrey"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BlueGrey.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -159,6 +502,31 @@ else if themes is {"BlueGrey"} then
 	do shell script curl_command
 	
 else if themes is {"BlueGreyMac"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BlueGreyMac.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -169,6 +537,31 @@ else if themes is {"BlueGreyMac"} then
 	do shell script curl_command
 	
 else if themes is {"BlueShadow"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BlueShadow.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -179,6 +572,31 @@ else if themes is {"BlueShadow"} then
 	do shell script curl_command
 	
 else if themes is {"BlueSky"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BlueSky.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -189,6 +607,31 @@ else if themes is {"BlueSky"} then
 	do shell script curl_command
 	
 else if themes is {"BS-Exposure"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/BS-Exposure.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -199,6 +642,31 @@ else if themes is {"BS-Exposure"} then
 	do shell script curl_command
 	
 else if themes is {"CollorBeauty"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/CollorBeauty.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -210,6 +678,31 @@ else if themes is {"CollorBeauty"} then
 	
 	
 else if themes is {"Coloryst"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Coloryst.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -220,6 +713,31 @@ else if themes is {"Coloryst"} then
 	do shell script curl_command
 	
 else if themes is {"CoolBoot"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/CoolBoot.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -231,6 +749,31 @@ else if themes is {"CoolBoot"} then
 	
 	
 else if themes is {"Darker"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Darker.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -241,6 +784,31 @@ else if themes is {"Darker"} then
 	do shell script curl_command
 	
 else if themes is {"DarkGreen"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/DarkGreen.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -251,6 +819,31 @@ else if themes is {"DarkGreen"} then
 	do shell script curl_command
 	
 else if themes is {"DarkPurpleMetal"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/DarkPurpleMetal.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -261,6 +854,31 @@ else if themes is {"DarkPurpleMetal"} then
 	do shell script curl_command
 	
 else if themes is {"DarkSpace"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/DarkSpace.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -271,6 +889,31 @@ else if themes is {"DarkSpace"} then
 	do shell script curl_command
 	
 else if themes is {"Design"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Design.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -281,6 +924,31 @@ else if themes is {"Design"} then
 	do shell script curl_command
 	
 else if themes is {"ElectricalOC-V2"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/ElectricalOC-V2.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -291,6 +959,31 @@ else if themes is {"ElectricalOC-V2"} then
 	do shell script curl_command
 	
 else if themes is {"ElectricalOC"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/ElectricalOC.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -302,6 +995,31 @@ else if themes is {"ElectricalOC"} then
 	
 	
 else if themes is {"ElectricalOCPurple"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/ElectricalOCPurple.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -312,6 +1030,31 @@ else if themes is {"ElectricalOCPurple"} then
 	do shell script curl_command
 	
 else if themes is {"Enjoyable"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Enjoyable.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -322,6 +1065,31 @@ else if themes is {"Enjoyable"} then
 	do shell script curl_command
 	
 else if themes is {"Exact"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Exact.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -332,6 +1100,31 @@ else if themes is {"Exact"} then
 	do shell script curl_command
 	
 else if themes is {"Exagcore"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Exagcore.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -342,6 +1135,31 @@ else if themes is {"Exagcore"} then
 	do shell script curl_command
 	
 else if themes is {"Fashion"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Fashion.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -352,6 +1170,31 @@ else if themes is {"Fashion"} then
 	do shell script curl_command
 	
 else if themes is {"Flash"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flash.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -362,6 +1205,31 @@ else if themes is {"Flash"} then
 	do shell script curl_command
 	
 else if themes is {"FlatMonterey"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/FlatMonterey.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -372,6 +1240,31 @@ else if themes is {"FlatMonterey"} then
 	do shell script curl_command
 	
 else if themes is {"FlatRiver"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/FlatRiver.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -382,6 +1275,31 @@ else if themes is {"FlatRiver"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-AppleDisk"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-AppleDisk.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -392,6 +1310,31 @@ else if themes is {"Flavours-AppleDisk"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-AppleVentura"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-AppleVentura.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -402,6 +1345,31 @@ else if themes is {"Flavours-AppleVentura"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-AppleMonterey"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-AppleMonterey.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -412,6 +1380,31 @@ else if themes is {"Flavours-AppleMonterey"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-B"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-B.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -422,6 +1415,31 @@ else if themes is {"Flavours-B"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-Beauty"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Beauty.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -432,6 +1450,31 @@ else if themes is {"Flavours-Beauty"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-Box"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Box.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -442,6 +1485,31 @@ else if themes is {"Flavours-Box"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-Badge"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Badge.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -452,6 +1520,31 @@ else if themes is {"Flavours-Badge"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-Classy"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Classy.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -463,6 +1556,31 @@ else if themes is {"Flavours-Classy"} then
 	
 	
 else if themes is {"Flavours-Collor"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Collor.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -473,6 +1591,31 @@ else if themes is {"Flavours-Collor"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-Cyborg"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Cyborg.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -483,6 +1626,31 @@ else if themes is {"Flavours-Cyborg"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-Energy"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Energy.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -493,6 +1661,31 @@ else if themes is {"Flavours-Energy"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-macOS13"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-macOS13.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -503,6 +1696,31 @@ else if themes is {"Flavours-macOS13"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-macIOS"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-macIOS.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -513,6 +1731,31 @@ else if themes is {"Flavours-macIOS"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-Metal"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Metal.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -523,6 +1766,31 @@ else if themes is {"Flavours-Metal"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-SSD"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-SSD.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -533,6 +1801,31 @@ else if themes is {"Flavours-SSD"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-Tech"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Tech.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -543,6 +1836,31 @@ else if themes is {"Flavours-Tech"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours-X"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-X.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -553,6 +1871,31 @@ else if themes is {"Flavours-X"} then
 	do shell script curl_command
 	
 else if themes is {"Flavours"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -563,6 +1906,31 @@ else if themes is {"Flavours"} then
 	do shell script curl_command
 	
 else if themes is {"FullStage"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/FullStage.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -573,6 +1941,31 @@ else if themes is {"FullStage"} then
 	do shell script curl_command
 	
 else if themes is {"ForeignSpecies"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/ForeignSpecies.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -583,6 +1976,31 @@ else if themes is {"ForeignSpecies"} then
 	do shell script curl_command
 	
 else if themes is {"FullScreen"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/FullScreen.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -593,6 +2011,31 @@ else if themes is {"FullScreen"} then
 	do shell script curl_command
 	
 else if themes is {"FusionCore"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/FusionCore.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -603,6 +2046,31 @@ else if themes is {"FusionCore"} then
 	do shell script curl_command
 	
 else if themes is {"GeoMetCube"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/GeoMetCube.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -613,6 +2081,31 @@ else if themes is {"GeoMetCube"} then
 	do shell script curl_command
 	
 else if themes is {"Glasses"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Glasses.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -623,6 +2116,31 @@ else if themes is {"Glasses"} then
 	do shell script curl_command
 	
 else if themes is {"GlowBlue"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/GlowBlue.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -633,6 +2151,31 @@ else if themes is {"GlowBlue"} then
 	do shell script curl_command
 	
 else if themes is {"GreyLight"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/GreyLight.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -644,6 +2187,31 @@ else if themes is {"GreyLight"} then
 	
 	
 else if themes is {"HardWood"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/HardWood.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -654,6 +2222,31 @@ else if themes is {"HardWood"} then
 	do shell script curl_command
 	
 else if themes is {"Incrusted"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Incrusted.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -664,6 +2257,31 @@ else if themes is {"Incrusted"} then
 	do shell script curl_command
 	
 else if themes is {"Lamp-2"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Lamp-2.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -674,6 +2292,31 @@ else if themes is {"Lamp-2"} then
 	do shell script curl_command
 	
 else if themes is {"Lamp"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Lamp.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -683,17 +2326,32 @@ else if themes is {"Lamp"} then
 	
 	do shell script curl_command
 	
-else if themes is {"BlueGrey"} then
-	set name_path to "Resources.zip"
-	set ThePath to "/tmp/" & name_path
-	set targetFile to POSIX path of ThePath
-	--since you are using curl
-	set weblink to "https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/BlueGrey.zip"
-	set curl_command to "curl -L " & weblink & " -o " & ThePath
-	
-	do shell script curl_command
-	
 else if themes is {"Landscape"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Landscape.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -704,6 +2362,31 @@ else if themes is {"Landscape"} then
 	do shell script curl_command
 	
 else if themes is {"LightBox"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/LightBox.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -714,6 +2397,31 @@ else if themes is {"LightBox"} then
 	do shell script curl_command
 	
 else if themes is {"LightCube-2"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/LightCube-2.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -724,6 +2432,31 @@ else if themes is {"LightCube-2"} then
 	do shell script curl_command
 	
 else if themes is {"LightCube"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/LightCube.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -734,6 +2467,31 @@ else if themes is {"LightCube"} then
 	do shell script curl_command
 	
 else if themes is {"LightFlake"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/LightFlake.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -745,6 +2503,31 @@ else if themes is {"LightFlake"} then
 	
 	
 else if themes is {"LightsOn"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Lights-On.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -755,6 +2538,31 @@ else if themes is {"LightsOn"} then
 	do shell script curl_command
 	
 else if themes is {"Looker"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Looker.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -765,6 +2573,31 @@ else if themes is {"Looker"} then
 	do shell script curl_command
 	
 else if themes is {"LosangeCollor"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/LosangeCollor.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -775,6 +2608,31 @@ else if themes is {"LosangeCollor"} then
 	do shell script curl_command
 	
 else if themes is {"Luminary"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Luminary.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -785,6 +2643,31 @@ else if themes is {"Luminary"} then
 	do shell script curl_command
 	
 else if themes is {"MacDrive"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/MacDrive.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -795,6 +2678,31 @@ else if themes is {"MacDrive"} then
 	do shell script curl_command
 	
 else if themes is {"MacSteel"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/MacSteel.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -805,6 +2713,31 @@ else if themes is {"MacSteel"} then
 	do shell script curl_command
 	
 else if themes is {"MetalBlack"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/MetalBlack.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -814,17 +2747,32 @@ else if themes is {"MetalBlack"} then
 	
 	do shell script curl_command
 	
-else if themes is {"DarkSpace"} then
-	set name_path to "Resources.zip"
-	set ThePath to "/tmp/" & name_path
-	set targetFile to POSIX path of ThePath
-	--since you are using curl
-	set weblink to "https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkSpace.zip"
-	set curl_command to "curl -L " & weblink & " -o " & ThePath
-	
-	do shell script curl_command
-	
 else if themes is {"Minimal"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Minimal.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -835,6 +2783,31 @@ else if themes is {"Minimal"} then
 	do shell script curl_command
 	
 else if themes is {"MinimalMac"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/MinimalMac.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -845,6 +2818,31 @@ else if themes is {"MinimalMac"} then
 	do shell script curl_command
 	
 else if themes is {"MinimalmacOS12"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/MinimalmacOS12.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -855,6 +2853,31 @@ else if themes is {"MinimalmacOS12"} then
 	do shell script curl_command
 	
 else if themes is {"Monterey"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Monterey.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -865,6 +2888,31 @@ else if themes is {"Monterey"} then
 	do shell script curl_command
 	
 else if themes is {"MotherShip"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/MotherShip.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -876,6 +2924,31 @@ else if themes is {"MotherShip"} then
 	
 	
 else if themes is {"Multi"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Multi.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -886,6 +2959,31 @@ else if themes is {"Multi"} then
 	do shell script curl_command
 	
 else if themes is {"MyCity"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/MyCity.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -896,6 +2994,31 @@ else if themes is {"MyCity"} then
 	do shell script curl_command
 	
 else if themes is {"Natural"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Natural.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -905,17 +3028,32 @@ else if themes is {"Natural"} then
 	
 	do shell script curl_command
 	
-else if themes is {"Exagcore"} then
-	set name_path to "Resources.zip"
-	set ThePath to "/tmp/" & name_path
-	set targetFile to POSIX path of ThePath
-	--since you are using curl
-	set weblink to "https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Exagcore.zip"
-	set curl_command to "curl -L " & weblink & " -o " & ThePath
-	
-	do shell script curl_command
-	
 else if themes is {"NatureBlue"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/NatureBlue.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -926,6 +3064,31 @@ else if themes is {"NatureBlue"} then
 	do shell script curl_command
 	
 else if themes is {"NiceBlue"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/NiceBlue.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -936,6 +3099,31 @@ else if themes is {"NiceBlue"} then
 	do shell script curl_command
 	
 else if themes is {"NightBlue"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/NightBlue.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -946,6 +3134,31 @@ else if themes is {"NightBlue"} then
 	do shell script curl_command
 	
 else if themes is {"NightGlowCity"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/NightGlowCity.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -956,6 +3169,31 @@ else if themes is {"NightGlowCity"} then
 	do shell script curl_command
 	
 else if themes is {"OCBeauty"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/OCBeauty.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -967,6 +3205,31 @@ else if themes is {"OCBeauty"} then
 	
 	
 else if themes is {"OCCloud"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/OCCloud.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -977,6 +3240,31 @@ else if themes is {"OCCloud"} then
 	do shell script curl_command
 	
 else if themes is {"OldWay"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/OldWay.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -987,6 +3275,31 @@ else if themes is {"OldWay"} then
 	do shell script curl_command
 	
 else if themes is {"On-Light"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/On-Light.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -997,6 +3310,31 @@ else if themes is {"On-Light"} then
 	do shell script curl_command
 	
 else if themes is {"OnLight"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/OnLight.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1007,6 +3345,31 @@ else if themes is {"OnLight"} then
 	do shell script curl_command
 	
 else if themes is {"OnStage"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/OnStage.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1017,6 +3380,31 @@ else if themes is {"OnStage"} then
 	do shell script curl_command
 	
 else if themes is {"Origin"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Origin.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1027,6 +3415,31 @@ else if themes is {"Origin"} then
 	do shell script curl_command
 	
 else if themes is {"Pixels"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Pixels.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1037,6 +3450,31 @@ else if themes is {"Pixels"} then
 	do shell script curl_command
 	
 else if themes is {"Quintessence"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Quintessence.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1047,6 +3485,31 @@ else if themes is {"Quintessence"} then
 	do shell script curl_command
 	
 else if themes is {"RealSteel"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/RealSteel.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1058,6 +3521,31 @@ else if themes is {"RealSteel"} then
 	
 	
 else if themes is {"Rock-Steel"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Rock-Steel.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1068,6 +3556,31 @@ else if themes is {"Rock-Steel"} then
 	do shell script curl_command
 	
 else if themes is {"Shelter"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Shelter1.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1076,8 +3589,68 @@ else if themes is {"Shelter"} then
 	set curl_command to "curl -L " & weblink & " -o " & ThePath
 	
 	do shell script curl_command
+else if themes is {"Splendid-Mountain"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Splendid-Mountain.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
+	set name_path to "Resources.zip"
+	set ThePath to "/tmp/" & name_path
+	set targetFile to POSIX path of ThePath
+	--since you are using curl
+	set weblink to "https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Splendid-Mountain.zip"
+	set curl_command to "curl -L " & weblink & " -o " & ThePath
+	
+	do shell script curl_command
+	
 	
 else if themes is {"SilentNight"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/SilentNight.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1088,6 +3661,31 @@ else if themes is {"SilentNight"} then
 	do shell script curl_command
 	
 else if themes is {"Simple"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Simple.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1098,6 +3696,31 @@ else if themes is {"Simple"} then
 	do shell script curl_command
 	
 else if themes is {"SSDMinimal"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/SSDMinimal.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1108,6 +3731,31 @@ else if themes is {"SSDMinimal"} then
 	do shell script curl_command
 	
 else if themes is {"StarWars"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/StarWars.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1118,6 +3766,31 @@ else if themes is {"StarWars"} then
 	do shell script curl_command
 	
 else if themes is {"System"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/System.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1128,6 +3801,31 @@ else if themes is {"System"} then
 	do shell script curl_command
 	
 else if themes is {"Teleport"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Teleport.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1138,6 +3836,31 @@ else if themes is {"Teleport"} then
 	do shell script curl_command
 	
 else if themes is {"Transporter"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Transporter.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1148,6 +3871,31 @@ else if themes is {"Transporter"} then
 	do shell script curl_command
 	
 else if themes is {"Tribute-2"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Tribute-2.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1159,6 +3907,31 @@ else if themes is {"Tribute-2"} then
 	
 	
 else if themes is {"Tribute"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Tribute.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1169,6 +3942,31 @@ else if themes is {"Tribute"} then
 	do shell script curl_command
 	
 else if themes is {"TwoTone"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/TwoTone.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1179,6 +3977,31 @@ else if themes is {"TwoTone"} then
 	do shell script curl_command
 	
 else if themes is {"Wall"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Wall.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1189,6 +4012,31 @@ else if themes is {"Wall"} then
 	do shell script curl_command
 	
 else if themes is {"WhyNot"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/WhyNot.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
 	set name_path to "Resources.zip"
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
@@ -1199,6 +4047,4 @@ else if themes is {"WhyNot"} then
 	do shell script curl_command
 end if
 do shell script the_command
-
-
 
