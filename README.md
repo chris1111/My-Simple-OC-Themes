@@ -8,9 +8,10 @@ New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Spot-Light-Ventura.png">
+
 
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
-
 
 
 
@@ -39,6 +40,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
+ 
+  - Flavours-Spot-Light-Ventura
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Spot-Light-Ventura.png">
  
   - Splendid-Mountain
  <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Splendid-Mountain.png">
@@ -308,6 +312,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Flavours-macOS13](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-macOS13.png) Download ➤ [Flavours-macOS13](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-macOS13.zip)
 - View Boot screen [Flavours-macIOS](https://user-images.githubusercontent.com/6248794/153307145-4e64dc83-2675-48dd-9bf5-a1728996584e.png) Download ➤ [Flavours-macIOS](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-macIOS.zip)
 - View Boot screen [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Metal.png) Download ➤ [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Metal.zip)
+- View Boot screen [Flavours-Spot-Light-Ventura](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Spot-Light-Ventura.png) Download ➤ [Flavours-Spot-Light-Ventura](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Spot-Light-Ventura.zip)
 - View Boot screen [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SSD.png) Download ➤ [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-SSD.zip)
 - View Boot screen [Flavours-Tech](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Tech.png) Download ➤ [Flavours-Tech](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Tech.zip)
 - View Boot screen [Flavours-X](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png) Download ➤ [Flavours-X](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-X.zip)
