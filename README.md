@@ -8,7 +8,8 @@ New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
-<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Spot-Light-Ventura.png">
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/188599890-c8bf26ea-753c-4c52-94e4-caa737bf47b2.png ">
+
 
 
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
