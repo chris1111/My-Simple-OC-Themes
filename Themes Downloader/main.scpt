@@ -1,6 +1,6 @@
  # Apple Script by chris1111 
 # Copyright (c) 2021 chris1111 All rights reserved.
-set themes to choose from list {"5KMacBadge", "5KMac", "3Ddesign", "Action", "AloySteel", "ApplePark-2", "BeautyAngle", "BeautySteel", "BellaColore", "BlackBeauty", "BlackLight", "Block3D", "BlueBots", "BlueGrey", "BlueGreyMac", "BlueShadow", "BlueSky", "BS-Exposure", "CollorBeauty", "Coloryst", "CoolBoot", "Darker", "DarkGreen", "DarkPurpleMetal", "DarkSpace", "Design", "ElectricalOC-V2", "ElectricalOC", "ElectricalOCPurple", "Enjoyable", "Exact", "Exagcore", "Fashion", "Flash", "FlatMonterey", "FlatRiver", "Flavours-AppleDisk", "Flavours-AppleVentura", "Flavours-AppleMonterey", "Flavours-B", "Flavours-Beauty", "Flavours-Box", "Flavours-Badge", "Flavours-Classy", "Flavours-Cyborg", "Flavours-Collor", "Flavours-Energy", "Flavours-macOS13", "Flavours-macIOS", "Flavours-Metal", "Flavours-Metal-Design", "Flavours-Spot-Light-Ventura", "Flavours-SSD", "Flavours-Tech", "Flavours-X", "Flavours", "FullStage", "ForeignSpecies", "FullScreen", "FusionCore", "GeoMetCube", "Glasses", "GlowBlue", "GreyLight", "HardWood", "Incrusted", "Lamp-2", "Lamp", "Landscape", "LightBox", "LightCube-2", "LightCube", "LightFlake", "LightsOn", "Looker", "LosangeCollor", "Luminary", "MacDrive", "MacSteel", "MetalBlack", "Minimal", "MinimalMac", "MinimalmacOS12", "Monterey", "MotherShip", "Multi", "MyCity", "Natural", "NatureBlue", "NiceBlue", "NightBlue", "NightGlowCity", "OCBeauty", "OCCloud", "OldWay", "On-Light", "OnLight", "OnStage", "Origin", "Pixels", "Quintessence", "RealSteel", "Rock-Steel", "Shelter", "Splendid-Mountain", "SilentNight", "Simple", "SSDMinimal", "StarWars", "System", "Teleport", "Transporter", "Tribute-2", "Tribute", "TwoTone", "Wall", "WhyNot"} with title "Install Themes OpenCore" with prompt "Which theme do you want to download?
+set themes to choose from list {"5KMacBadge", "5KMac", "3Ddesign", "Action", "AloySteel", "ApplePark-2", "BeautyAngle", "BeautySteel", "BellaColore", "BlackBeauty", "BlackLight", "Block3D", "BlueBots", "BlueGrey", "BlueGreyMac", "BlueShadow", "BlueSky", "BS-Exposure", "CollorBeauty", "Coloryst", "CoolBoot", "Darker", "DarkGreen", "DarkPurpleMetal", "DarkSpace", "Design", "ElectricalOC-V2", "ElectricalOC", "ElectricalOCPurple", "Enjoyable", "Exact", "Exagcore", "Fashion", "Flash", "FlatMonterey", "FlatRiver", "Flavours-AppleDisk", "Flavours-AppleVentura", "Flavours-AppleMonterey", "Flavours-B", "Flavours-Beauty", "Flavours-Box", "Flavours-Badge", "Flavours-Classy", "Flavours-Cyborg", "Flavours-Collor", "Flavours-Energy", "Flavours-macOS13", "Flavours-macIOS", "Flavours-Metal", "Flavours-Metallic", "Flavours-Metal-Design", "Flavours-Spot-Light-Ventura", "Flavours-SSD", "Flavours-Tech", "Flavours-X", "Flavours", "FullStage", "ForeignSpecies", "FullScreen", "FusionCore", "GeoMetCube", "Glasses", "GlowBlue", "GreyLight", "HardWood", "Incrusted", "Lamp-2", "Lamp", "Landscape", "LightBox", "LightCube-2", "LightCube", "LightFlake", "LightsOn", "Looker", "LosangeCollor", "Luminary", "MacDrive", "MacSteel", "MetalBlack", "Minimal", "MinimalMac", "MinimalmacOS12", "Monterey", "MotherShip", "Multi", "MyCity", "Natural", "NatureBlue", "NiceBlue", "NightBlue", "NightGlowCity", "OCBeauty", "OCCloud", "OldWay", "On-Light", "OnLight", "OnStage", "Origin", "Pixels", "Quintessence", "RealSteel", "Rock-Steel", "Shelter", "Splendid-Mountain", "SilentNight", "Simple", "SSDMinimal", "StarWars", "System", "Teleport", "Transporter", "Tribute-2", "Tribute", "TwoTone", "Wall", "WhyNot"} with title "Install Themes OpenCore" with prompt "Which theme do you want to download?
 This will download Acidanthera OcBinaryData without Drivers and .mp3 files as well as your chosen theme" default items "5KMacBadge" OK button name {"Download"} cancel button name {"Cancel"}
 if themes is false then
 	display dialog "Quit Downloader" with icon note buttons {"Exit"} default button {"Exit"}
@@ -1761,6 +1761,41 @@ else if themes is {"Flavours-Metal"} then
 	set targetFile to POSIX path of ThePath
 	--since you are using curl
 	set weblink to "https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Metal.zip"
+	set curl_command to "curl -L " & weblink & " -o " & ThePath
+	
+	do shell script curl_command
+	
+	else if themes is {"Flavours-Metallic"} then
+	set progress description to "View Download Theme"
+	set progress description to "Download Acidanthera OcBinaryData"
+	set source to path to me as string
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/Flavours-Metallic.png"
+	set source to quoted form of source
+	do shell script "open " & source & "/"
+	set source to path to me as string
+	set x to display dialog "Do you like it and Download?" buttons {"I don't like it ➤ Quit", "I Like it ➤ Download"} default button 2
+	if button returned of x is "I don't like it ➤ Quit" then
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+		return
+	else
+		display dialog "Download ➣ " & themes
+		tell application "Finder"
+			quit application "Preview"
+		end tell
+	end if
+	set progress additional description to "Download ➤ " & themes
+	
+	repeat with i from 1 to n
+		delay 0.1
+		set progress completed steps to i
+	end repeat
+	set name_path to "Resources.zip"
+	set ThePath to "/tmp/" & name_path
+	set targetFile to POSIX path of ThePath
+	--since you are using curl
+	set weblink to "https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Metallic.zip"
 	set curl_command to "curl -L " & weblink & " -o " & ThePath
 	
 	do shell script curl_command
