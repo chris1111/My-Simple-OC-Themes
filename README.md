@@ -8,10 +8,10 @@ New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
-
+- Flavours-Metallic theme Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/189622763-d621267e-3e2e-4935-b69d-ea591fdb2871.png">
 
-
+- Flavours Themes Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/188605230-fd0970ed-8eae-4184-80ea-793d5e2659a6.png">
 
 
