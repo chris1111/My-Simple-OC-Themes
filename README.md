@@ -8,12 +8,24 @@ New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
-- Flavours Themes Icons
+![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
+<details> <summary> View Spoiler: (Favorite Icon Set)  </summary>
+
+
+- Flavours Themes Disk Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/188605230-fd0970ed-8eae-4184-80ea-793d5e2659a6.png">
 
+- Flavours Themes Icons
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/193275514-dfff1a80-758a-4351-abdf-9caa181a24c1.png">
 
 - Flavours-Metallic theme Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/189622763-d621267e-3e2e-4935-b69d-ea591fdb2871.png">
+
+
+</details>
+  
+</p>
+
 
 
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
