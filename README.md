@@ -26,7 +26,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
   
 </p>
 
-
+------------------------------------------------------------------------------
 
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
 
@@ -284,7 +284,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
   
 </p>
 
-
+------------------------------------------------------------------------------
 
 ## ⬇︎ NEW OC 0.7.0 and Higher Download ⬇︎
 
