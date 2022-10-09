@@ -9,7 +9,7 @@ New|Older
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
-<details> <summary> View Spoiler: (Favorite Icon Set)  </summary>
+<details> <summary> View Spoiler: (Favorite preview Icon Set)  </summary>
 
 
 - Flavours Themes Disk Icons
@@ -20,6 +20,12 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 - Flavours-Metallic theme Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/189622763-d621267e-3e2e-4935-b69d-ea591fdb2871.png">
+
+- Flavours-Dark theme Icons
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/194782493-06e2c67e-7272-4d9c-8375-c8b988a6bbb0.png">
+
+
+![Flavours-Dark preview](https://user-images.githubusercontent.com/6248794/194782493-06e2c67e-7272-4d9c-8375-c8b988a6bbb0.png)
 
 
 </details>
@@ -57,6 +63,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
+
+ - Flavours-Dark
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Dark.png">
 
  - Flavours-Icons
  <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Icons.png">
@@ -337,6 +346,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Flavours-Box](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Box.png) Download ➤ [Flavours-Box](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Box.zip)
 - View Boot screen [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png) Download ➤ [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Badge.zip)
 - View Boot screen [Flavours-Classy](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Classy.png) Download ➤ [Flavours-Classy](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Classy.zip)
+- View Boot screen [Flavours-Dark](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Dark.png) Download ➤ [Flavours-Dark](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Dark.zip)
 - View Boot screen [Flavours-Energy](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Energy.png) Download ➤ [Flavours-Energy](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Energy.zip)
 - View Boot screen [Flavours-Icons](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Icons.png) Download ➤ [Flavours-Icons](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Icons.zip)
 - View Boot screen [Flavours-macOS13](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-macOS13.png) Download ➤ [Flavours-macOS13](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-macOS13.zip)
