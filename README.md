@@ -25,9 +25,6 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/194782493-06e2c67e-7272-4d9c-8375-c8b988a6bbb0.png">
 
 
-![Flavours-Dark preview](https://user-images.githubusercontent.com/6248794/194782493-06e2c67e-7272-4d9c-8375-c8b988a6bbb0.png)
-
-
 </details>
   
 </p>
