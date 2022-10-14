@@ -61,6 +61,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
 
+ - Flavours-CollorFull
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-CollorFull.png">
+
  - Flavours-Dark
  <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Dark.png">
 
