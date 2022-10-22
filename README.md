@@ -16,7 +16,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/188605230-fd0970ed-8eae-4184-80ea-793d5e2659a6.png">
 
 - Flavours-Mac Themes Icons
-<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/197365750-e0b1e5b4-9875-4ac7-9c4e-4d66f97563cd.png">
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/197365831-e554655c-aef0-4dbf-b432-577283b790e4.png">
 
 - Flavours Themes Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/193275514-dfff1a80-758a-4351-abdf-9caa181a24c1.png">
