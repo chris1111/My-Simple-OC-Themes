@@ -63,7 +63,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
-
+ - Flavours-Mac
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleCity.png">
+ 
  - Flavours-Mac
  <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Mac.png">
 
