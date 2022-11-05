@@ -15,6 +15,9 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 - Flavours Themes Disk Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/188605230-fd0970ed-8eae-4184-80ea-793d5e2659a6.png">
 
+- Flavours-Border Themes Icons
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/200116776-11853a5c-0f5e-49b3-b6e1-43a29daaa484.png">
+
 - Flavours-Mac Themes Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/197365831-e554655c-aef0-4dbf-b432-577283b790e4.png">
 
@@ -62,6 +65,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
+
+ - Flavours-Border
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Border.png">
 
  - Flavours-AppleCity
  <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleCity.png">
