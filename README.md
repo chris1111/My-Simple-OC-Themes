@@ -72,6 +72,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
+- Flavours-Blue
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Blue.png">
+
 - Flavours-Design
  <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Design.png">
 
@@ -366,6 +369,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Flavours-AppleDisk](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleDisk.png) Download ➤ [Flavours-AppleDisk](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-AppleDisk.zip)
 - View Boot screen [Flavours-AppleMonterey](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleMonterey.png) Download ➤ [Flavours-AppleMonterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-AppleMonterey.zip)
 - View Boot screen [Flavours-AppleVentura](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleVentura.png) Download ➤ [Flavours-AppleVentura](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-AppleVentura.zip)
+- View Boot screen [Flavours-Blue](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Blue.png) Download ➤ [Flavours-Blue](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Blue.zip)
 - View Boot screen [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png) Download ➤ [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Collor.zip)
 - View Boot screen [Flavours-Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Cyborg.png) Download ➤ [Flavours-Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Cyborg.zip)
 - View Boot screen [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-B.png) Download ➤ [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-B.zip)
