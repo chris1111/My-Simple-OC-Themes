@@ -15,6 +15,9 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 - Flavours Themes Disk Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/188605230-fd0970ed-8eae-4184-80ea-793d5e2659a6.png">
 
+- Flavours-Blue Themes Icons
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/202328462-01bad411-ad80-426f-a0ee-68e95a5f2e32.png">
+
 - Flavours-Design Themes Icons
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/201501798-b424aade-b4b6-4ddb-835f-95d066efd42a.png">
 
