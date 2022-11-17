@@ -76,250 +76,250 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
 - Flavours-Blue
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Blue.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Blue.png">
 
 - Flavours-Design
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Design.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Design.png">
 
  - Flavours-MacSystem
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-MacSystem.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-MacSystem.png">
 
  - Flavours-Border
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Border.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Border.png">
 
  - Flavours-AppleCity
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleCity.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleCity.png">
  
  - Flavours-Mac
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Mac.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Mac.png">
 
  - Flavours-CollorFull
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-CollorFull.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-CollorFull.png">
 
  - Flavours-Dark
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Dark.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Dark.png">
 
  - Flavours-Icons
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Icons.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Icons.png">
  
   - Flavours-System
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-System.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-System.png">
 
   - Flavours-Metallic
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Metallic.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Metallic.png">
 
   - Flavours-Metal-Design
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Metal-Design.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Metal-Design.png">
  
   - Flavours-Spot-Light-Ventura
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Spot-Light-Ventura.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Spot-Light-Ventura.png">
  
   - Splendid-Mountain
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Splendid-Mountain.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Splendid-Mountain.png">
  
   - Flavours-macOS13
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-macOS13.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-macOS13.png">
  
   - Flavours-AppleVentura
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleVentura.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleVentura.png">
  
  - Flavours-AppleMonterey
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleMonterey.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleMonterey.png">
  
   - Flavours-AppleDisk
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleDisk.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleDisk.png">
  
  - Flavours-Beauty
- <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Beauty.png">
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Beauty.png">
  
  - Flavours-Energy
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Energy.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Energy.png">
  
  - Flavours-macIOS
-<img width="600" alt="1" src="https://user-images.githubusercontent.com/6248794/153307145-4e64dc83-2675-48dd-9bf5-a1728996584e.png">
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/153307145-4e64dc83-2675-48dd-9bf5-a1728996584e.png">
  
 - Flavours-X
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png">
   
 - MinimalmacOS12
-<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MinimalmacOS12.png">
+<img width="850" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MinimalmacOS12.png">
   
 - Flavours-Box
-<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Box.png">
+<img width="850" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Box.png">
 
 - Flavours-Cyborg
-<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Cyborg.png">
+<img width="850" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Cyborg.png">
 
 - MinimalMac
-<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MinimalMac.png">
+<img width="850" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MinimalMac.png">
 
 - FlatMonterey
-<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/FlatMonterey.png">
+<img width="850" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/FlatMonterey.png">
 
 - MacDrive
-<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MacDrive.png">
+<img width="850" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MacDrive.png">
 
 - Flavours-Tech
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Tech.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Tech.png">
 
 - Flavours-Badge
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png">
 
 - Flavours-X
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png">
 
 - Flash
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flash.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flash.png">
 
 - Flavours-Metal
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Metal.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Metal.png">
 
 - Flavours-Collor
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png">
 
 - Flavours-SSD
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SSD.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SSD.png">
 
 - Flavours-B
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-B.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-B.png">
 
 - Flavours-Classy
-<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Classy.png">
+<img width="850" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Classy.png">
 
 - Flavours
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours.png">
 
 - Looker
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Looker.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Looker.png">
 
 - Fashion
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Fashion.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Fashion.png">
 
 - FlatRiver
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png">
 
 - Simple
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Simple.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Simple.png">
 
 - CoolBoot
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png">
 
 - BlueBots
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueBots.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueBots.png">
 
 - Block3D
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Block3D.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Block3D.png">
 
 - NatureBlue
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/NatureBlue.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/NatureBlue.png">
 
 - Landscape
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Landscape.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Landscape.png">
 
 - BellaColore
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BellaColore.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BellaColore.png">
 
 - BlueSky
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueSky.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueSky.png">
 
 - Design
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Design.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Design.png">
 
 - Enjoyable
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Enjoyable.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Enjoyable.png">
 
 - MyCity
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MyCity.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MyCity.png">
 
 - Natural
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Natural.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Natural.png">
 
 - OldWay
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OldWay.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OldWay.png">
 
 - 5KMacBadge
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/5KMacBadge.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/5KMacBadge.png">
 
 - 5KMac
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/5KMac.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/5KMac.png">
 
 - SSDMinimal
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/SSDMinimal.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/SSDMinimal.png">
 
 - Minimal
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Minimal.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Minimal.png">
 
 - Tribute-2
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Tribute-2.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Tribute-2.png">
 
 - Monterey
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Monterey.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Monterey.png">
 
 - NightBlue
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/NightBlue.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/NightBlue.png">
 
 - SilentNight
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/SilentNight.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/SilentNight.png">
 
 - AloySteel
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/AloySteel.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/AloySteel.png">
 
 - Coloryst
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Coloryst.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Coloryst.png">
 
 - Glasses
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Glasses.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Glasses.png">
 
 - MotherShip
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MotherShip.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MotherShip.png">
 
 - Cyborg
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Cyborg.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Cyborg.png">
 
 - Shelter
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Shelter1.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Shelter1.png">
 
 - Luminary
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Luminary.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Luminary.png">
 
 - NiceBlue
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/NiceBlue.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/NiceBlue.png">
 
 - BLueGreyMac
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueGreyMac.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueGreyMac.png">
   
 - BeautySteel
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BeautySteel.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BeautySteel.png">
 
 - Tribute
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Tribute.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Tribute.png">
   
 - OnStage
-<img width="600" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OnStage.png">
+<img width="850" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OnStage.png">
   
 - RealSteel
-<img width="600" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/RealSteel.png">
+<img width="850" alt="2" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/RealSteel.png">
   
 - ElectricalOCPurple
-<img width="600" alt="3" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ElectricalOCPurple.png">
+<img width="850" alt="3" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/ElectricalOCPurple.png">
   
 - OnLight
-<img width="600" alt="4" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OnLight.png">
+<img width="850" alt="4" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/OnLight.png">
 
 - Multi
-<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Multi.png">
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Multi.png">
   
 - MetalBlack
-<img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MetalBlack.png">
+<img width="850" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MetalBlack.png">
   
 - Quintessence
-<img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Quintessence.png">
+<img width="850" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Quintessence.png">
   
 - BlueGrey
-<img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueGrey.png">
+<img width="850" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/BlueGrey.png">
   
 - CollorBeauty
-<img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CollorBeauty.png">
+<img width="850" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CollorBeauty.png">
   
 </details>
   
