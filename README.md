@@ -471,9 +471,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
   
 </p>
 
-## ⬇︎ Background Collections:
-
-### Downloads Background Collections for all themes OpenCore 0.7.0 and Higher ⬇︎
+### ⬇︎ Downloads Background Collections for all themes OpenCore 0.7.0 and Higher
 
 - Background ➤ Collections [2560x1440](Background2560x1440/) = ➤ [5120 × 2880]
 - Background ➤ Collections [1920x1200](Background1920x1200/) = ➤ [3840 × 2400]
