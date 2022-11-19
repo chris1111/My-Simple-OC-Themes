@@ -330,9 +330,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ------------------------------------------------------------------------------
 
-## ⬇︎ NEW OC 0.7.0 and Higher Download ⬇︎
-
-### ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
+## ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
 ![hand-down](https://user-images.githubusercontent.com/6248794/202848053-634501e1-9bc1-4c2b-aaef-33db62ec998e.png)
 <details> <summary> View Spoiler: (View Boot screen and Downloads)  </summary>
