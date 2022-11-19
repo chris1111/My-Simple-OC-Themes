@@ -8,7 +8,7 @@ New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
-![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
+![hand-down](https://user-images.githubusercontent.com/6248794/202848053-634501e1-9bc1-4c2b-aaef-33db62ec998e.png)
 <details> <summary> View Spoiler: (Favorite preview Icon Set)  </summary>
 
 
@@ -72,7 +72,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ## Some examples of themes ⬇︎
 
-![Hand](https://user-images.githubusercontent.com/6248794/126320160-fc31701d-4b93-48aa-b3d8-ff41f819b873.gif)
+![hand-down](https://user-images.githubusercontent.com/6248794/202848053-634501e1-9bc1-4c2b-aaef-33db62ec998e.png)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
 - Flavours-Blue
