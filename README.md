@@ -8,7 +8,7 @@ New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
-![hand-down](https://user-images.githubusercontent.com/6248794/202848053-634501e1-9bc1-4c2b-aaef-33db62ec998e.png)
+![Hand](https://user-images.githubusercontent.com/6248794/202870988-fcd5748d-d919-4195-92ee-92af5941e970.png)
 <details> <summary> View Spoiler: (Favorite preview Icon Set)  </summary>
 
 
@@ -72,7 +72,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ## ⬇︎ Some examples of themes
 
-![hand-down](https://user-images.githubusercontent.com/6248794/202848053-634501e1-9bc1-4c2b-aaef-33db62ec998e.png)
+![Hand](https://user-images.githubusercontent.com/6248794/202870988-fcd5748d-d919-4195-92ee-92af5941e970.png)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
 - Flavours-Frame
@@ -332,7 +332,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ## ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
-![hand-down](https://user-images.githubusercontent.com/6248794/202848053-634501e1-9bc1-4c2b-aaef-33db62ec998e.png)
+![Hand](https://user-images.githubusercontent.com/6248794/202870988-fcd5748d-d919-4195-92ee-92af5941e970.png)
 <details> <summary> View Spoiler: (View Boot screen and Downloads)  </summary>
 
 
