@@ -332,8 +332,12 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 
 ## ⬇︎ NEW OC 0.7.0 and Higher Download ⬇︎
 
-
 ### ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
+
+![hand-down](https://user-images.githubusercontent.com/6248794/202848053-634501e1-9bc1-4c2b-aaef-33db62ec998e.png)
+<details> <summary> View Spoiler: (View Boot screen and Downloads)  </summary>
+
+
 
 - View Boot screen [5KMacBadge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/5KMacBadge.png) Download ➤ [5KMacBadge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/5KMacBadge.zip)
 - View Boot screen [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/5KMac.png) Download ➤ [5KMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/5KMac.zip)
@@ -464,6 +468,10 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [TwoTone](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/TwoTone.png) Download ➤ [TwoTone](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/TwoTone.zip)
 - View Boot screen [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Wall.png) Download ➤ [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Wall.zip)
 - View Boot screen [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png) Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
+
+</details>
+  
+</p>
 
 ## ⬇︎ Background Collections: ⬇︎
 
