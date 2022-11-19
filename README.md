@@ -75,6 +75,9 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 ![hand-down](https://user-images.githubusercontent.com/6248794/202848053-634501e1-9bc1-4c2b-aaef-33db62ec998e.png)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
 
+- Flavours-Frame
+ <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Frame.png">
+
 - Flavours-Blue
  <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Blue.png">
 
@@ -385,6 +388,7 @@ View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
 - View Boot screen [Flavours-Dark](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Dark.png) Download ➤ [Flavours-Dark](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Dark.zip)
 - View Boot screen [Flavours-Design](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Design.png) Download ➤ [Flavours-Design](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Design.zip)
 - View Boot screen [Flavours-Energy](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Energy.png) Download ➤ [Flavours-Energy](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Energy.zip)
+- View Boot screen [Flavours-Frame](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Frame.png) Download ➤ [Flavours-Frame](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Frame.zip)
 - View Boot screen [Flavours-Icons](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Icons.png) Download ➤ [Flavours-Icons](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Icons.zip)
 - View Boot screen [Flavours-Mac](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Mac.png) Download ➤ [Flavours-Mac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Mac.zip)
 - View Boot screen [Flavours-MacSystem](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-MacSystem.png) Download ➤ [Flavours-MacSystem](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-MacSystem.zip)
