@@ -64,13 +64,13 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 - Misc -> Boot -> PickerAtributes: 145
 
 
-View full Video SetUp theme OC 0.7.0 and Higher ⬇︎
+⬇︎ View full Video SetUp theme OC 0.7.0 and Higher
 
 ### Video
 
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/185791797-577c1804-cbdb-4c9e-a6f7-fab3b8da6355.png)](https://youtu.be/Vro0z_DCaRk)
 
-## Some examples of themes ⬇︎
+## ⬇︎ Some examples of themes
 
 ![hand-down](https://user-images.githubusercontent.com/6248794/202848053-634501e1-9bc1-4c2b-aaef-33db62ec998e.png)
 <details> <summary> View Spoiler: (Themes exemple)  </summary>
