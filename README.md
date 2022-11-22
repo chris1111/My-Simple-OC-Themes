@@ -51,7 +51,7 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 #### How to create are own Theme ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
 
-Old stuff not updated **Using OpenCore Configurator ➤ [GUI THEMES](https://user-images.githubusercontent.com/6248794/121361342-33701380-c903-11eb-93a4-fbabcc860b22.png)**
+------------------------------------------------------------------------------
 
 ### Old stuff OutDate ⬇︎
 
