@@ -45,14 +45,14 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ------------------------------------------------------------------------------
 
-### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
+#### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
 
-### Tool to resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
+#### Resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
-### How to create are own Theme ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
+#### How to create are own Theme ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
 
 Old stuff not updated **Using OpenCore Configurator ➤ [GUI THEMES](https://user-images.githubusercontent.com/6248794/121361342-33701380-c903-11eb-93a4-fbabcc860b22.png)**
 
-## Old stuff OutDate ⬇︎
+### Old stuff OutDate ⬇︎
 
 Older themes available here ➤ [Older themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
