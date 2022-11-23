@@ -22,7 +22,7 @@
 - Download ➤ [Flavours-Mac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Mac.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Mac.png">
 
-- Download ➤ [Flavours-MacSystem](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-MacSyetem.zip)
+- Download ➤ [Flavours-MacSystem](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-MacSystem.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-MacSystem.png">
 
 - Download ➤ [Flavours-MacOS13](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-MacOS13.zip)
