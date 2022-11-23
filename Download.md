@@ -333,11 +333,14 @@
 - Download ➤ [Transporter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Transporter.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Transporter.png">
 
-- Download ➤ [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute.zip)
-<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Tribute.png">
+- Download ➤ [Tribute-3](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute-3.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Tribute-3.png">
 
 - Download ➤ [Tribute-2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute-2.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Tribute-2.png">
+
+- Download ➤ [Tribute](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Tribute.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Tribute.png">
 
 - Download ➤ [TwoTone](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/TwoTone.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/TwoTone.png">
