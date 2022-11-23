@@ -37,8 +37,6 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ### View ➤ [Icon Set](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md)
 
-### View ➤ [Themes Exemples](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%20Screen.md)
-
 ### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md )
 
 ### Downloads ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
