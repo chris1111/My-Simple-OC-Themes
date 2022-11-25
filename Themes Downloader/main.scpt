@@ -1,6 +1,6 @@
  # Apple Script by chris1111 
 # Copyright (c) 2021 chris1111 All rights reserved.
-set themes to choose from list {"5KMacBadge", "5KMac", "3Ddesign", "Action", "AloySteel", "ApplePark-2", "BeautyAngle", "BeautySteel", "BellaColore", "BlackBeauty", "BlackLight", "Block3D", "BlueBots", "BlueGrey", "BlueGreyMac", "BlueShadow", "BlueSky", "BS-Exposure", "CollorBeauty", "Coloryst", "CoolBoot", "Darker", "DarkGreen", "DarkPurpleMetal", "DarkSpace", "Design", "ElectricalOC-V2", "ElectricalOC", "ElectricalOCPurple", "Enjoyable", "Exact", "Exagcore", "Fashion", "Flash", "FlatMonterey", "FlatRiver", "Flavours-AppleCity", "Flavours-AppleDisk", "Flavours-AppleVentura", "Flavours-AppleMonterey", "Flavours-B", "Flavours-Blue", "Flavours-Beauty", "Flavours-Box", "Flavours-Badge", "Flavours-Border", "Flavours-Classy", "Flavours-Cyborg", "Flavours-Collor", "Flavours-CollorFull", "Flavours-Dark", "Flavours-Design", "Flavours-Energy", "Flavours-Frame", "Flavours-Icons", "Flavours-Mac", "Flavours-MacSystem", "Flavours-macOS13", "Flavours-macIOS", "Flavours-Metal", "Flavours-Metallic", "Flavours-Metal-Design", "Flavours-Spot-Light-Ventura", "Flavours-SSD", "Flavours-System", "Flavours-Tech", "Flavours-X", "Flavours", "FullStage", "ForeignSpecies", "FullScreen", "FusionCore", "GeoMetCube", "Glasses", "GlowBlue", "GreyLight", "HardWood", "Incrusted", "Lamp-2", "Lamp", "Landscape", "LightBox", "LightCube-2", "LightCube", "LightFlake", "LightsOn", "Looker", "LosangeCollor", "Luminary", "MacDrive", "MacSteel", "MetalBlack", "Minimal", "MinimalMac", "MinimalmacOS12", "Monterey", "MotherShip", "Multi", "MyCity", "Natural", "NatureBlue", "NiceBlue", "NightBlue", "NightGlowCity", "OCBeauty", "OCCloud", "OldWay", "On-Light", "OnLight", "OnStage", "Origin", "Pixels", "Quintessence", "RealSteel", "Rock-Steel", "Shelter", "Splendid-Mountain", "SilentNight", "Simple", "SSDMinimal", "StarWars", "System", "Teleport", "Transporter", "Tribute-2", "Tribute", "TwoTone", "Wall", "WhyNot"} with title "Install Themes OpenCore" with prompt "Which theme do you want to download?
+set themes to choose from list {"5KMacBadge", "5KMac", "3Ddesign", "Action", "AloySteel", "ApplePark", "BeautyAngle", "BeautySteel", "BellaColore", "BlackBeauty", "BlackLight", "Block3D", "BlueBots", "BlueGrey", "BlueGreyMac", "BlueShadow", "BlueSky", "BS-Exposure", "CollorBeauty", "Coloryst", "CoolBoot", "Darker", "DarkGreen", "DarkPurpleMetal", "DarkSpace", "Design", "ElectricalOC-V2", "ElectricalOC", "ElectricalOCPurple", "Enjoyable", "Exact", "Exagcore", "Fashion", "Flash", "FlatMonterey", "FlatRiver", "Flavours-AppleCity", "Flavours-AppleDisk", "Flavours-AppleVentura", "Flavours-AppleMonterey", "Flavours-B", "Flavours-Blue", "Flavours-Beauty", "Flavours-Box", "Flavours-Badge", "Flavours-Border", "Flavours-Classy", "Flavours-Cyborg", "Flavours-Collor", "Flavours-CollorFull", "Flavours-Dark", "Flavours-Design", "Flavours-Energy", "Flavours-Frame", "Flavours-Icons", "Flavours-Mac", "Flavours-MacSystem", "Flavours-macOS13", "Flavours-macIOS", "Flavours-Metal", "Flavours-Metallic", "Flavours-Metal-Design", "Flavours-Spot-Light-Ventura", "Flavours-SSD", "Flavours-System", "Flavours-Tech", "Flavours-X", "Flavours", "FullStage", "ForeignSpecies", "FullScreen", "FusionCore", "GeoMetCube", "Glasses", "GlowBlue", "GreyLight", "HardWood", "Incrusted", "Lamp-2", "Lamp", "Landscape", "LightBox", "LightCube-2", "LightCube", "LightFlake", "LightsOn", "Looker", "LosangeCollor", "Luminary", "MacDrive", "MacSteel", "MetalBlack", "Minimal", "MinimalMac", "MinimalmacOS12", "Monterey", "MotherShip", "Multi", "MyCity", "Natural", "NatureBlue", "NiceBlue", "NightBlue", "NightGlowCity", "OCBeauty", "OCCloud", "OldWay", "On-Light", "OnLight", "OnStage", "Origin", "Pixels", "Quintessence", "RealSteel", "Rock-Steel", "Shelter", "Splendid-Mountain", "SilentNight", "Simple", "SSDMinimal", "StarWars", "System", "Teleport", "Transporter", "Tribute-2", "Tribute", "TwoTone", "Wall", "WhyNot"} with title "Install Themes OpenCore" with prompt "Which theme do you want to download?
 This will download Acidanthera OcBinaryData without Drivers and .mp3 files as well as your chosen theme" default items "5KMacBadge" OK button name {"Download"} cancel button name {"Cancel"}
 if themes is false then
 	display dialog "Quit Downloader" with icon note buttons {"Exit"} default button {"Exit"}
@@ -185,11 +185,11 @@ else if themes is {"AloySteel"} then
 	
 	do shell script curl_command
 	
-else if themes is {"ApplePark-2"} then
+else if themes is {"ApplePark"} then
 	set progress description to "View Download Theme"
 	set progress description to "Download Acidanthera OcBinaryData"
 	set source to path to me as string
-	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/ApplePark-2.png"
+	set source to POSIX path of source & "Contents/Resources/View%20Boot%200.7/ApplePark.png"
 	set source to quoted form of source
 	do shell script "open " & source & "/"
 	set source to path to me as string
@@ -215,7 +215,7 @@ else if themes is {"ApplePark-2"} then
 	set ThePath to "/tmp/" & name_path
 	set targetFile to POSIX path of ThePath
 	--since you are using curl
-	set weblink to "https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ApplePark-2.zip"
+	set weblink to "https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/ApplePark.zip"
 	set curl_command to "curl -L " & weblink & " -o " & ThePath
 	
 	do shell script curl_command
