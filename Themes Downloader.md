@@ -1,5 +1,7 @@
 ---
 Themes Downloader
+Credit: Developer Todd Ditchendorf 
+[Fluid](https://fluidapp.com)
 ---
 
 <p align="center">
