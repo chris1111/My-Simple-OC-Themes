@@ -1,6 +1,9 @@
 ---
-Background Collections
+layout: default
+title: Background Collections
+description: Background Collections for all screen
 ---
+
 
 ### ⬇︎ Downloads Background Collections for all themes OpenCore 0.7.0 and Higher
 
