@@ -1,5 +1,7 @@
 ---
-Themes exemple
+layout: default
+title: Themes exemple
+description: ScreenShot Themes exemple
 ---
 
 - Flavours-Frame
