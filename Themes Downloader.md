@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Themes Downloader
-description: Credit: Developer Todd Ditchendorf 
-[Fluid](https://fluidapp.com)
+description: Credit: Developer Todd Ditchendorf Fluid https://fluidapp.com
 ---
 
 <p align="center">
