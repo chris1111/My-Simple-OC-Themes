@@ -1,6 +1,9 @@
 ---
-View Icon Set
+layout: default
+title: Icon Set
+description: View Icon Set
 ---
+
 
 - View Flavours-Frame Themes Icons ➤ [Flavours-Frame Themes Icons](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-Frame)
 
