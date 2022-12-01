@@ -1,4 +1,9 @@
 title: My Simple Themes
 description: Themes for OpenCore.
+color:
+  gradient_color: "#FF9000"
+  gradient_left: "#F7910F"
+  gradient_right: "#FF9000"
+  section_title: "#155799"
 google_analytics:
 theme: jekyll-theme-cayman
