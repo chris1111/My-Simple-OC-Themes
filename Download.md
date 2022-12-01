@@ -358,4 +358,4 @@ description: Download Themes OpenCore
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png">
 
 
-[back ⤊](./)
+[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md)
