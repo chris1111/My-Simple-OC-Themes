@@ -19,4 +19,3 @@ description: Background Collections for all screen
 - Background ➤ Collections [1680x1050](Background1680x1050/) = ➤ [3360 × 2100]
 - Background ➤ Collections [1280x800](Background1280x800/) = ➤ [2560x1600]
 
-[back ⤊](./)
