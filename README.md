@@ -28,6 +28,14 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 - Misc -> Boot -> PickerVariant: chris1111\Flavours-Collor
 - Misc -> Boot -> PickerAtributes: 145
 
+### NOTE: OC O.8.7 and Higher themes in config.plist
+- see Exemple ⤋
+
+- Misc -> Boot -> PickerVariant: chris1111\Flavours-Wonderfull
+- Misc -> Boot -> PickerAtributes: 145
+- Misc -> Boot -> ShowPicker: Always
+
+
 
 ⬇︎ View full Video SetUp theme OC 0.7.0 and Higher
 
