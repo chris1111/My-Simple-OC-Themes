@@ -61,3 +61,16 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 ### Old stuff OutDate ⬇︎
 
 Older themes available here ➤ [Older themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
+
+#### Credit:
+- [Mike Beaton](https://github.com/mikebeaton) Amazing work in OpenCore content flavour system
+- [blackosx](https://github.com/blackosx) Instructions / knowledge
+- [acidanthera](https://github.com/acidanthera/OpenCorePkg) OpenCore / Instructions / icnspack
+- [pngquant](https://pngquant.org) Compression PNG images
+- [chris1111](https://github.com/chris1111/) Github repos
+
+Details about how to use these, consult the [OpenCore Content Flavours](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md)
+
+Details about how to use these, consult the [OpenCore configuration documentation PDF](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
+
+You can check the [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencores-gui).
