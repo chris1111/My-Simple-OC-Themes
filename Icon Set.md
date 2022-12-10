@@ -4,6 +4,9 @@ title: Icon Set
 description: View Icon Set
 ---
 
+- View Flavours-Mountain Themes Icons ➤ [Flavours-Mountain](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-Mountain)
+
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/SSD_Icons/IconSet/Flavours-Mountain.png">
 
 - View Flavours-Frame Themes Icons ➤ [Flavours-Frame Themes Icons](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-Frame)
 
