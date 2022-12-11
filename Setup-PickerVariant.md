@@ -31,4 +31,4 @@
 ![OC 088](https://user-images.githubusercontent.com/6248794/206881307-2eec1bb8-c4a5-4a87-89ae-d49f0c9fa9d6.png)
 
 
-[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/wiki)
+[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes)
