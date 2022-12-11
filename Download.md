@@ -1,8 +1,7 @@
----
-layout: default
-title: Themes OC
-description: Download Themes OpenCore
----
+New|Older
+:----|:----
+Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
+
 
 ---
 ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
