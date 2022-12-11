@@ -1,4 +1,4 @@
-View/ Download Background Collections|
+Download Background Collections|
 :----|
 
 
