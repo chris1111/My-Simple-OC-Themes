@@ -1,7 +1,7 @@
----
-layout: default
-title: Background Collections
-description: Background Collections for all screen
+View/ Download Background Collections|
+:----|
+
+
 ---
 
 
