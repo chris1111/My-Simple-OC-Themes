@@ -35,6 +35,13 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 - Misc -> Boot -> PickerAtributes: 145
 - Misc -> Boot -> ShowPicker: Always ☞ [New in OC 0.8.7](https://user-images.githubusercontent.com/6248794/205436722-2e246b48-662d-4bec-beab-c3b7cd160623.png)
 
+### NOTE: OpenCore 0.8.8 and Higher themes in config.plist
+- see Exemple ⤋
+
+- Misc -> Boot -> PickerVariant: chris1111\Flavours-Mountain
+- Misc -> Boot -> PickerAtributes: 145
+- Misc -> Boot -> ShowPicker: true ☞ [New in OC 0.8.8](https://user-images.githubusercontent.com/6248794/206881307-2eec1bb8-c4a5-4a87-89ae-d49f0c9fa9d6.png)
+
 
 ⬇︎ View full Video SetUp theme OC 0.7.0 and Higher
 
