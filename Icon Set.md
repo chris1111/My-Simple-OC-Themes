@@ -1,8 +1,7 @@
----
-layout: default
-title: Icon Set
-description: View Icon Set
----
+View/Download|
+:----|
+Icon Set|
+
 
 - View Flavours-Mountain Themes Icons ➤ [Flavours-Mountain](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-Mountain)
 
