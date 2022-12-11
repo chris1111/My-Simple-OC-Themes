@@ -1,4 +1,4 @@
-Boot Screen/Download|
+Download|
 :----|
 Themes for OpenCore 0.7.0 and Higher|
 
