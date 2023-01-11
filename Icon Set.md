@@ -15,6 +15,10 @@ View Icon Set/Download|
 
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/SSD_Icons/IconSet/Flavours-DiskIcons.png">
 
+- View Flavours-DarkSide Themes Icons ➤ [Flavours-DarkSide Themes Icons](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-DarkSide)
+
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/SSD_Icons/IconSet/Flavours-DarkSide.png">
+
 - View Flavours-D Themes Icons ➤ [Flavours-D Themes Icons](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-D)
 
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/SSD_Icons/IconSet/Flavours-D.png">
