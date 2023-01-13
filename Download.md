@@ -12,7 +12,7 @@ Themes for OpenCore 0.7.0 and Higher|
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212364683-e2e72e04-d501-42af-abf3-5326699f4fa5.gif">
 
 - Download ➤ [PrimitiveMacPro](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacPro.zip) Gen@3 MacPro
-<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212229927-c2ffa30b-47c1-407c-be74-19c28cfeb6bb.gif">
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212430574-3c1a8cf4-c79c-494c-8277-6a148a262106.gif">
 
 - Download ➤ [Flavours-DarkSide](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-DarkSide.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-DarkSide.png">
@@ -376,6 +376,5 @@ Themes for OpenCore 0.7.0 and Higher|
 
 - Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png">
-
 
 [Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md)
