@@ -9,7 +9,7 @@ Themes for OpenCore 0.7.0 and Higher|
 - Downloads ➤ [Background Collections for all themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 ---
 - Download ➤ [Primitive-MacPro](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Primitive-MacPro.zip) Gen@1 MacPro
-<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212364683-e2e72e04-d501-42af-abf3-5326699f4fa5.gif">
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212458802-cc66afe6-3e93-4b6f-9eae-6014edc89fb3.gif">
 
 - Download ➤ [PrimitiveMacPro](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacPro.zip) Gen@3 MacPro
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212457498-f883ba95-efb1-45b2-8512-5c12a3181888.gif">
@@ -378,3 +378,4 @@ Themes for OpenCore 0.7.0 and Higher|
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png">
 
 [Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md)
+
