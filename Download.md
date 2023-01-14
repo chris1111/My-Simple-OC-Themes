@@ -11,9 +11,15 @@ Themes for OpenCore 0.7.0 and Higher|
 - Download ➤ [Primitive-MacPro](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Primitive-MacPro.zip) Gen@1 MacPro
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212458802-cc66afe6-3e93-4b6f-9eae-6014edc89fb3.gif">
 
+- Download ➤ [Primitive-MacProGrey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Primitive-MacProGrey.zip) Gen@1 MacPro
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212474861-dcf1b470-c8e3-4973-92b5-18434906ac27.gif">
+
 - Download ➤ [PrimitiveMacPro](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacPro.zip) Gen@3 MacPro
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212457498-f883ba95-efb1-45b2-8512-5c12a3181888.gif">
 
+- Download ➤ [PrimitiveMacProGrey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacProGrey.zip) Gen@3 MacPro
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212474862-be2e24ab-2619-4ae4-b723-76bfa1aa63b4.gif">
+                              
 - Download ➤ [Flavours-DarkSide](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-DarkSide.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-DarkSide.png">
 
