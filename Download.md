@@ -8,6 +8,9 @@ Themes for OpenCore 0.7.0 and Higher|
 
 - Downloads ➤ [Background Collections for all themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 ---
+- Download ➤ [PrimitiveMacDrive](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacDrive.zip) Gen@1 MacPro
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212487344-d325e37a-f92e-40ff-8420-2d701556432f.gif">
+
 - Download ➤ [Primitive-MacPro](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Primitive-MacPro.zip) Gen@1 MacPro
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212458802-cc66afe6-3e93-4b6f-9eae-6014edc89fb3.gif">
 
