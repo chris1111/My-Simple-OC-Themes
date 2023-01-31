@@ -2,12 +2,15 @@ Download|
 :----|
 Themes for OpenCore 0.7.0 and Higher|
 
-
 ---
 ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
 - Downloads ➤ [Background Collections for all themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 ---
+
+- Download ➤ [NaturalMacBook](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NaturalMacBook.zip)
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/215901767-bfc9da61-2c2c-4851-b2a7-5592a93486b5.gif ">
+
 - Download ➤ [PrimitiveMacDrive-3](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacDrive-3.zip) Same as Ventura side bar disk (Badge not Visible)
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212540372-60a193dc-7aef-4b77-a024-ba138435f15d.gif">
 
