@@ -9,7 +9,7 @@ Themes for OpenCore 0.7.0 and Higher|
 ---
 
 - Download ➤ [NaturaliMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NaturaliMac.zip)
-<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/217104873-72324372-98b5-4787-8f5c-cb008c526441.png ">
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/217108520-9b8fd2ff-11fd-4dfd-ba86-cdbc807fdb1a.png">
 
 - Download ➤ [Flavours-Magnifico](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Magnifico.zip) 
  If you want to use Disk icons, see readme.txt inside theme
