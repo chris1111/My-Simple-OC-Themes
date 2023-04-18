@@ -8,6 +8,9 @@ Themes for OpenCore 0.7.0 and Higher|
 - Downloads ➤ [Background Collections for all themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 ---
 
+- Download ➤ [AMD-Ryzen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/AMD-Ryzen.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/AMD-Ryzen.png">
+
 - Download ➤ [Flavours-CleanDark](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-CleanDark.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-CleanDark.png">
 
