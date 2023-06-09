@@ -8,6 +8,9 @@ Themes for OpenCore 0.7.0 and Higher|
 - Downloads ➤ [Background Collections for all themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 ---
 
+- Download ➤ [Flavours-Sonoma14](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Sonoma14.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Sonoma14.png">
+
 - Download ➤ [Flavours-Ventura13](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Ventura13.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Ventura13.png">
 
