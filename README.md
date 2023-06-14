@@ -61,3 +61,5 @@ Details about how to use these, consult the [OpenCore Content Flavours](https://
 Details about how to use these, consult the [OpenCore configuration documentation PDF](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
 
 You can check the [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencores-gui).
+
+Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.7.0)
