@@ -46,3 +46,5 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ### Older themes available here ➤ [Older themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
 
+Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.7.0)
+
