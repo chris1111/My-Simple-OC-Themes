@@ -11,6 +11,7 @@
 #### see Exemple ⤋
 - Misc -> Boot -> PickerVariant: chris1111\Flavours-Wonderfull
 - Misc -> Boot -> PickerAtributes: 145
+- Misc -> Boot -> ShowPicker: true
 
 ![config2](https://user-images.githubusercontent.com/6248794/205488049-1000e880-aca8-4ecd-8a02-93c29b88e8c5.png)
 
@@ -18,7 +19,7 @@
 #### see Exemple ⤋
 - Misc -> Boot -> PickerVariant: chris1111\Flavours-Wonderfull
 - Misc -> Boot -> PickerAtributes: 145
-- Misc -> Boot -> ShowPicker: Always
+- Misc -> Boot -> ShowPicker: true
 
 ![config3](https://user-images.githubusercontent.com/6248794/205488054-54b361c1-794b-492e-8a73-7a2bd42e98b8.png)
 
