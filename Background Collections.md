@@ -4,7 +4,10 @@ Download Background Collections|
 
 ---
 
+🚫 Please note: 
+- To access the links and the associated files you must have a github account and be connected otherwise you will have an error on the links.
 
+---
 ### ⬇︎ Downloads Background Collections for all themes OpenCore 0.7.0 and Higher
 
 - Background ➤ Collections [2560x1440](Background2560x1440/) = ➤ [5120×2880]
