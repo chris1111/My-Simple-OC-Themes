@@ -1,8 +1,3 @@
----
-layout: default
-title: Themes Downloader
-description: Credit: Developer Todd Ditchendorf Fluid https://fluidapp.com
----
 
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/134047896-73e5d6ae-0b0a-4686-a98b-f50ccbfd0204.png">

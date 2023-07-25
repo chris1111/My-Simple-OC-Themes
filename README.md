@@ -10,6 +10,10 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 
 ------------------------------------------------------------------------------
 
+For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ [ macOS Sonoma 14 icons](https://github.com/chris1111/My-Simple-OC-Themes/discussions/18)
+
+------------------------------------------------------------------------------
+
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
 
 
@@ -33,13 +37,12 @@ Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
 ### Downloads ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 
 ------------------------------------------------------------------------------
-
-#### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
+### How to create are own Theme ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
+### Create theme from a single Background ➤ [OpenCore-Theme-Builder](https://github.com/chris1111/OpenCore-Theme-Builder)
 
 #### Resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
-#### How to create are own Theme ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
-
+#### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
 ------------------------------------------------------------------------------
 
 ### Old stuff OutDate ⬇︎
@@ -58,3 +61,5 @@ Details about how to use these, consult the [OpenCore Content Flavours](https://
 Details about how to use these, consult the [OpenCore configuration documentation PDF](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)
 
 You can check the [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencores-gui).
+
+Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.7.0)

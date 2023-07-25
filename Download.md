@@ -2,12 +2,82 @@ Download|
 :----|
 Themes for OpenCore 0.7.0 and Higher|
 
-
 ---
 ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
 - Downloads ➤ [Background Collections for all themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 ---
+
+- Download ➤ [Flavours-OS](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-OS.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-OS.png">
+
+- Download ➤ [Flavours-Drive](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Drive.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Drive.png">
+
+- Download ➤ [Flavours-PerfectOS](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-PerfectOS.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-PerfectOS.png">
+
+- Download ➤ [Flavours-SmoothGrad](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-SmoothGrad.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SmoothGrad.png">
+
+- Download ➤ [Flavours-C](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-C.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-C.png">
+
+- Download ➤ [Flavours-Sonoma14](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Sonoma14.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Sonoma14.png">
+
+- Download ➤ [Flavours-Ventura13](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Ventura13.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Ventura13.png">
+
+- Download ➤ [AMD-Ryzen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/AMD-Ryzen.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/AMD-Ryzen.png">
+
+- Download ➤ [Flavours-CleanDark](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-CleanDark.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-CleanDark.png">
+
+- Download ➤ [Flavours-Paper](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Paper.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Paper.png">
+
+- Download ➤ [NaturaliMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NaturaliMac.zip)
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/217108520-9b8fd2ff-11fd-4dfd-ba86-cdbc807fdb1a.png">
+
+- Download ➤ [Flavours-Magnifico](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Magnifico.zip) 
+ If you want to use Disk icons, see readme.txt inside theme
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/216704124-167c6d88-c244-426e-ba1a-a0882d67cae4.gif">
+
+- Download ➤ [Flavours-AppleMonterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-AppleMonterey.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-AppleMonterey.png">
+
+- Download ➤ [NaturalMacBook](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NaturalMacBook.zip)
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/215901767-bfc9da61-2c2c-4851-b2a7-5592a93486b5.gif ">
+
+- Download ➤ [PrimitiveMacDrive-3](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacDrive-3.zip) Same as Ventura side bar disk (Badge not Visible)
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212540372-60a193dc-7aef-4b77-a024-ba138435f15d.gif">
+
+- Download ➤ [PrimitiveMacDrive-2](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacDrive-2.zip) Same as Ventura side bar disk
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212502148-c72b686a-c565-4eb5-be65-2a7a50442952.gif">
+
+- Download ➤ [PrimitiveMacDrive](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacDrive.zip)
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212487344-d325e37a-f92e-40ff-8420-2d701556432f.gif">
+
+- Download ➤ [Primitive-MacPro](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Primitive-MacPro.zip) Gen@1 MacPro
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212458802-cc66afe6-3e93-4b6f-9eae-6014edc89fb3.gif">
+
+- Download ➤ [Primitive-MacProGrey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Primitive-MacProGrey.zip) Gen@1 MacPro
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212474861-dcf1b470-c8e3-4973-92b5-18434906ac27.gif">
+
+- Download ➤ [PrimitiveMacPro](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacPro.zip) Gen@3 MacPro
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212457498-f883ba95-efb1-45b2-8512-5c12a3181888.gif">
+
+- Download ➤ [PrimitiveMacProGrey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/PrimitiveMacProGrey.zip) Gen@3 MacPro
+<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/212474862-be2e24ab-2619-4ae4-b723-76bfa1aa63b4.gif">
+                              
+- Download ➤ [Flavours-DarkSide](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-DarkSide.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-DarkSide.png">
+
+- Download ➤ [Flavours-Gradient](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Gradient.zip)
+<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Gradient.png">
+
 - Download ➤ [Flavours-Mountain](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Mountain.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Mountain.png">
 
@@ -365,5 +435,5 @@ Themes for OpenCore 0.7.0 and Higher|
 - Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png">
 
-
 [Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md)
+
