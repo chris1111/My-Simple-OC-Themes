@@ -1,6 +1,9 @@
 View Icon Set/Download|
 :----|
 
+- View Themes Icons ➤ [Flavours-Titanium](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-Titanium)
+<img src="SSD_Icons/Flavours-Titanium/Apple14.png" alt="View Themes Icons" style="width:25%;">
+
 - View Themes Icons ➤ [Flavours-CleanDark](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-CleanDark)
 <img src="SSD_Icons/Flavours-CleanDark/Apple13.png" alt="View Themes Icons" style="width:25%;"> 
 
