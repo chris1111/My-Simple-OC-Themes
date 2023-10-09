@@ -16,6 +16,9 @@ See some Icon Set to Download|
 - View Themes Icons ➤ [Flavours-IOSWhite](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-IOSWhite)
 <img src="SSD_Icons/Flavours-IOSWhite/Ubuntu.png" alt="View Themes Icons" style="width:25%;">
 
+- View Themes Icons ➤ [Flavours-BlueC](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-BlueC)
+<img src="SSD_Icons/Flavours-BlueC/Apple14.png" alt="View Themes Icons" style="width:25%;">
+
 - View Themes Icons ➤ [Flavours-T](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-T)
 <img src="SSD_Icons/Flavours-T/Apple12.png" alt="View Themes Icons" style="width:25%;">
 
