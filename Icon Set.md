@@ -10,6 +10,9 @@ View Icon Set/Download|
 - View Themes Icons ➤ [Flavours-Dev](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-Dev)
 <img src="SSD_Icons/Flavours-Dev/Apple14.png" alt="View Themes Icons" style="width:25%;">
 
+- View Themes Icons ➤ [Flavours-Ring](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-Ring)
+<img src="SSD_Icons/Flavours-Ring/Apple10_13.png" alt="View Themes Icons" style="width:25%;">
+
 - View Themes Icons ➤ [Flavours-T](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-T)
 <img src="SSD_Icons/Flavours-T/Apple12.png" alt="View Themes Icons" style="width:25%;">
 
