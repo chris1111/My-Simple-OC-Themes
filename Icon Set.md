@@ -7,6 +7,9 @@ View Icon Set/Download|
 - View Themes Icons ➤ [Flavours-BlackWhite](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/BlackWhite)
 <img src="SSD_Icons/Flavours-BlackWhite/Windows11_Alt2.png" alt="View Themes Icons" style="width:25%;">
 
+- View Themes Icons ➤ [Flavours-Dev](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-Dev)
+<img src="SSD_Icons/Flavours-Dev/Apple14.png" alt="View Themes Icons" style="width:25%;">
+
 - View Themes Icons ➤ [Flavours-T](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-T)
 <img src="SSD_Icons/Flavours-T/Apple12.png" alt="View Themes Icons" style="width:25%;">
 
