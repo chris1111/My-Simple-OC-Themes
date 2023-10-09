@@ -13,6 +13,12 @@ Themes for OpenCore 0.7.0 and Higher|
 - Downloads ➤ [Background Collections for all themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 ---
 
+- Download ➤ [Flavours-Titanium](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Titanium.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Titanium.png">
+
+- Download ➤ [Titanium](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Titanium.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Titanium.png">
+
 - Download ➤ [Flavours-BlackWhite](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-BlackWhite.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-BlackWhite.png">
 
