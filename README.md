@@ -51,7 +51,6 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 #### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
 ------------------------------------------------------------------------------
-
 ### Old stuff OutDate ⬇︎
 
 Older themes available here ➤ [Older themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
