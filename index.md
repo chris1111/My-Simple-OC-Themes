@@ -41,7 +41,7 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 ------------------------------------------------------------------------------
 ### How to create are own Theme ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
 
-### How to [Resize Image Icons](https://github.com/chris1111/Build-256-Icons)
+### How to [Resize Image](https://github.com/chris1111/Resize-Images)
 
 ### Create theme from a single Background ➤ [OpenCore-Theme-Builder](https://github.com/chris1111/OpenCore-Theme-Builder)
 
