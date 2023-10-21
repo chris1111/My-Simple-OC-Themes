@@ -2,6 +2,10 @@
 layout: default
 ---
 
+Update
+:----
+21 OCT 2023  Release ➤ All Theme adapted for OpenCore 0.7.0 and Higher|
+
 New|Older
 :----|:----
 Themes for OpenCore 0.7.0 and Higher|Older Themes for OpenCore 0.6.5 - 0.6.9
@@ -32,7 +36,7 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/185791797-577c1804-cbdb-4c9e-a6f7-fab3b8da6355.png)](https://youtu.be/jMYX4xlTJEE)
 
-### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md )
+### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New_Themes)
 
 ### View ➤ [Icon Set](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md)
 
@@ -49,7 +53,6 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 #### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
 ------------------------------------------------------------------------------
-
 ### Old stuff OutDate ⬇︎
 
 Older themes available here ➤ [Older themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
@@ -67,4 +70,4 @@ Details about how to use these, consult the [OpenCore configuration documentatio
 
 You can check the [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencores-gui).
 
-Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.7.0)
+Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New_Themes)
