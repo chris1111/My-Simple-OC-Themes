@@ -2,7 +2,7 @@
 
 Update
 :----
-09 Dec 2021 ➤ All Theme adapted for OpenCore 0.7.0 and Higher|
+21 OCT 2023  Release ➤ All Theme adapted for OpenCore 0.7.0 and Higher|
 
 New|Older
 :----|:----
@@ -68,4 +68,4 @@ Details about how to use these, consult the [OpenCore configuration documentatio
 
 You can check the [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencores-gui).
 
-Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.7.0)
+Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New_Themes)
