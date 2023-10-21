@@ -2,7 +2,7 @@
 
 Update
 :----
-09 Dec 2021 ➤ All Theme adapted for OpenCore 0.7.0 and Higher|
+21 OCT 2023  Release ➤ All Theme adapted for OpenCore 0.7.0 and Higher|
 
 New|Older
 :----|:----
@@ -34,7 +34,7 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/185791797-577c1804-cbdb-4c9e-a6f7-fab3b8da6355.png)](https://youtu.be/jMYX4xlTJEE)
 
-### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md )
+### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New_Themes)
 
 ### View ➤ [Icon Set](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md)
 
@@ -68,4 +68,4 @@ Details about how to use these, consult the [OpenCore configuration documentatio
 
 You can check the [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencores-gui).
 
-Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.7.0)
+Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New_Themes)
