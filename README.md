@@ -52,7 +52,7 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 ------------------------------------------------------------------------------
 ### Old stuff OutDate ⬇︎
 
-Older themes available here ➤ [Older themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
+Older themes available here ➤ [Older themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_Themes-Old)
 
 #### Credit:
 - [Mike Beaton](https://github.com/mikebeaton) Amazing work in OpenCore content flavour system
