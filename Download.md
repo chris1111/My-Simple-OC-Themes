@@ -500,4 +500,4 @@ Themes for OpenCore 0.7.0 and Higher|
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png">
 
 
-[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/main/Download.md)
+[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/gh-pages/Download.md)
