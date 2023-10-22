@@ -36,7 +36,7 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/185791797-577c1804-cbdb-4c9e-a6f7-fab3b8da6355.png)](https://youtu.be/jMYX4xlTJEE)
 
-### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New_Themes)
+### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New-Themes)
 
 ### View ➤ [Icon Set](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md)
 
