@@ -49,7 +49,6 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 #### Resize Background images for use with OpenCanopyGenerator ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
-#### Using Themes Downloader with latest Acidanthera OcBinaryData ➤ [Themes Downloader](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Themes%20Downloader.md)
 ------------------------------------------------------------------------------
 ### Old stuff OutDate ⬇︎
 
