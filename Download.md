@@ -4,13 +4,19 @@ Themes for OpenCore 0.7.0 and Higher|
 
 ---
 
-🚫 Please note: To access the links and the associated files you must have a github account and be connected otherwise you will have an error on the links.
 
-----------------------------------------------------------------------------
+🚫 Please note: 
+* To access the links and the associated files you must have a github account and be connected otherwise you may have an error on the links.
+---
+
+- Downloads ➤ [Background Collections for all themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 
 ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
+
+- Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/main/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
+
 
 - Download ➤ [Flavours-Christmas](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Christmas.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-Christmas.png">
