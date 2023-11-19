@@ -17,6 +17,8 @@ Themes for OpenCore 0.7.0 and Higher|
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/main/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
 
+- Download ➤ [Flavours-ShadowRing](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-ShadowRing.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-ShadowRing.png">
 
 - Download ➤ [Flavours-Christmas](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Christmas.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-Christmas.png">
