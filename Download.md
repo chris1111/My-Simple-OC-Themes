@@ -17,6 +17,9 @@ Themes for OpenCore 0.7.0 and Higher|
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/main/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
 
+- Download ➤ [Flavours-Apple](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Apple.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-Apple.png">
+
 - Download ➤ [Flavours-ShadowRing](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-ShadowRing.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-ShadowRing.png">
 
@@ -31,6 +34,9 @@ Themes for OpenCore 0.7.0 and Higher|
 
 - Download ➤ [Apple-Fast](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Apple-Fast.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Apple-Fast.png">
+
+- Download ➤ [Flavours-Flash](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Flash.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Flash.png">
 
 - Download ➤ [Flavours-Rainbow](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Rainbow.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Rainbow.png">
@@ -515,6 +521,5 @@ Themes for OpenCore 0.7.0 and Higher|
 
 - Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/WhyNot.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png">
-
 
 [Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/gh-pages/Download.md)
