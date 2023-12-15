@@ -14,26 +14,26 @@ Themes for OpenCore 0.7.0 and Higher|
 ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
 
-- Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/main/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
+- Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
 
 - Download ➤ [Flavours-Apple](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Apple.zip)
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-Apple.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Apple.png">
 
 - Download ➤ [Flavours-ShadowRing](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-ShadowRing.zip)
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-ShadowRing.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-ShadowRing.png">
 
 - Download ➤ [Flavours-Christmas](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Christmas.zip)
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-Christmas.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Christmas.png">
 
 - Download ➤ [Flavours-Form](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Form.zip)
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-Form.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/masterView%20Boot%200.7/Flavours-Form.png">
 
 - Download ➤ [Flavours-NLight](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-NLight.zip)
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Flavours-NLight.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-NLight.png">
 
 - Download ➤ [Apple-Fast](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Apple-Fast.zip)
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/main/View%20Boot%200.7/Apple-Fast.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Apple-Fast.png">
 
 - Download ➤ [Flavours-Flash](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Flash.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Flash.png">
