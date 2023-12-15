@@ -67,4 +67,5 @@ See some Icon Set to Download|
 - View Theme Icons ➤ [Flavours-Dark Themes Icons](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/SSD_Icons/Flavours-Dark)
 <img src="SSD_Icons/Flavours-Dark/Apple10_7.png" alt="View Themes Icons" style="width:25%;">
 
-[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md)
+
+[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/main/Icon%20Set.md#download--all-themes)
