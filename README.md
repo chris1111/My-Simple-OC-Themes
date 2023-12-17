@@ -35,6 +35,8 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 ### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New-Themes)
 
+### Downloads Using OC Themes Install ➤ [OC Themes Install](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/OC_Themes_Install.md)
+
 ### View ➤ [Icon Set](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md)
 
 ### Downloads ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
