@@ -9,5 +9,8 @@
 <img width="500" height="500" src="https://github.com/chris1111/My-Simple-OC-Themes/assets/6248794/821f09b8-d2e4-473c-9d31-98d7394e9431">
 </p>
 
+<p align="center"> 
+<img width="1000" height="500" src="https://github.com/chris1111/My-Simple-OC-Themes/assets/6248794/424b5d47-8c34-46ba-9c32-88f64376d94e">
+</p>
 
 
