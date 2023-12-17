@@ -2,8 +2,6 @@ Download|
 :----|
 Themes for OpenCore 0.7.0 and Higher|
 
----
-
 
 🚫 Please note: 
 * To access the links and the associated files you must have a github account and be connected otherwise you may have an error on the links.
@@ -16,6 +14,9 @@ Themes for OpenCore 0.7.0 and Higher|
 
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
+
+- Download ➤ [Flavours-Apple3D](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Apple3D.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Apple3D.png">
 
 - Download ➤ [Flavours-Apple](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Apple.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Apple.png">
@@ -522,4 +523,5 @@ Themes for OpenCore 0.7.0 and Higher|
 - Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/WhyNot.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png">
 
-[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/gh-pages/Download.md)
+
+[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md)
