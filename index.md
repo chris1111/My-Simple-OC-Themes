@@ -4,7 +4,7 @@ layout: default
 
 New|Download|Update|
 :----|:----|:----|
-All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|20 Dec 2023|
+All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|23 Dec 2023|
 
 🚫 Please note: To access the links and the associated files you must have a github account and be connected otherwise you will have an error on the links.
 
