@@ -1,6 +1,6 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|23 Dec 2023 ➥ Add Flavours-ApplePurple|
+Themes for OpenCore 0.7.0 and Higher|25 Dec 2023 ➥ Add Flavours-Incrusted|
 
 🚫 Please note: 
 #### To access the links and the associated files you must have a github account and be connected otherwise you may have an error on the links.
@@ -13,6 +13,9 @@ Themes for OpenCore 0.7.0 and Higher|23 Dec 2023 ➥ Add Flavours-ApplePurple|
 
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
+
+- Download ➤ [Flavours-Incrusted](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Incrusted.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Incrusted.png">
 
 - Download ➤ [ApplePurple](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/ApplePurple.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/ApplePurple.png">
