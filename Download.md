@@ -1,9 +1,10 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|26 Dec 2023 ➥ Add AppleShadow|
+Themes for OpenCore 0.7.0 and Higher|30 Dec 2023 ➥ Add Flavours-AppleSquare|
+
 
 🚫 Please note: 
-#### To access the links and the associated files you must have a github account and be connected otherwise you may have an error on the links.
+* To access the links and the associated files you must have a github account and be connected otherwise you may have an error on the links.
 ---
 
 - Downloads ➤ [Background Collections for all themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
@@ -13,6 +14,9 @@ Themes for OpenCore 0.7.0 and Higher|26 Dec 2023 ➥ Add AppleShadow|
 
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
+
+- Download ➤ [Flavours-AppleSquare](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-AppleSquare.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSquare.png">
 
 - Download ➤ [AppleShadow](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/AppleShadow.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/AppleShadow.png">
