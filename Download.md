@@ -1,6 +1,6 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|30 Dec 2023 ➥ Add Flavours-AppleSquare|
+Themes for OpenCore 0.7.0 and Higher|01 Jan 2023 ➥ Add Flavours-Square|
 
 
 🚫 Please note: 
@@ -14,6 +14,9 @@ Themes for OpenCore 0.7.0 and Higher|30 Dec 2023 ➥ Add Flavours-AppleSquare|
 
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
+
+- Download ➤ [Flavours-Square](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Square.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Square.png">
 
 - Download ➤ [Flavours-AppleSquare](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-AppleSquare.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSquare.png">
