@@ -1,6 +1,6 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|04 Fev 2024 ➥ Add Flavours-Planet|
+Themes for OpenCore 0.7.0 and Higher|10 Fev 2024 ➥ Add Flavours-iMac|
 
 
 🚫 Please note: 
@@ -14,6 +14,9 @@ Themes for OpenCore 0.7.0 and Higher|04 Fev 2024 ➥ Add Flavours-Planet|
 
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
+
+- Download ➤ [Flavours-iMac](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-iMac.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-iMac.png">
 
 - Download ➤ [Flavours-Planet](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Planet.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Planet.png">
