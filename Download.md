@@ -1,6 +1,6 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|15 Fev 2024 ➥ Add Flavours-Disk|
+Themes for OpenCore 0.7.0 and Higher|15 Feb 2024 ➥ Add Flavours-Disk|
 
 
 🚫 Please note: 
