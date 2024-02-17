@@ -1,6 +1,6 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|15 Feb 2024 ➥ Add Flavours-Disk|
+Themes for OpenCore 0.7.0 and Higher|16 Feb 2024 ➥ Add Flavours-FadeDisk|
 
 
 🚫 Please note: 
@@ -14,6 +14,9 @@ Themes for OpenCore 0.7.0 and Higher|15 Feb 2024 ➥ Add Flavours-Disk|
 
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
+
+- Download ➤ [Flavours-FadeDisk](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-FadeDisk.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-FadeDisk.png">
 
 - Download ➤ [Flavours-Disk](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Disk.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Disk.png">
