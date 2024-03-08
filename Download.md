@@ -1,6 +1,6 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|16 Feb 2024 ➥ Add Flavours-FadeDisk|
+Themes for OpenCore 0.7.0 and Higher|07 Mar 2024 ➥ Add Flavours-RoundSquare|
 
 
 🚫 Please note: 
@@ -14,6 +14,9 @@ Themes for OpenCore 0.7.0 and Higher|16 Feb 2024 ➥ Add Flavours-FadeDisk|
 
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
+
+- Download ➤ [Flavours-RoundSquare](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-RoundSquare.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-RoundSquare.png">
 
 - Download ➤ [Flavours-FadeDisk](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-FadeDisk.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-FadeDisk.png">
