@@ -1,6 +1,6 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|26 Jun 2024 ➥ Add Flavours-AppleSlim|
+Themes for OpenCore 0.7.0 and Higher|28 Jun 2024 ➥ Add Flavours-AppleSlimA|
 
 
 🚫 Please note: 
@@ -14,6 +14,9 @@ Themes for OpenCore 0.7.0 and Higher|26 Jun 2024 ➥ Add Flavours-AppleSlim|
 
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
+
+- [Flavours-AppleSlimA](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-AppleSlimA.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSlimA.png">
 
 - [Flavours-AppleSlim](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-AppleSlim.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSlim.png">
