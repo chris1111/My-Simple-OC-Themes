@@ -1,6 +1,6 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|30 Jun 2024 ➥ Add Flavours-FrameApps|
+Themes for OpenCore 0.7.0 and Higher|07 Jul 2024 ➥ Add Flavours-Diamond|
 
 
 🚫 Please note: 
@@ -15,6 +15,9 @@ Themes for OpenCore 0.7.0 and Higher|30 Jun 2024 ➥ Add Flavours-FrameApps|
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
 Downloads ⇩
+
+- [Flavours-Diamond](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Diamond.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Diamond.png">
 
 - [Flavours-FrameApps](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-FrameApps.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-FrameApps.png">
