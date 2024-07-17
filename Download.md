@@ -1,6 +1,6 @@
 Download|Update|
 :----|:----|
-Themes for OpenCore 0.7.0 and Higher|10 Jul 2024 ➥ Add Flavours-Sequoia|
+Themes for OpenCore 0.7.0 and Higher|17 Jul 2024 ➥ Add Flavours-AppleBadge|
 
 
 🚫 Please note: 
@@ -15,6 +15,9 @@ Themes for OpenCore 0.7.0 and Higher|10 Jul 2024 ➥ Add Flavours-Sequoia|
 - Set Up ➤ [Flavours Themes](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md#setup-flavours-theme-in-configplist-flavours-wonderfull-themes-as-exemple)
 ---
 Downloads ⇩
+
+- [Flavours-AppleBadge](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-AppleBadge.zip)
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleBadge.png">
 
 - [Flavours-Sequoia](https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/Flavours-Sequoia.zip)
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Sequoia.png">
