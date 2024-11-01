@@ -9,13 +9,15 @@ All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|07 Jan 2023|
 
 ------------------------------------------------------------------------------
 
-For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ [ macOS Sonoma 14 icons](https://github.com/chris1111/My-Simple-OC-Themes/discussions/18)
+For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ [ macOS Sonoma 14, Sequoia 15 icons](https://github.com/chris1111/My-Simple-OC-Themes/discussions/18)
 
 ------------------------------------------------------------------------------
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-SimpleRond.png">
 
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSlimA.png">
 
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
+
 
 
 ## First Use ➤  Change `Resources` in `EFI/OC`
