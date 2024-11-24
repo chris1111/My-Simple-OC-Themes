@@ -2,23 +2,23 @@
 layout: default
 ---
 
+# My-Simple-theme-for-OpenCore 
+
 New|Download|Update|
 :----|:----|:----|
 All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|07 Jan 2023|
 
 🚫 Please note: To access the links and the associated files you must have a github account and be connected otherwise you will have an error on the links.
 
----
 
 ------------------------------------------------------------------------------
 
 For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ [ macOS Sonoma 14, Sequoia 15 icons](https://github.com/chris1111/My-Simple-OC-Themes/discussions/18)
 
 ------------------------------------------------------------------------------
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-SimpleRond.png">
 
-<img width="850" alt="1" src="https://github.com/user-attachments/assets/a971a337-2bb7-4318-b06e-27e4cc8de325">
-
-<img width="850" alt="1" src="https://github.com/user-attachments/assets/466c3d98-ab45-4350-bbd6-75afaa964985">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSlimA.png">
 
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
 
@@ -38,6 +38,8 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 ### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New-Themes)
 
+### Downloads Themes ➤ [Without connected github account](https://htmlpreview.github.io/?https://github.com/chris1111/My-Simple-OC-Themes/blob/master/My%20Simple%20Theme%20OpenCore.html)
+
 ### Downloads Using OC Themes Install ➤ [OC Themes Install](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/OC_Themes_Install.md)
 
 ### View some of my ➤ [Icon Set](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md)
@@ -56,7 +58,7 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 ------------------------------------------------------------------------------
 ### Old stuff OutDate ⬇︎
 
-Older themes available here ➤ [Older themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/tree/master/Resources-0.6.6)
+Older themes available here ➤ [Older themes With Background](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_Themes-Old)
 
 #### Credit:
 - [Mike Beaton](https://github.com/mikebeaton) Amazing work in OpenCore content flavour system
