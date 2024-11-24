@@ -4,12 +4,6 @@ layout: default
 
 # My-Simple-theme-for-OpenCore 
 
----
-layout: default
----
-
-# My-Simple-theme-for-OpenCore 
-
 New|Download|Update|
 :----|:----|:----|
 All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|24 Nov 2024 ➥ Add Flavours-AppleIcons|
