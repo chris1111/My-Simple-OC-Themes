@@ -6,7 +6,9 @@ layout: default
 
 New|Download|Update|
 :----|:----|:----|
-All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|07 Jan 2023|
+All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|24 Nov 2024 ➥ Add Flavours-AppleIcons|
+
+
 
 🚫 Please note: To access the links and the associated files you must have a github account and be connected otherwise you will have an error on the links.
 
