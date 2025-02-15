@@ -20,8 +20,6 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 ------------------------------------------------------------------------------
 
-<img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSlimA.png">
-
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SimpleRond.png">
 
 <img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
