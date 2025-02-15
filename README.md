@@ -1,5 +1,7 @@
 # My-Simple-theme-for-OpenCore 
 
+[![pages-build-deployment](https://github.com/chris1111/My-Simple-OC-Themes/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chris1111/My-Simple-OC-Themes/actions/workflows/pages/pages-build-deployment)
+
 New|Download|Update|
 :----|:----|:----|
 All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|24 Nov 2024 ➥ Add Flavours-AppleIcons|
