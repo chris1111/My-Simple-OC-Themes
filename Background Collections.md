@@ -5,7 +5,7 @@ Download Background Collections|
 ---
 
 ### ⬇︎ Downloads Background Collections for all themes OpenCore 0.7.0 and Higher
-- Background ➤ Collections [3840x1440](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Background-7680x2880) = ➤ [7680×2880]
+- Background ➤ Collections [3840x1440](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/3840x1440) = ➤ [7680×2880]
 - Background ➤ Collections [2560x1440](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Background-2560x1440) = ➤ [5120×2880]
 - Background ➤ Collections [1920x1200](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Background-1920x1200) = ➤ [3840×2400]
 - Background ➤ Collections [1920x1080](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Background-1920x1080) = ➤ [3840×2160]
