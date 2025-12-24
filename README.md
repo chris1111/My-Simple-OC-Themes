@@ -39,8 +39,6 @@ For all requests concerning a missing macOS icons, please request it here ➥ [ 
 
 ### Downloads Using OC Themes Install ➤ [OC Themes Install](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/OC_Themes_Install.md)
 
-### View some of my ➤ [Icon Set](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md)
-
 ### Downloads ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 
 ------------------------------------------------------------------------------
