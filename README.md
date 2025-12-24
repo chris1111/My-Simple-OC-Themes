@@ -2,31 +2,25 @@
 
 New|Download|Update|
 :----|:----|:----|
-All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|24 Nov 2024 ➥ Add Flavours-AppleIcons|
-
+All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|23 Dec 2025 ➥ Add Flavours-Tahoe26|
 
 🚫 Please note: To access the links and the associated files you must have a github account and be connected otherwise you will have an error on the links.
-
 
 ------------------------------------------------------------------------------
 
 For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ [ macOS Sonoma 14, Sequoia 15 icons](https://github.com/chris1111/My-Simple-OC-Themes/discussions/18)
 
 ------------------------------------------------------------------------------
+
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Tahoe26.png">
+
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-SimpleRond.png">
 
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSlimA.png">
 
-<img width="850" alt="1" src="https://user-images.githubusercontent.com/6248794/160475409-d061266f-c27a-42b3-89ed-036bb19757d8.gif">
-
-
-
 ## First Use ➤  Change `Resources` in `EFI/OC`
 
-
 ### Setup PickerVariant config.plist  ☞ [Setup PickerVariant](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md)
-
-
 
 ⬇︎ View full Video SetUp theme OC 0.7.0 and Higher
 
@@ -39,8 +33,6 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 ### Downloads Themes ➤ [Without connected github account](https://htmlpreview.github.io/?https://github.com/chris1111/My-Simple-OC-Themes/blob/master/My%20Simple%20Theme%20OpenCore.html)
 
 ### Downloads Using OC Themes Install ➤ [OC Themes Install](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/OC_Themes_Install.md)
-
-### View some of my ➤ [Icon Set](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Icon%20Set.md)
 
 ### Downloads ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md)
 
@@ -71,4 +63,3 @@ Details about how to use these, consult the [OpenCore configuration documentatio
 
 You can check the [OpenCore beauty treatment](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencores-gui).
 
-Looking for ➦ [More Downloads All themes History](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New_Themes)
