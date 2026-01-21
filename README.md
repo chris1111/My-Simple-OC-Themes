@@ -4,7 +4,7 @@
 
 New|Download|Update|
 :----|:----|:----|
-All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|27 Dec 2025 ➥ Add Flavours-TahoeStyle|
+All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|20 Jan 2026 ➥ Add Flavours-OSX|
 
 🚫 Please note: To access the links and the associated files you must have a github account and be connected otherwise you will have an error on the links.
 
