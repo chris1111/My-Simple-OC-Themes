@@ -2,6 +2,8 @@
 
 [![pages-build-deployment](https://github.com/chris1111/My-Simple-OC-Themes/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chris1111/My-Simple-OC-Themes/actions/workflows/pages/pages-build-deployment)
 
+<img src="https://hitscounter.dev/api/hit?url=https://github.com/chris1111&label=VISITORS&icon=gift&color=%23198754&message=&style=for-the-badge&tz=US%2FEastern">
+
 New|Download|Update|
 :----|:----|:----|
 All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|25 Jan 2026 ➥ Add Minimal-Purple|
