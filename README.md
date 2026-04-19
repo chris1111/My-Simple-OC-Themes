@@ -14,11 +14,11 @@ All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|25 Jan 2026 �
 For all requests concerning a missing macOS icons, please request it here ➥ [ macOS Sonoma 14, Sequoia 15, Tahoe 26 icons](https://github.com/chris1111/My-Simple-OC-Themes/discussions/18)
 
 ------------------------------------------------------------------------------
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Tahoe26.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSet.png">
 
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-SimpleRond.png">
 
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSlimA.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-TahoeStyle.png">
 
 ## First Use ➤  Change `Resources` in `EFI/OC`
 
