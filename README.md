@@ -12,11 +12,11 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 ------------------------------------------------------------------------------
 
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-Tahoe26.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSet.png">
 
 <img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-SimpleRond.png">
 
-<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleSlimA.png">
+<img loading="lazy" width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-TahoeStyle.png">
 
 ## First Use ➤  Change `Resources` in `EFI/OC`
 
