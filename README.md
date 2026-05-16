@@ -4,7 +4,7 @@
 
 New|Download|Update|
 :----|:----|:----|
-All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|19 Apr 2026 ➥ Add Flavours-Fullicons|
+All Theme adapted for OpenCore 0.7.0 and Higher|Themes_New_Archive|16 May 2026 ➥ Add Flavours-NewAppleDisk|
 
 🚫 Please note: To access the links and the associated files you must have a github account and be connected otherwise you will have an error on the links.
 
