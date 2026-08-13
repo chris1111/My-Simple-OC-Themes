@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OpenCore Themes Gallery</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<style>
+:root {
+  --bg: #0a0e1a;
+  --bg-2: #111726;
+  --card: #161d2e;
+  --card-2: #1c2438;
+  --border: rgba(255,255,255,0.08);
+  --border-hi: rgba(255,255,255,0.18);
+  --fg: #e8edf7;
+  --fg-dim: #9aa4be;
+  --fg-mute: #6b7693;
+  --accent: #5e9eff;
+  --accent-2: #a06bff;
+  --accent-3: #ff6b9d;
+  --grad: linear-gradient(135deg, #5e9eff 0%, #a06bff 50%, #ff6b9d 100%);
+  --shadow: 0 10px 40px rgba(0,0,0,0.4);
+  --radius: 16px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Ambient background */
+.bg-ambient {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+}
+.blob {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(120px);
+  opacity: 0.35;
+  animation: float 20s ease-in-out infinite;
+}
+.blob.b1 { width: 600px; height: 600px; background: #5e9eff; top: -200px; left: -150px; }
+.blob.b2 { width: 500px; height: 500px; background: #a06bff; top: 30%; right: -150px; animation-delay: -5s; }
+.blob.b3 { width: 450px; height: 450px; background: #ff6b9d; bottom: -150px; left: 30%; animation-delay: -10s; }
+
+@keyframes float {
+  0%, 100% { transform: translate(0,0) scale(1); }
+  33% { transform: translate(40px,-30px) scale(1.1); }
+  66% { transform: translate(-30px,30px) scale(0.95); }
+}
+
+/* Grid overlay */
+.grid-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.025) 1px, transparent 1px);
+  background-size: 60px 60px;
+  mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%);
+  -webkit-mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%);
+  pointer-events: none;
+}
+
+/* Header */
+header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  background: rgba(10, 14, 26, 0.75);
+  border-bottom: 1px solid var(--border);
+  transition: all .3s;
+}
+.nav {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 18px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: 800;
+  font-size: 18px;
+  letter-spacing: -0.02em;
+}
+.logo-mark {
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  background: var(--grad);
+  display: grid;
+  place-items: center;
+  font-size: 18px;
+  color: white;
+  box-shadow: 0 8px 20px rgba(94,158,255,0.4);
+}
+.logo span { background: var(--grad); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+
+.nav-links { display: flex; gap: 8px; align-items: center; }
+.nav-links a {
+  color: var(--fg-dim);
+  text-decoration: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all .2s;
+  cursor: pointer;
+}
+.nav-links a:hover { color: var(--fg); background: rgba(255,255,255,0.05); }
+
+.nav-cta {
+  padding: 9px 18px;
+  background: var(--grad);
+  color: white !important;
+  font-weight: 600;
+  border-radius: 10px;
+  box-shadow: 0 6px 16px rgba(94,158,255,0.3);
+}
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: var(--fg);
+  font-size: 20px;
+  cursor: pointer;
+  padding: 8px;
+}
+
+/* Hero */
+.hero {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 80px 32px 50px;
+  text-align: center;
+  position: relative;
+}
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 14px;
+  background: rgba(94,158,255,0.1);
+  border: 1px solid rgba(94,158,255,0.3);
+  border-radius: 100px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--accent);
+  margin-bottom: 24px;
+  animation: fadeUp .6s ease;
+}
+.badge .dot {
+  width: 7px; height: 7px;
+  background: var(--accent);
+  border-radius: 50%;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%,100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(1.3); }
+}
+
+.hero h1 {
+  font-size: clamp(36px, 6vw, 68px);
+  font-weight: 900;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+  margin-bottom: 20px;
+  animation: fadeUp .7s ease .1s backwards;
+}
+.hero h1 .gradient {
+  background: var(--grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 200%;
+  animation: shine 8s ease infinite;
+}
+@keyframes shine {
+  0%,100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+.hero p {
+  font-size: clamp(15px, 2vw, 18px);
+  color: var(--fg-dim);
+  max-width: 680px;
+  margin: 0 auto 36px;
+  line-height: 1.6;
+  animation: fadeUp .7s ease .2s backwards;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Stats */
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+  animation: fadeUp .7s ease .3s backwards;
+}
+.stat {
+  text-align: center;
+}
+.stat-num {
+  font-size: 32px;
+  font-weight: 800;
+  background: var(--grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.stat-label {
+  font-size: 12px;
+  color: var(--fg-mute);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+
+/* Search bar */
+.search-wrap {
+  max-width: 560px;
+  margin: 0 auto;
+  position: relative;
+  animation: fadeUp .7s ease .4s backwards;
+}
+.search-wrap i {
+  position: absolute;
+  left: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--fg-mute);
+  font-size: 14px;
+}
+#search {
+  width: 100%;
+  padding: 16px 20px 16px 46px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  color: var(--fg);
+  font-size: 15px;
+  font-family: inherit;
+  transition: all .2s;
+}
+#search::placeholder { color: var(--fg-mute); }
+#search:focus {
+  outline: none;
+  border-color: var(--accent);
+  background: rgba(94,158,255,0.05);
+  box-shadow: 0 0 0 4px rgba(94,158,255,0.1);
+}
+
+/* Filter chips */
+.filters {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 24px auto 0;
+  max-width: 800px;
+  animation: fadeUp .7s ease .5s backwards;
+}
+.chip {
+  padding: 8px 16px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--fg-dim);
+  cursor: pointer;
+  transition: all .2s;
+  font-family: inherit;
+}
+.chip:hover { background: rgba(255,255,255,0.08); color: var(--fg); }
+.chip.active {
+  background: var(--grad);
+  color: white;
+  border-color: transparent;
+  box-shadow: 0 4px 12px rgba(94,158,255,0.3);
+}
+
+/* Quick links banner */
+.quick-links {
+  max-width: 1400px;
+  margin: 40px auto;
+  padding: 0 32px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+  scroll-margin-top: 100px; /* Fixes navigation overlap */
+}
+.quick-link {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 18px 20px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  text-decoration: none;
+  color: var(--fg);
+  transition: all .25s;
+}
+.quick-link:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  box-shadow: var(--shadow);
+}
+.quick-link .icon {
+  width: 44px; height: 44px;
+  border-radius: 12px;
+  background: rgba(94,158,255,0.12);
+  display: grid;
+  place-items: center;
+  color: var(--accent);
+  font-size: 18px;
+  flex-shrink: 0;
+}
+.quick-link:nth-child(2) .icon { background: rgba(160,107,255,0.12); color: var(--accent-2); }
+.quick-link:nth-child(3) .icon { background: rgba(255,107,157,0.12); color: var(--accent-3); }
+.quick-link .text { display: flex; flex-direction: column; }
+.quick-link .text strong { font-size: 14px; font-weight: 600; }
+.quick-link .text span { font-size: 12px; color: var(--fg-mute); }
+.quick-link .arrow { margin-left: auto; color: var(--fg-mute); transition: transform .2s; }
+.quick-link:hover .arrow { transform: translateX(4px); color: var(--accent); }
+
+/* Section heading */
+.section-head {
+  max-width: 1400px;
+  margin: 60px auto 30px;
+  padding: 0 32px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  scroll-margin-top: 100px; /* Fixes navigation overlap */
+}
+.section-head h2 {
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+.section-head .result-count {
+  color: var(--fg-mute);
+  font-size: 14px;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Themes grid */
+.themes-grid {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 32px 80px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 22px;
+}
+
+.theme-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: all .3s cubic-bezier(.4,0,.2,1);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  animation: cardIn .6s ease backwards;
+}
+@keyframes cardIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.theme-card:hover {
+  transform: translateY(-6px);
+  border-color: var(--border-hi);
+  box-shadow: var(--shadow);
+}
+
+.theme-preview {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  background: #000;
+  overflow: hidden;
+}
+.theme-preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform .5s ease;
+  display: block;
+}
+.theme-card:hover .theme-preview img { transform: scale(1.06); }
+
+.theme-preview::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 50%, rgba(10,14,26,0.6) 100%);
+  pointer-events: none;
+}
+
+.theme-tag {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  padding: 4px 10px;
+  background: rgba(0,0,0,0.6);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 100px;
+  font-size: 11px;
+  font-weight: 600;
+  color: white;
+  letter-spacing: 0.03em;
+  z-index: 2;
+}
+
+.theme-info {
+  padding: 16px 18px 18px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.theme-name {
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 4px;
+  letter-spacing: -0.01em;
+  color: var(--fg);
+}
+.theme-meta {
+  font-size: 12px;
+  color: var(--fg-mute);
+  margin-bottom: 14px;
+  font-family: 'JetBrains Mono', monospace;
+  word-break: break-all;
+}
+.theme-actions {
+  margin-top: auto;
+  display: flex;
+  gap: 8px;
+}
+.btn-download, .btn-view {
+  flex: 1;
+  padding: 9px 12px;
+  border-radius: 9px;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+  transition: all .2s;
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+.btn-download {
+  background: var(--grad);
+  color: white;
+  box-shadow: 0 4px 12px rgba(94,158,255,0.25);
+}
+.btn-download:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(94,158,255,0.4);
+}
+.btn-view {
+  background: rgba(255,255,255,0.05);
+  color: var(--fg);
+  border: 1px solid var(--border);
+}
+.btn-view:hover { background: rgba(255,255,255,0.1); border-color: var(--border-hi); }
+
+/* No results */
+.no-results {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 80px 20px;
+  color: var(--fg-mute);
+}
+.no-results i { font-size: 48px; margin-bottom: 16px; color: var(--fg-mute); }
+.no-results h3 { font-size: 18px; color: var(--fg); margin-bottom: 8px; }
+
+/* Back to top */
+.back-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--grad);
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  display: grid;
+  place-items: center;
+  box-shadow: 0 8px 24px rgba(94,158,255,0.4);
+  opacity: 0;
+  pointer-events: none;
+  transition: all .3s;
+  z-index: 50;
+}
+.back-top.visible { opacity: 1; pointer-events: auto; }
+.back-top:hover { transform: translateY(-4px); }
+
+/* Footer */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 40px 32px;
+  text-align: center;
+  color: var(--fg-mute);
+  font-size: 13px;
+}
+footer .links { display: flex; justify-content: center; gap: 20px; margin-bottom: 16px; flex-wrap: wrap; }
+footer a { color: var(--fg-dim); text-decoration: none; transition: color .2s; }
+footer a:hover { color: var(--accent); }
+
+/* Responsive */
+@media (max-width: 1100px) {
+  .themes-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 850px) {
+  .themes-grid { grid-template-columns: repeat(2, 1fr); }
+  
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    background: rgba(10, 14, 26, 0.98);
+    padding: 16px;
+    gap: 4px;
+    border-bottom: 1px solid var(--border);
+  }
+  .nav-links.open { display: flex; }
+  .nav-links a { width: 100%; padding: 12px 14px; }
+  .nav-toggle { display: block; }
+  
+  .hero { padding: 50px 20px 30px; }
+  .stats { gap: 24px; }
+}
+@media (max-width: 540px) {
+  .themes-grid { grid-template-columns: 1fr; }
+  .nav { padding: 14px 20px; }
+  .quick-links, .themes-grid, .section-head { padding-left: 20px; padding-right: 20px; }
+}
+</style>
+</head>
+<body>
+
+<div class="bg-ambient">
+  <div class="blob b1"></div>
+  <div class="blob b2"></div>
+  <div class="blob b3"></div>
+</div>
+<div class="grid-overlay"></div>
+
+<header>
+  <nav class="nav">
+    <div class="logo">
+      <div class="logo-mark"><i class="fa-brands fa-apple"></i></div>
+      <span>OpenCore Themes</span>
+    </div>
+    
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+      <i class="fa-solid fa-bars"></i>
+    </button>
+    
+    <div class="nav-links" id="navLinks">
+      <a href="#gallery">Gallery</a>
+      <a href="https://github.com/chris1111/My-Simple-OC-Themes" target="_blank" class="nav-cta"><i class="fa-brands fa-github"></i> GitHub</a>
+    </div>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="badge"><span class="dot"></span> Themes for OpenCore 0.7.0+ · Updated May 2026</div>
+  <h1>Beautiful <span class="gradient">Boot Themes</span><br>for OpenCore</h1>
+  <p>A curated collection of meticulously crafted OpenCore themes featuring Apple-inspired aesthetics, minimal designs, and stunning visual flair. Choose your style and download in one click.</p>
+  
+  <div class="stats">
+    <div class="stat"><div class="stat-num" id="themeCount">121</div><div class="stat-label">Themes</div></div>
+    <div class="stat"><div class="stat-num">4K</div><div class="stat-label">Resolution</div></div>
+    <div class="stat"><div class="stat-num">100%</div><div class="stat-label">Free</div></div>
+    <div class="stat"><div class="stat-num">OC 0.7+</div><div class="stat-label">Compatible</div></div>
+  </div>
+
+  <div class="search-wrap">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <input type="text" id="search" placeholder="Search themes by name... e.g. Tahoe, Apple, Minimal">
+  </div>
+
+  <div class="filters" id="filters">
+    <button class="chip active" data-filter="all">All Themes</button>
+    <button class="chip" data-filter="Flavours">Flavours</button>
+    <button class="chip" data-filter="Apple">Apple</button>
+    <button class="chip" data-filter="Primitive">Primitive</button>
+    <button class="chip" data-filter="Natural">Natural</button>
+    <button class="chip" data-filter="Tahoe">Tahoe</button>
+    <button class="chip" data-filter="Minimal">Minimal</button>
+    <button class="chip" data-filter="IOS">iOS</button>
+    <button class="chip" data-filter="Dark">Dark</button>
+  </div>
+</section>
+
+<section class="quick-links">
+  <a href="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Background%20Collections.md" target="_blank" class="quick-link" id="backgrounds">
+    <div class="icon"><i class="fa-solid fa-image"></i></div>
+    <div class="text"><strong>Background Collections</strong><span>Wallpapers for all themes</span></div>
+    <i class="fa-solid fa-arrow-right arrow"></i>
+  </a>
+  <a href="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Setup-PickerVariant.md" target="_blank" class="quick-link" id="setup">
+    <div class="icon"><i class="fa-solid fa-sliders"></i></div>
+    <div class="text"><strong>Flavours Setup Guide</strong><span>Configure PickerVariant</span></div>
+    <i class="fa-solid fa-arrow-right arrow"></i>
+  </a>
+  <a href="https://github.com/chris1111/My-Simple-OC-Themes" target="_blank" class="quick-link">
+    <div class="icon"><i class="fa-brands fa-github"></i></div>
+    <div class="text"><strong>GitHub Repository</strong><span>Source & releases archive</span></div>
+    <i class="fa-solid fa-arrow-right arrow"></i>
+  </a>
+</section>
+
+<div class="section-head" id="gallery">
+  <h2>Theme Gallery</h2>
+  <div class="result-count"><span id="visibleCount">121</span> themes available</div>
+</div>
+
+<main class="themes-grid" id="grid"></main>
+
+<button class="back-top" id="backTop" aria-label="Back to top"><i class="fa-solid fa-arrow-up"></i></button>
+
+<footer>
+  <div class="links">
+    <a href="https://github.com/chris1111/My-Simple-OC-Themes" target="_blank">GitHub</a>
+    <a href="#top">Back to top</a>
+    <a href="https://github.com/acidanthera/OpenCorePkg" target="_blank">OpenCore</a>
+  </div>
+  <p>OpenCore Themes Collection · Crafted with care for the Hackintosh community</p>
+</footer>
+
+<script>
+const themes = [
+  {name:"Flavours-NewAppleDisk",url:"Flavours-NewAppleDisk.zip",img:"Flavours-NewAppleDisk.png",tag:"New",date:"May 2026"},
+  {name:"Flavours-Fullicons",url:"Flavours-Fullicons.zip",img:"Flavours-Fullicons.png",tag:"Icons"},
+  {name:"Minimal-Purple",url:"Minimal-Purple.zip",img:"Minimal-Purple.png",tag:"Minimal"},
+  {name:"Flavours-OSX",url:"Flavours-OSX.zip",img:"Flavours-OSX.png",tag:"Classic"},
+  {name:"Simple-Grey-Icon",url:"Simple-Grey-Icon.zip",img:"Simple-Grey-Icon.png",tag:"Simple"},
+  {name:"Black-White",url:"Black-White.zip",img:"Black-White.png",tag:"Mono"},
+  {name:"Flavours-AppleSet",url:"Flavours-AppleSet.zip",img:"Flavours-AppleSet.png",tag:"Apple"},
+  {name:"Flavours-IconSet",url:"Flavours-IconSet.zip",img:"Flavours-IconSet.png",tag:"Icons"},
+  {name:"Flavours-OSX26",url:"Flavours-OSX26.zip",img:"Flavours-OSX26.png",tag:"macOS 26"},
+  {name:"Flavours-TahoeStyle",url:"Flavours-TahoeStyle.zip",img:"Flavours-TahoeStyle.png",tag:"Tahoe"},
+  {name:"Flavours-Tahoe26",url:"Flavours-Tahoe26.zip",img:"Flavours-Tahoe26.png",tag:"Tahoe"},
+  {name:"Flavours-ShadowSelected",url:"Flavours-ShadowSelected.zip",img:"Flavours-ShadowSelected.png",tag:"Shadow"},
+  {name:"Flavours-IOSTahoe",url:"Flavours-IOSTahoe.zip",img:"Flavours-IOSTahoe.png",tag:"iOS"},
+  {name:"Flavours-FullCollor",url:"Flavours-FullCollor.zip",img:"Flavours-FullCollor.png",tag:"Color"},
+  {name:"Flavours-MacOSX",url:"Flavours-MacOSX.zip",img:"Flavours-MacOSX.png",tag:"Classic"},
+  {name:"Flavours-macOS26",url:"Flavours-macOS26.zip",img:"Flavours-macOS26.png",tag:"macOS 26"},
+  {name:"Flavours-Simply",url:"Flavours-Simply.zip",img:"Flavours-Simply.png",tag:"Simple"},
+  {name:"Flavours-Glass",url:"Flavours-Glass.zip",img:"Flavours-Glass.png",tag:"Glass"},
+  {name:"Flavours-Tahoe",url:"Flavours-Tahoe.zip",img:"Flavours-Tahoe.png",tag:"Tahoe"},
+  {name:"Flavours-Luxury",url:"Flavours-Luxury.zip",img:"Flavours-Luxury.png",tag:"Premium"},
+  {name:"Flavours-TahoeDisk",url:"Flavours-TahoeDisk.zip",img:"Flavours-TahoeDisk.png",tag:"Tahoe"},
+  {name:"Flavours-MyDisk",url:"Flavours-MyDisk.zip",img:"Flavours-MyDisk.png",tag:"Disk"},
+  {name:"Flavours-AppleIcons",url:"Flavours-AppleIcons.zip",img:"Flavours-AppleIcons.png",tag:"Apple"},
+  {name:"Flavours-SimpleRond",url:"Flavours-SimpleRond.zip",img:"Flavours-SimpleRond.png",tag:"Round"},
+  {name:"Flavours-Curvy",url:"Flavours-Curvy.zip",img:"Flavours-Curvy.png",tag:"Curve"},
+  {name:"Flavours-AppleBadge",url:"Flavours-AppleBadge.zip",img:"Flavours-AppleBadge.png",tag:"Apple"},
+  {name:"Flavours-Sequoia",url:"Flavours-Sequoia.zip",img:"Flavours-Sequoia.png",tag:"Sequoia"},
+  {name:"Flavours-MetalDisk",url:"Flavours-MetalDisk.zip",img:"Flavours-MetalDisk.png",tag:"Metal"},
+  {name:"Flavours-Diamond",url:"Flavours-Diamond.zip",img:"Flavours-Diamond.png",tag:"Diamond"},
+  {name:"Flavours-NewDisk",url:"Flavours-NewDisk.zip",img:"Flavours-NewDisk.png",tag:"Disk"},
+  {name:"Flavours-FrameApps",url:"Flavours-FrameApps.zip",img:"Flavours-FrameApps.png",tag:"Frame"},
+  {name:"Flavours-Apps",url:"Flavours-Apps.zip",img:"Flavours-Apps.png",tag:"Apps"},
+  {name:"Flavours-AppleSlimA",url:"Flavours-AppleSlimA.zip",img:"Flavours-AppleSlimA.png",tag:"Apple"},
+  {name:"Flavours-AppleSlim",url:"Flavours-AppleSlim.zip",img:"Flavours-AppleSlim.png",tag:"Apple"},
+  {name:"Flavours-Apple15",url:"Flavours-Apple15.zip",img:"Flavours-Apple15.png",tag:"Apple"},
+  {name:"Flavours-IconA",url:"Flavours-IconA.zip",img:"Flavours-IconA.png",tag:"Icons"},
+  {name:"Flavours-AppleBuild-3",url:"Flavours-AppleBuild-3.zip",img:"Flavours-AppleBuild-3.png",tag:"Apple"},
+  {name:"Flavours-AppleWave",url:"Flavours-AppleWave.zip",img:"Flavours-AppleWave.png",tag:"Apple"},
+  {name:"Flavours-AppleBuild",url:"Flavours-AppleBuild.zip",img:"Flavours-AppleBuild.png",tag:"Apple"},
+  {name:"AppleDev",url:"AppleDev.zip",img:"AppleDev.png",tag:"Dev"},
+  {name:"Flavours-4D",url:"Flavours-4D.zip",img:"Flavours-4D.png",tag:"4D"},
+  {name:"Flavours-ShadowSquare",url:"Flavours-ShadowSquare.zip",img:"Flavours-ShadowSquare.png",tag:"Shadow"},
+  {name:"Flavours-RoundSquare",url:"Flavours-RoundSquare.zip",img:"Flavours-RoundSquare.png",tag:"Round"},
+  {name:"Flavours-FadeDisk",url:"Flavours-FadeDisk.zip",img:"Flavours-FadeDisk.png",tag:"Fade"},
+  {name:"Flavours-Disk",url:"Flavours-Disk.zip",img:"Flavours-Disk.png",tag:"Disk"},
+  {name:"Flavours-iMac",url:"Flavours-iMac.zip",img:"Flavours-iMac.png",tag:"iMac"},
+  {name:"Flavours-Planet",url:"Flavours-Planet.zip",img:"Flavours-Planet.png",tag:"Space"},
+  {name:"Flavours-Stage",url:"Flavours-Stage.zip",img:"Flavours-Stage.png",tag:"Stage"},
+  {name:"Flavours-FadeIcon",url:"Flavours-FadeIcon.zip",img:"Flavours-FadeIcon.png",tag:"Fade"},
+  {name:"Flavours-FadeEdge",url:"Flavours-FadeEdge.zip",img:"Flavours-FadeEdge.png",tag:"Fade"},
+  {name:"GreySimpleRond",url:"GreySimpleRond.zip",img:"GreySimpleRond.png",tag:"Grey"},
+  {name:"Hacker",url:"Hacker.zip",img:"Hacker.png",tag:"Hacker"},
+  {name:"Flavours-Square",url:"Flavours-Square.zip",img:"Flavours-Square.png",tag:"Square"},
+  {name:"Flavours-AppleSquare",url:"Flavours-AppleSquare.zip",img:"Flavours-AppleSquare.png",tag:"Apple"},
+  {name:"AppleShadow",url:"AppleShadow.zip",img:"AppleShadow.png",tag:"Apple"},
+  {name:"Flavours-Incrusted",url:"Flavours-Incrusted.zip",img:"Flavours-Incrusted.png",tag:"3D"},
+  {name:"ApplePurple",url:"ApplePurple.zip",img:"ApplePurple.png",tag:"Apple"},
+  {name:"Flavours-AppleSide",url:"Flavours-AppleSide.zip",img:"Flavours-AppleSide.png",tag:"Apple"},
+  {name:"Flavours-Apple3D",url:"Flavours-Apple3D.zip",img:"Flavours-Apple3D.png",tag:"3D"},
+  {name:"Flavours-Apple",url:"Flavours-Apple.zip",img:"Flavours-Apple.png",tag:"Apple"},
+  {name:"Flavours-ShadowRing",url:"Flavours-ShadowRing.zip",img:"Flavours-ShadowRing.png",tag:"Shadow"},
+  {name:"Flavours-Christmas",url:"Flavours-Christmas.zip",img:"Flavours-Christmas.png",tag:"Seasonal"},
+  {name:"Flavours-Form",url:"Flavours-Form.zip",img:"Flavours-Form.png",tag:"Form"},
+  {name:"Flavours-NLight",url:"Flavours-NLight.zip",img:"Flavours-NLight.png",tag:"Neon"},
+  {name:"Apple-Fast",url:"Apple-Fast.zip",img:"Apple-Fast.png",tag:"Apple"},
+  {name:"Flavours-Flash",url:"Flavours-Flash.zip",img:"Flavours-Flash.png",tag:"Flash"},
+  {name:"Flavours-Rainbow",url:"Flavours-Rainbow.zip",img:"Flavours-Rainbow.png",tag:"Rainbow"},
+  {name:"Flavours-IOS",url:"Flavours-IOS.zip",img:"Flavours-IOS.png",tag:"iOS"},
+  {name:"Flavours-Titanium",url:"Flavours-Titanium.zip",img:"Flavours-Titanium.png",tag:"Metal"},
+  {name:"Titanium",url:"Titanium.zip",img:"Titanium.png",tag:"Metal"},
+  {name:"Flavours-BlackWhite",url:"Flavours-BlackWhite.zip",img:"Flavours-BlackWhite.png",tag:"Mono"},
+  {name:"Flavours-Dev",url:"Flavours-Dev.zip",img:"Flavours-Dev.png",tag:"Dev"},
+  {name:"Flavours-IOSDark",url:"Flavours-IOSDark.zip",img:"Flavours-IOSDark.png",tag:"iOS"},
+  {name:"Flavours-IOSWhite",url:"Flavours-IOSWhite.zip",img:"Flavours-IOSWhite.png",tag:"iOS"},
+  {name:"Flavours-GradientDark",url:"Flavours-GradientDark.zip",img:"Flavours-GradientDark.png",tag:"Gradient"},
+  {name:"Flavours-Silver",url:"Flavours-Silver.zip",img:"Flavours-Silver.png",tag:"Silver"},
+  {name:"Flavours-R-B",url:"Flavours-R-B.zip",img:"Flavours-R-B.png",tag:"Classic"},
+  {name:"Flavours-Ring",url:"Flavours-Ring.zip",img:"Flavours-Ring.png",tag:"Ring"},
+  {name:"Flavours-T",url:"Flavours-T.zip",img:"Flavours-T.png",tag:"Minimal"},
+  {name:"Flavours-Nice",url:"Flavours-Nice.zip",img:"Flavours-Nice.png",tag:"Nice"},
+  {name:"Flavours-BlueFull",url:"Flavours-BlueFull.zip",img:"Flavours-BlueFull.png",tag:"Blue"},
+  {name:"Flavours-BlueC",url:"Flavours-BlueC.zip",img:"Flavours-BlueC.png",tag:"Blue"},
+  {name:"Flavours-Alt",url:"Flavours-Alt.zip",img:"Flavours-Alt.png",tag:"Alt"},
+  {name:"Flavours-Free",url:"Flavours-Free.zip",img:"Flavours-Free.png",tag:"Free"},
+  {name:"Flavours-OC",url:"Flavours-OC.zip",img:"Flavours-OC.png",tag:"OC"},
+  {name:"Flavours-OS",url:"Flavours-OS.zip",img:"Flavours-OS.png",tag:"OS"},
+  {name:"Flavours-Drive",url:"Flavours-Drive.zip",img:"Flavours-Drive.png",tag:"Drive"},
+  {name:"Flavours-PerfectOS",url:"Flavours-PerfectOS.zip",img:"Flavours-PerfectOS.png",tag:"OS"},
+  {name:"Flavours-SmoothGrad",url:"Flavours-SmoothGrad.zip",img:"Flavours-SmoothGrad.png",tag:"Gradient"},
+  {name:"Flavours-C",url:"Flavours-C.zip",img:"Flavours-C.png",tag:"Minimal"},
+  {name:"Flavours-Sonoma14",url:"Flavours-Sonoma14.zip",img:"Flavours-Sonoma14.png",tag:"Sonoma"},
+  {name:"Flavours-Ventura13",url:"Flavours-Ventura13.zip",img:"Flavours-Ventura13.png",tag:"Ventura"},
+  {name:"AMD-Ryzen",url:"AMD-Ryzen.zip",img:"AMD-Ryzen.png",tag:"AMD"},
+  {name:"Flavours-CleanDark",url:"Flavours-CleanDark.zip",img:"Flavours-CleanDark.png",tag:"Dark"},
+  {name:"Flavours-Paper",url:"Flavours-Paper.zip",img:"Flavours-Paper.png",tag:"Paper"},
+  {name:"NaturaliMac",url:"NaturaliMac.zip",img:"https://user-images.githubusercontent.com/6248794/217108520-9b8fd2ff-11fd-4dfd-ba86-cdbc807fdb1a.png",tag:"Natural",external:true},
+  {name:"Flavours-Magnifico",url:"Flavours-Magnifico.zip",img:"https://user-images.githubusercontent.com/6248794/216704124-167c6d88-c244-426e-ba1a-a0882d67cae4.gif",tag:"Animated",external:true},
+  {name:"Flavours-AppleMonterey",url:"Flavours-AppleMonterey.zip",img:"Flavours-AppleMonterey.png",tag:"Monterey"},
+  {name:"NaturalMacBook",url:"NaturalMacBook.zip",img:"https://user-images.githubusercontent.com/6248794/215901767-bfc9da61-2c2c-4851-b2a7-5592a93486b5.gif",tag:"Natural",external:true},
+  {name:"PrimitiveMacDrive-3",url:"PrimitiveMacDrive-3.zip",img:"https://user-images.githubusercontent.com/6248794/212540372-60a193dc-7aef-4b77-a024-ba138435f15d.gif",tag:"Primitive",external:true},
+  {name:"PrimitiveMacDrive-2",url:"PrimitiveMacDrive-2.zip",img:"https://user-images.githubusercontent.com/6248794/212502148-c72b686a-c565-4eb5-be65-2a7a50442952.gif",tag:"Primitive",external:true},
+  {name:"PrimitiveMacDrive",url:"PrimitiveMacDrive.zip",img:"https://user-images.githubusercontent.com/6248794/212487344-d325e37a-f92e-40ff-8420-2d701556432f.gif",tag:"Primitive",external:true},
+  {name:"Primitive-MacPro",url:"Primitive-MacPro.zip",img:"https://user-images.githubusercontent.com/6248794/212458802-cc66afe6-3e93-4b6f-9eae-6014edc89fb3.gif",tag:"Primitive",external:true},
+  {name:"Primitive-MacProGrey",url:"Primitive-MacProGrey.zip",img:"https://user-images.githubusercontent.com/6248794/212474861-dcf1b470-c8e3-4973-92b5-18434906ac27.gif",tag:"Primitive",external:true},
+  {name:"PrimitiveMacPro",url:"PrimitiveMacPro.zip",img:"https://user-images.githubusercontent.com/6248794/212457498-f883ba95-efb1-45b2-8512-5c12a3181888.gif",tag:"Primitive",external:true},
+  {name:"PrimitiveMacProGrey",url:"PrimitiveMacProGrey.zip",img:"https://user-images.githubusercontent.com/6248794/212474862-be2e24ab-2619-4ae4-b723-76bfa1aa63b4.gif",tag:"Primitive",external:true},
+  {name:"Flavours-DarkSide",url:"Flavours-DarkSide.zip",img:"Flavours-DarkSide.png",tag:"Dark"},
+  {name:"Flavours-Gradient",url:"Flavours-Gradient.zip",img:"Flavours-Gradient.png",tag:"Gradient"},
+  {name:"Flavours-Mountain",url:"Flavours-Mountain.zip",img:"Flavours-Mountain.png",tag:"Nature"},
+  {name:"Flavours-D",url:"Flavours-D.zip",img:"Flavours-D.png",tag:"Minimal"},
+  {name:"Flavours-Wonderfull",url:"Flavours-Wonderfull.zip",img:"Flavours-Wonderfull.png",tag:"Art"},
+  {name:"Flavours-Frame",url:"Flavours-Frame.zip",img:"Flavours-Frame.png",tag:"Frame"},
+  {name:"Flavours-Blue",url:"Flavours-Blue.zip",img:"Flavours-Blue.png",tag:"Blue"},
+  {name:"Flavours-Design",url:"Flavours-Design.zip",img:"Flavours-Design.png",tag:"Design"},
+  {name:"Flavours-MacSystem",url:"Flavours-MacSystem.zip",img:"Flavours-MacSystem.png",tag:"Mac"},
+  {name:"Flavours-Border",url:"Flavours-Border.zip",img:"Flavours-Border.png",tag:"Border"},
+  {name:"Flavours-AppleCity",url:"Flavours-AppleCity.zip",img:"Flavours-AppleCity.png",tag:"Apple"},
+  {name:"Flavours-Mac",url:"Flavours-Mac.zip",img:"Flavours-Mac.png",tag:"Mac"},
+  {name:"Flavours-MacOS13",url:"Flavours-macOS13.zip",img:"Flavours-macOS13.png",tag:"Ventura"},
+  {name:"Flavours-macIOS",url:"Flavours-macIOS.zip",img:"Flavours-macIOS.png",tag:"iOS"},
+  {name:"Flavours-Metallic",url:"Flavours-Metallic.zip",img:"Flavours-Metallic.png",tag:"Metal"}
+];
+
+const BASE_URL = "https://github.com/chris1111/My-Simple-OC-Themes/releases/download/Archive_New-Themes/";
+const IMG_BASE = "https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/";
+
+const grid = document.getElementById('grid');
+const searchInput = document.getElementById('search');
+const filtersContainer = document.getElementById('filters');
+const visibleCount = document.getElementById('visibleCount');
+const themeCount = document.getElementById('themeCount');
+themeCount.textContent = themes.length;
+
+let currentFilter = 'all';
+let currentSearch = '';
+
+function getImageUrl(theme) {
+  if (theme.external) return theme.img;
+  return IMG_BASE + theme.img;
+}
+
+function getDownloadUrl(theme) {
+  return BASE_URL + theme.url;
+}
+
+function matchesFilter(theme, filter) {
+  if (filter === 'all') return true;
+  return theme.name.toLowerCase().includes(filter.toLowerCase()) ||
+         theme.tag.toLowerCase().includes(filter.toLowerCase());
+}
+
+function matchesSearch(theme, query) {
+  if (!query) return true;
+  return theme.name.toLowerCase().includes(query.toLowerCase()) ||
+         theme.tag.toLowerCase().includes(query.toLowerCase());
+}
+
+function renderGrid() {
+  const filtered = themes.filter(t =>
+    matchesFilter(t, currentFilter) && matchesSearch(t, currentSearch)
+  );
+  
+  visibleCount.textContent = filtered.length;
+  
+  if (filtered.length === 0) {
+    grid.innerHTML = `
+      <div class="no-results">
+        <i class="fa-regular fa-face-frown"></i>
+        <h3>No themes found</h3>
+        <p>Try a different search term or filter</p>
+      </div>
+    `;
+    return;
+  }
+  
+  grid.innerHTML = filtered.map((t, i) => `
+    <article class="theme-card" style="animation-delay: ${Math.min(i * 0.02, 0.6)}s">
+      <div class="theme-preview">
+        <span class="theme-tag">${t.tag}</span>
+        <img src="${getImageUrl(t)}" alt="${t.name}" loading="lazy" 
+             onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22400%22 height=%22250%22><rect width=%22400%22 height=%22250%22 fill=%22%23161d2e%22/><text x=%2250%25%22 y=%2250%25%22 font-family=%22Arial%22 font-size=%2216%22 fill=%22%236b7693%22 text-anchor=%22middle%22 dominant-baseline=%22middle%22>${t.name}</text></svg>'">
+      </div>
+      <div class="theme-info">
+        <div class="theme-name">${t.name}</div>
+        <div class="theme-meta">${t.url}</div>
+        <div class="theme-actions">
+          <a href="${getDownloadUrl(t)}" class="btn-download" target="_blank">
+            <i class="fa-solid fa-download"></i> Download
+          </a>
+        </div>
+      </div>
+    </article>
+  `).join('');
+}
+
+searchInput.addEventListener('input', e => {
+  currentSearch = e.target.value;
+  renderGrid();
+});
+
+filtersContainer.addEventListener('click', e => {
+  if (!e.target.classList.contains('chip')) return;
+  document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+  e.target.classList.add('active');
+  currentFilter = e.target.dataset.filter;
+  renderGrid();
+});
+
+// Back to top
+const backTop = document.getElementById('backTop');
+window.addEventListener('scroll', () => {
+  backTop.classList.toggle('visible', window.scrollY > 500);
+});
+backTop.addEventListener('click', () => window.scrollTo({top:0, behavior:'smooth'}));
+
+// Mobile nav toggle
+document.getElementById('navToggle').addEventListener('click', () => {
+  document.getElementById('navLinks').classList.toggle('open');
+});
+
+// Close mobile menu when a link is clicked
+document.querySelectorAll('.nav-links a').forEach(link => {
+  link.addEventListener('click', () => {
+    document.getElementById('navLinks').classList.remove('open');
+  });
+});
+
+renderGrid();
+</script>
+</body>
+</html>
