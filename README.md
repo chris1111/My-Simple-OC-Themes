@@ -30,7 +30,7 @@ For all requests concerning a macOS Sonoma 14 icons, please request it here ➥ 
 
 ### Downloads ➤ [Themes for OpenCore](https://github.com/chris1111/My-Simple-OC-Themes/releases/tag/Archive_New-Themes)
 
-### Downloads Themes ➤ [Without connected github account](https://htmlpreview.github.io/?https://github.com/chris1111/My-Simple-OC-Themes/blob/master/My%20Simple%20Theme%20OpenCore.html)
+### Downloads Themes ➤ [Without connected github account](https://chris1111.github.io/My-Simple-OC-Themes/)
 
 ### Downloads Using OC Themes Install ➤ [OC Themes Install](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/OC_Themes_Install.md)
 
